@@ -1,0 +1,32 @@
+[build]
+  command = "remix build"
+  publish = "public"
+
+[dev]
+  command = "remix watch"
+  port = 3000
+  
+[[redirects]]
+  from = "/media-kit"
+  to = "https://app.jeffamzn.com/campaign/f862f1e4-156d-40bf-8e44-23b62463988e/e0b14610-4448-4657-ae89-21598fe78de2"
+  status = 301
+
+[[redirects]]
+  from = "/rate-card"
+  to = "https://app.jeffamzn.com/campaign/f25acf35-9c3e-427b-acf5-fec6c921dee2/e0b14610-4448-4657-ae89-21598fe78de2"
+  status = 301
+
+[[redirects]]
+  from = "/sample-issue"
+  to = "https://app.jeffamzn.com/campaign/9f60dcc3-107c-4075-94a8-cb5c96a36423/e0b14610-4448-4657-ae89-21598fe78de2"
+  status = 301
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/server"
+  status = 200
+
+[[headers]]
+  for = "/build/*"
+  [headers.values]
+    "Cache-Control" = "public, max-age=31536000, s-maxage=31536000"

@@ -1,0 +1,316 @@
+.content-awu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content-awu b {
+  font-family: "bold";
+}
+.content-awu .logo {
+  background: none;
+  margin: 1.25rem 0 0 0;
+  width: 3.5rem;
+}
+.content-awu .logo img {
+  border-radius: 10rem;
+}
+.content-awu h1, .content-awu h2, .content-awu h3, .content-awu span {
+  text-align: left;
+  font-family: ku;
+  font-size: 3.75rem;
+}
+.content-awu h2 {
+  font-size: 3.75rem;
+  font-family: kl;
+}
+.content-awu h3 {
+  font-size: 2.75rem;
+}
+.content-awu h4 {
+  font-family: kl;
+  font-size: 1.4rem;
+}
+.content-awu p {
+  font-family: kl;
+  font-size: 1.2rem;
+}
+.content-awu .content-awu2 {
+  display: flex;
+  flex-direction: column;
+  margin: 3.5rem 5rem 2.5rem 5rem;
+}
+.content-awu .content-awu2 h1 {
+  padding-bottom: 4rem;
+}
+.content-awu .content-awu2 .text {
+  margin: 0;
+}
+.content-awu .content-awu2 .text h4 {
+  padding-bottom: 0.6rem;
+  color: rgb(198, 4, 36);
+}
+.content-awu .ads-carousel-txt {
+  display: flex;
+  flex-direction: row;
+}
+.content-awu .ads-carousel-txt .adsbox {
+  margin-top: 0;
+  margin-right: 0;
+  width: 35%;
+}
+.content-awu .ads-carousel-txt .adsbox ul {
+  padding-top: 2rem;
+  padding-left: 1.75rem;
+}
+.content-awu .ads-carousel-txt .adsbox ul li {
+  padding-bottom: 2.25rem;
+}
+.content-awu .ads-carousel-txt .adsbox .btn {
+  display: flex;
+  margin-top: 0rem;
+}
+.content-awu .ads-carousel-txt .adsbox .btn .pricebtn {
+  border-radius: 5rem;
+  padding: 1rem 1.75rem;
+  border: 0.15rem solid #000;
+  color: #000;
+  text-decoration: none;
+  font-size: 1.2rem;
+  background: transparent;
+  cursor: pointer;
+  font-family: bold;
+}
+.content-awu .ads-carousel-txt .adsbox .btn .pricebtn:hover {
+  background-color: #fafafa;
+  color: #000;
+}
+.content-awu .ads-carousel-txt .ads-carousel {
+  position: relative;
+  width: 35%;
+  overflow: hidden;
+  margin-left: 4rem;
+  margin-top: -7.5rem;
+}
+.content-awu .ads-carousel-txt .ads-carousel .carousel-track {
+  display: flex;
+  transition: transform 0.5s ease;
+  width: 100%;
+  padding-left: 0.2rem;
+}
+.content-awu .ads-carousel-txt .ads-carousel .carousel-slide {
+  flex: 0 0 100%;
+  box-sizing: border-box;
+}
+.content-awu .ads-carousel-txt .ads-carousel .box {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  border-radius: 0.25rem;
+}
+.content-awu .ads-carousel-txt .ads-carousel .box img {
+  width: 60%;
+  border-radius: 2.5rem;
+}
+.content-awu .ads-carousel-txt .ads-carousel .box h1 {
+  text-align: center;
+  font-size: 1.25rem;
+  padding-top: 2rem;
+  padding-bottom: 0.75rem;
+  margin: 0 auto;
+  font-family: bold;
+}
+.content-awu .ads-carousel-txt .ads-carousel .box p {
+  text-align: center;
+  color: #7a7a7a;
+  margin: 0;
+  flex-grow: 1;
+}
+.content-awu .ads-carousel-txt .ads-carousel .carousel-button {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  font-size: 2rem;
+  z-index: 2;
+}
+.content-awu .ads-carousel-txt .ads-carousel .carousel-button.prev {
+  left: 0.5rem;
+}
+.content-awu .ads-carousel-txt .ads-carousel .carousel-button.next {
+  right: 0.5rem;
+}
+.content-awu .content-awu6 {
+  margin: 12rem 5rem 3rem 5rem;
+}
+.content-awu .content-awu6 .header {
+  display: flex;
+  flex-direction: column;
+}
+.content-awu .content-awu6 .header h4 {
+  padding-bottom: 0.6rem;
+  margin-left: 0;
+  color: rgb(198, 4, 36);
+}
+.content-awu .content-awu6 .header h3 {
+  margin-left: 0;
+}
+.content-awu .content-awu6 .header p {
+  margin-left: 0;
+  margin-top: 0.65rem;
+  font-size: 1rem;
+}
+.content-awu .btn {
+  display: flex;
+  margin-top: 9rem;
+}
+.content-awu .btn .pricebtn {
+  border-radius: 5rem;
+  padding: 1rem 1.75rem;
+  border: 0.15rem solid #000;
+  color: #000;
+  text-decoration: none;
+  font-size: 1.2rem;
+  background: transparent;
+  cursor: pointer;
+  font-family: bold;
+}
+.content-awu .btn .pricebtn:hover {
+  background-color: #fafafa;
+  color: #000;
+}
+
+@media (min-width: 875px) and (max-width: 1100px) {
+  .content-awu .content-awu2 {
+    flex-direction: column;
+    padding-bottom: 2rem;
+  }
+  .content-awu .content-awu2 p {
+    margin-left: 0;
+    width: 100%;
+  }
+  .content-awu .ads-carousel {
+    margin: 0 auto;
+    width: 25%;
+  }
+  .content-awu .ads-carousel .box img {
+    width: 60%;
+    border-radius: 1rem;
+  }
+  .content-awu .ads-carousel .carousel-button {
+    top: 40%;
+  }
+}
+@media (min-width: 660px) and (max-width: 874px) {
+  .content-awu .content-awu2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 2rem;
+  }
+  .content-awu .content-awu2 p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  .content-awu .ads-carousel-txt {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .content-awu .ads-carousel-txt .adsbox {
+    flex-direction: column;
+    margin-left: 0rem;
+    width: 60%;
+  }
+  .content-awu .ads-carousel-txt .adsbox ul {
+    padding-top: 2rem;
+    padding-left: 1.75rem;
+  }
+  .content-awu .ads-carousel-txt .adsbox ul li {
+    padding-bottom: 2.25rem;
+  }
+  .content-awu .ads-carousel-txt .adsbox .btn {
+    display: flex;
+    margin-top: 0rem;
+  }
+  .content-awu .ads-carousel-txt .ads-carousel {
+    display: none;
+  }
+  .content-awu .content-awu3 .grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media (max-width: 659px) {
+  .content-awu h3 {
+    font-size: 1.5rem;
+  }
+  .content-awu h4 {
+    font-size: 1rem;
+  }
+  .content-awu .content-awu2 {
+    display: flex;
+    flex-direction: column;
+    margin: 3.25rem 1.25rem 0 1.25rem;
+  }
+  .content-awu .content-awu2 h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .content-awu .content-awu2 .text {
+    display: flex;
+    flex-direction: column;
+  }
+  .content-awu .content-awu2 .text h3, .content-awu .content-awu2 .text h4 {
+    text-align: left;
+    margin: 0;
+  }
+  .content-awu .content-awu2 p {
+    display: none;
+  }
+  .content-awu .ads-carousel-txt {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .content-awu .ads-carousel-txt p {
+    text-align: left;
+  }
+  .content-awu .ads-carousel-txt .adsbox {
+    flex-direction: column;
+    margin-left: 0rem;
+    width: 90%;
+  }
+  .content-awu .ads-carousel-txt .adsbox ul {
+    padding-top: 2rem;
+    padding-left: 1.75rem;
+  }
+  .content-awu .ads-carousel-txt .adsbox ul li {
+    padding-bottom: 2.25rem;
+  }
+  .content-awu .ads-carousel-txt .adsbox .btn {
+    display: flex;
+    margin-top: 1rem;
+  }
+  .content-awu .ads-carousel-txt .ads-carousel {
+    display: none;
+  }
+  .content-awu .content-awu6 {
+    margin: 4rem 1.25rem -3rem 1.25rem;
+  }
+  .content-awu .content-awu6 .header {
+    margin-bottom: 1.5rem;
+  }
+  .content-awu .content-awu6 .grid {
+    margin: 0rem;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .btn {
+    margin-top: 0rem;
+    margin-bottom: 6rem;
+  }
+}
+
+/*# sourceMappingURL=advertise.css.map */

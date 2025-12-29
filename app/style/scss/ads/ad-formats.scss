@@ -1,0 +1,255 @@
+.content-adformats{
+      display:flex;
+    flex-direction: column;
+    align-items: center;
+    b{
+        font-family:'bold';
+    }
+    .logo{
+        background:none;
+        margin:1.25rem 0 0 0rem;
+        width: 3.5rem;
+        img{
+        border-radius: 10rem;
+        }
+    }
+    h1, h2, h3, span{
+        text-align: left;
+        font-family: ku;
+        font-size:3.75rem;
+    }
+    h2 {
+        font-size:3.75rem;
+        font-family: kl;
+    }
+    h3 {
+        font-size:2.75rem;
+    }
+    h4{
+      font-family: kl;
+      font-size:1.4rem;
+      }
+    p{
+        font-family:kl;
+    }
+.content-awu3{
+  .header{
+  margin:9rem 5rem 3rem 5rem;
+  display:flex;
+  flex-direction:column;
+  h4{
+    padding-bottom:.6rem;
+    margin-left:0;
+    color:rgb(198, 4, 36);
+  }
+  h3{
+    margin-left: 0;
+  }
+ }
+.grid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 0 5rem;
+  .box {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    text-align: left;
+    height: 100%;
+    background:#000;
+    padding:1rem 1rem 1.5rem 1rem;
+    border-radius: .5rem;
+    img {
+      border-radius: 0.5rem;
+      width: 42.5%;
+      height: auto;
+    }
+    h1 {
+      font-size: 1.25rem;
+      padding-top: 1rem;
+      padding-bottom: 0.75rem;
+      font-family: bold;
+      color:#fff;
+      text-align: center;
+    }
+    p {
+      color: #cfcfcf;
+      flex-grow: 1;
+      text-align: center;
+      width:60%;
+    }
+  }
+}
+}
+.content-awu3:nth-child(2){
+  .header{
+    margin-top:2rem;
+  }
+  .grid{
+
+  .box {
+    img {
+      width: 100%;
+    }
+    h1 {
+      text-align: left;
+      margin:0;
+    }
+    p {
+      text-align: left;
+      width: 100%;
+    }
+  }
+}
+}
+.content-awu4{
+  margin:9rem 5rem 3rem 5rem;
+.header{
+  display:flex;
+  flex-direction:column;
+  margin-bottom: 3rem;
+  h4{
+    padding-bottom:.6rem;
+    margin-left:0;
+    color:rgb(198, 4, 36);
+  }
+  h3{
+    margin-left: 0;
+  }
+ }
+  .box {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    text-align: center;
+    height: 100%;
+    background:#000;
+    padding:1rem 1rem 1.5rem 1rem;
+    border-radius: .5rem;
+    img {
+      border-radius: 0.5rem;
+      width: 22.5%;
+      height: auto;
+    }
+
+    h1 {
+      font-size: 1.25rem;
+      padding-top: 1rem;
+      padding-bottom: 0.75rem;
+      margin: 0;
+      font-family: bold;
+      color:#fff;
+      text-align: center;
+    }
+    p {
+      color: #cfcfcf;
+      flex-grow: 1;
+      width:40%;
+      text-align: center;
+    }
+  }
+}
+  .btn { 
+    display: flex;
+    margin-top:9rem;
+    .pricebtn {
+    border-radius: 5rem;
+    padding: 1rem 1.75rem;
+    border: 0.15rem solid #000;
+    color: #000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    background: transparent;
+    cursor: pointer;
+    font-family:bold;
+
+    &:hover {
+      background-color: #fafafa;
+      color: #000;
+    }
+  }
+}
+}
+
+@media (min-width: 660px) and (max-width: 874px) {
+.content-adformats{
+.content-awu3{
+  margin-top:3rem;
+  .header{
+  margin:1.25rem;
+}
+.grid{
+  margin:1.25rem;
+  grid-template-columns: repeat(1, 1fr);
+  .box{
+  p {
+      width:92.5%;
+    }
+}
+}
+}
+.content-awu4{
+  margin:3rem 1.25rem 0 1.25rem;
+.header{
+  margin-bottom: 1.5rem;
+}
+
+.grid{
+  margin:0rem;
+  grid-template-columns: repeat(1, 1fr);
+  .box{
+  img {
+      width: 42.5%;
+    }
+  p {
+      width:92.5%;
+    }
+}
+}
+}
+}
+}
+@media (max-width: 659px) {
+.content-adformats{
+   h3{
+      font-size:1.65rem;
+  }
+  h4{
+      font-size:1rem;
+    }
+.content-awu3{
+  margin-top:3rem;
+  .header{
+  margin:1.25rem;
+}
+.grid{
+  margin:1.25rem;
+  grid-template-columns: repeat(1, 1fr);
+.box{
+   p {
+      width:92.5%;
+    }
+}
+}
+}
+.content-awu4{
+  margin:3rem 1.25rem 0 1.25rem;
+.header{
+  margin-bottom: 1.5rem;
+}
+.grid{
+  margin:0rem;
+  grid-template-columns: repeat(1, 1fr);
+.box{
+      img {
+      width: 42.5%;
+    }
+   p {
+      width:92.5%;
+    }
+}
+}
+}
+}
+}
