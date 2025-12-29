@@ -39,13 +39,13 @@
   display: flex;
   flex-direction: row;
   margin-left: 0;
-  margin-bottom: 4rem;
+  margin-bottom: 6rem;
 }
 .container .content .inner-content {
   display: flex;
   flex-direction: column;
   margin-left: 5rem;
-  margin-top: 4rem;
+  margin-top: 5rem;
 }
 .container .content .inner-content .text h1 {
   margin-left: 0;
@@ -145,7 +145,7 @@
   }
 }
 .container .inner-content3 .header {
-  margin: 9rem 5rem 3rem 5rem;
+  margin: 11rem 5rem 3rem 5rem;
   display: flex;
   flex-direction: column;
 }
@@ -219,32 +219,6 @@
   }
   100% {
     background-position: 200% 0;
-  }
-}
-.container .fade-in {
-  animation: scrollFadeIn 0.55s ease-in-out forwards;
-}
-.container .fade-out {
-  animation: scrollFadeOut 10s ease-out forwards;
-}
-@keyframes scrollFadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(40%) scale(1.02);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0%) scale(1);
-  }
-}
-@keyframes scrollFadeOut {
-  from {
-    opacity: 1;
-    transform: translateY(0%) scale(1);
-  }
-  to {
-    opacity: 0;
-    transform: translateY(-40%) scale(0.98);
   }
 }
 

@@ -28,7 +28,7 @@ export default function Index() {
           <div className="text">
             <h4>SHILLL</h4>
             <h1>A family of newsletters.</h1>
-            <p>Subscribe to stay ahead 🚀</p>
+            <p>Subscribe to stay informed 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
