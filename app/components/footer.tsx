@@ -14,7 +14,7 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-          <p>Subscribe to stay informed 🚀</p>
+    <p>Subscribe to stay ahead 🚀</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
@@ -35,7 +35,7 @@ export default function Footer() {
   <div className="column">
     <h4>Company</h4>
     <Link to="/">Home</Link>
-    <a title="get in touch" href="mailto:chris@jeffamazon.com"  rel="noopener noreferrer">Get in touch</a>
+    <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch</a>
   </div>
 </div>
 </div>

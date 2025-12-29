@@ -37,10 +37,10 @@ function Footer() {
           lineNumber: 16,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Sign up to stay informed about SHILLL" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Subscribe to stay ahead \u{1F680}" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 17,
-          columnNumber: 11
+          columnNumber: 5
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("form", { method: "post", action: "https://app.jeffamzn.com/subscription/form", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "input-wrapper", children: [
@@ -117,7 +117,7 @@ function Footer() {
             lineNumber: 37,
             columnNumber: 5
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "get in touch", href: "mailto:chris@jeffamazon.com", rel: "noopener noreferrer", children: "Get in touch" }, void 0, false, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "get in touch", href: "mailto:chris@shilll.com", rel: "noopener noreferrer", children: "Get in touch" }, void 0, false, {
             fileName: "app/components/footer.tsx",
             lineNumber: 38,
             columnNumber: 5
@@ -200,7 +200,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-KCGNXSGJ.css";
+var global_default = "/build/_assets/global-2YIZO3KL.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -283,4 +283,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-7LEVAAWZ.js.map
+//# sourceMappingURL=/build/root-EB2Y4L5F.js.map

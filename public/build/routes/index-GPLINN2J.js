@@ -38,12 +38,12 @@ function Index() {
           lineNumber: 31,
           columnNumber: 13
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "A family of quick and enjoyable newsletters." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "A family of newsletters." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 32,
           columnNumber: 13
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Subscribe to stay informed \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Subscribe to stay ahead \u{1F680}" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 33,
           columnNumber: 13
@@ -102,11 +102,12 @@ function Index() {
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
         "A family of ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "newsletters." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "quick and enjoyable" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 47,
           columnNumber: 23
-        }, this)
+        }, this),
+        " newsletters that are seriously fun to read."
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
         lineNumber: 47,
@@ -135,4 +136,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-6E7TPVHS.js.map
+//# sourceMappingURL=/build/routes/index-GPLINN2J.js.map
