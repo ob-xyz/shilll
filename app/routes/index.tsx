@@ -1,9 +1,7 @@
 import { useEffect } from "react";
 
 import logo from "~/../public/img/ja1.png";
-import sama from "~/../public/img/samae.jpg";
-import tobi from "~/../public/img/tobic.jpg";
-import jensen from "~/../public/img/jensene.jpg";
+import convertads from "~/../public/img/convertads.jpg";
 
 export default function Index() {
     useEffect(() => {
@@ -49,6 +47,24 @@ export default function Index() {
       <p>Shilll designs and delivers the world's most enjoyable newsletters, meticulously engineered to be engagingly quick and informatively fun.</p>
       </a>
       </div>
+       <div className="inner-content3">
+      <div className="header">
+          <h4>GET STARTED</h4>
+          <h3>Build your own empire</h3>
+      </div>
+      <div className="grid">
+      <div className="box">
+        <h1>Build</h1>
+        <p>Want to start & build a newsletter with us?</p>
+        <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch →</a>
+      </div>
+      <div className="box">
+        <h1>Grow</h1>
+        <p>Raising funding? We're occasional investors.</p>
+        <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch →</a>
+      </div>
+      </div>
+    </div>
     </div>
   );
 }
