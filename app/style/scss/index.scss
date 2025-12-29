@@ -38,12 +38,12 @@
   display:flex;
   flex-direction:row;
   margin-left:0;
-  margin-bottom:6rem;
+  margin-bottom:0rem;
 .inner-content{
       display: flex;
       flex-direction: column;
       margin-left:5rem;
-      margin-top:5rem;
+      margin-top:2.5rem;
 .text{
     h1{
         margin-left:0;
@@ -105,9 +105,14 @@ button.submit {
 }
 }
   }
+  .inner-content1{
+    img{
+      margin-left: 0rem;
+      width: 70%;
+    }
+  }
 }
 .inner-content2{
-  margin-top:2.5rem;
   background:#02090A;
   border-top-left-radius:3rem;
   border-top-right-radius:3rem;
@@ -202,7 +207,7 @@ p {
       font-size:1.5rem;
       color: #cfcfcf; //fb
       background:#cfcfcf;
-      transition: all .9s ease-in-out;
+      transition: all .2s ease-in-out;
       background-image: linear-gradient(90deg, #ff8738, #ff0044);
       background-size: 0% 100%;
       background-repeat: no-repeat;

@@ -39,13 +39,13 @@
   display: flex;
   flex-direction: row;
   margin-left: 0;
-  margin-bottom: 6rem;
+  margin-bottom: 0rem;
 }
 .container .content .inner-content {
   display: flex;
   flex-direction: column;
   margin-left: 5rem;
-  margin-top: 5rem;
+  margin-top: 2.5rem;
 }
 .container .content .inner-content .text h1 {
   margin-left: 0;
@@ -102,8 +102,11 @@
   background-color: #F5F5F5;
   cursor: pointer;
 }
+.container .content .inner-content1 img {
+  margin-left: 0rem;
+  width: 70%;
+}
 .container .inner-content2 {
-  margin-top: 2.5rem;
   background: #02090A;
   border-top-left-radius: 3rem;
   border-top-right-radius: 3rem;
@@ -199,7 +202,7 @@
   font-size: 1.5rem;
   color: #cfcfcf;
   background: #cfcfcf;
-  transition: all 0.9s ease-in-out;
+  transition: all 0.2s ease-in-out;
   background-image: linear-gradient(90deg, #ff8738, #ff0044);
   background-size: 0% 100%;
   background-repeat: no-repeat;

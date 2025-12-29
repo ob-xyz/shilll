@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 
 import logo from "~/../public/img/ja1.png";
-import convertads from "~/../public/img/convertads.jpg";
+import header from "~/../public/img/ja3.png";
 
 export default function Index() {
     useEffect(() => {
@@ -21,7 +21,7 @@ export default function Index() {
   return (
     <div className="container">
       <div className="logo">
-        <img src={logo} alt="Jeffamazon Logo" />
+        <img src={logo} alt="Shilll Logo" />
       </div>
       <div className="content">
         <div className="inner-content">
@@ -40,11 +40,14 @@ export default function Index() {
         <input type="hidden" name="nonce" />
       </form>
         </div>
+        <div className="inner-content1">
+            <img src={header} alt="Jeffamazon newsletter image" />
+        </div>
       </div>
       <div className="inner-content2">
-      <h2>Our newsletters are <span>quick, enjoyable, and seriously fun</span> to read.</h2>
+      <h2>Our newsletters are <span>enjoyable</span> to read.</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll designs and delivers the world's most enjoyable newsletters, meticulously engineered to be engagingly quick and informatively fun.</p>
+      <p>Shilll designs and delivers the world's most enjoyable newsletters, meticulously engineered to be informatively quick and seriously fun.</p>
       </a>
       </div>
        <div className="inner-content3">
