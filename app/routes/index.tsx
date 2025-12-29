@@ -42,7 +42,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>A family of <span>quick and enjoyable</span> newsletters that are seriously fun to read.</h2>
+      <h2>Our newsletters are <span>quick, enjoyable, and seriously fun</span> to read.</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll designs and delivers the world's most enjoyable newsletters, meticulously engineered to be engagingly quick and informatively fun.</p>
       </a>
