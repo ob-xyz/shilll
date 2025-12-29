@@ -11,7 +11,7 @@ import {
 var import_react = __toESM(require_react());
 
 // public/img/ja3.png
-var ja3_default = "/build/_assets/ja3-SXRYJLZ5.png";
+var ja3_default = "/build/_assets/ja3-WDJPVYRN.png";
 
 // app/routes/index.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -222,4 +222,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-B5B4LTSA.js.map
+//# sourceMappingURL=/build/routes/index-LL2JA7YH.js.map

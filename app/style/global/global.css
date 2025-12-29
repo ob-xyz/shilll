@@ -78,7 +78,7 @@
 }
 .container .content .inner-content .text h1 {
   margin-left: 0;
-  width: 75%;
+  width: 85%;
 }
 .container .content .inner-content .text p {
   text-align: left;
@@ -132,8 +132,7 @@
   cursor: pointer;
 }
 .container .content .inner-content1 img {
-  margin-left: 0rem;
-  width: 70%;
+  width: 81%;
 }
 .container .inner-content2 {
   background: #02090A;
@@ -369,6 +368,9 @@
   .container .logo {
     margin-left: 1rem;
   }
+  .container .content {
+    flex-direction: column;
+  }
   .container .content .inner-content {
     margin-left: 1rem;
   }
@@ -387,8 +389,14 @@
   .container .content .inner-content form .input-wrapper {
     width: 22rem;
   }
+  .container .content .inner-content1 {
+    margin-top: 4rem;
+  }
   .container .content .inner-content1 img {
-    display: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 67.5%;
   }
   .container .inner-content2 {
     margin-left: 0;

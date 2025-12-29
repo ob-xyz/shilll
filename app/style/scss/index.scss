@@ -47,7 +47,7 @@
 .text{
     h1{
         margin-left:0;
-        width:75%;
+        width:85%;
     }
     p{
         text-align: left;
@@ -107,8 +107,7 @@ button.submit {
   }
   .inner-content1{
     img{
-      margin-left: 0rem;
-      width: 70%;
+      width: 81%;
     }
   }
 }
@@ -371,6 +370,7 @@ form {
     margin-left:1rem;
   }
 .content{
+  flex-direction: column;
 .inner-content{
         margin-left:1rem;
     .text{
@@ -393,11 +393,15 @@ form {
   }
     }
   }
-  .inner-content1{
-  img{
-    display: none;
+.inner-content1 {
+  margin-top: 4rem;
+  img {
+    display: block;        // Required for margin: auto to work on an image
+    margin-left: auto;
+    margin-right: auto;
+    width: 67.5%;
   }
- }
+}
 }
 .inner-content2{
   margin-left:0;
