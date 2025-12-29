@@ -359,9 +359,7 @@
     width: 22rem;
   }
   .container .content .inner-content1 img {
-    width: 90%;
-    margin-bottom: -10rem;
-    margin-left: 1rem;
+    display: none;
   }
   .container .inner-content2 {
     margin-left: 0;
