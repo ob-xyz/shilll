@@ -169,14 +169,6 @@
   -webkit-text-fill-color: transparent;
   animation: shimmer 1.5s linear infinite;
 }
-@keyframes shimmer {
-  0% {
-    background-position: -100% 0;
-  }
-  to {
-    background-position: 200% 0;
-  }
-}
 .container .inner-content3 .header {
   margin: 9rem 5rem 3rem;
   display: flex;
@@ -231,9 +223,29 @@
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
+  color: #cfcfcf;
+  background: #cfcfcf;
+  transition: all .9s ease-in-out;
+  background-image: linear-gradient(90deg, #ff8738, #ff0044);
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  background-position: left;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
 }
 .container .inner-content3 .grid .box a:hover {
-  opacity: .85;
+  background-size: 100% 100%;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 1.5s linear infinite;
+}
+@keyframes shimmer {
+  0% {
+    background-position: -100% 0;
+  }
+  to {
+    background-position: 200% 0;
+  }
 }
 .container .fade-in {
   animation: scrollFadeIn .55s ease-in-out forwards;
