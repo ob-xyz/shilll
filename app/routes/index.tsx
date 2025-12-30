@@ -53,7 +53,7 @@ export default function Index() {
        <div className="inner-content3">
       <div className="header">
           <h4>Get started</h4>
-          <h3>Build your own empire</h3>
+          <h3>Build your own news empire</h3>
       </div>
       <div className="grid">
       <div className="box">

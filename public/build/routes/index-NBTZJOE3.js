@@ -150,7 +150,7 @@ function Index() {
           lineNumber: 55,
           columnNumber: 11
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h3", { children: "Build your own empire" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h3", { children: "Build your own news empire" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 56,
           columnNumber: 11
@@ -222,4 +222,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-IP6YTPDY.js.map
+//# sourceMappingURL=/build/routes/index-NBTZJOE3.js.map
