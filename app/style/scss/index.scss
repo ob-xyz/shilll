@@ -109,6 +109,7 @@ button.submit {
   .inner-content1{
     img{
       margin-left:3.5rem;
+      margin-bottom: -1rem;
       width: 81%;
     }
   }
@@ -264,7 +265,8 @@ form {
   }
   .inner-content1{
     width: 100%;
-    margin-left: 5rem;
+    margin-left: 0.5rem;
+    margin-bottom: .75rem;
   }
 }
 .inner-content2{
@@ -298,6 +300,7 @@ form {
     .text{
       h1{
         font-size:3.5rem;
+        width:75%;
       }
       p{
         padding-top:2.5rem;
@@ -313,8 +316,9 @@ form {
   }
 .inner-content1{
   img{
-    width: 100%;
-    margin-bottom: -10rem;
+    width: 90%;
+    margin-left:1.5rem;
+    margin-bottom: -12.5rem;
   }
  }
 }
@@ -370,7 +374,7 @@ form {
     .text{
       h1{
         font-size:3rem;
-        width:90%;
+        width:70%;
       }
       p{
         padding-top:1.5rem;
