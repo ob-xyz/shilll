@@ -47,7 +47,7 @@ export default function Index() {
       <div className="inner-content2">
       <h2>Elevate your life with <span>just one newsletter</span></h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll helps you scroll less and live more so you can start elevating your life every day. Our 1-minute newsletters are meticulously designed to be informative and fun.</p>
+      <p>Shilll helps you scroll less and live more so you can start to elevate your life every day. Our 1-minute newsletters are meticulously designed to be informatively quick and terribly fun.</p>
       </a>
       </div>
        <div className="inner-content3">
