@@ -336,7 +336,7 @@
   }
   .container .content .inner-content {
     margin-left: 1rem;
-    margin-top: 0rem;
+    margin-top: 1rem;
   }
   .container .content .inner-content .text h4 {
     font-size: 1.35rem;
@@ -354,7 +354,7 @@
     width: 22rem;
   }
   .container .content .inner-content1 {
-    margin-top: 3rem;
+    margin-top: 2.5rem;
   }
   .container .content .inner-content1 img {
     display: block;
