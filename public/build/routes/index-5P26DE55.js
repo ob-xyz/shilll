@@ -44,7 +44,7 @@ function Index() {
             lineNumber: 29,
             columnNumber: 13
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "A family of newsletters." }, void 0, false, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "A family of newsletters" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 30,
             columnNumber: 13
@@ -222,4 +222,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-NBTZJOE3.js.map
+//# sourceMappingURL=/build/routes/index-5P26DE55.js.map
