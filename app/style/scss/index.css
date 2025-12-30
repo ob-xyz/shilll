@@ -29,7 +29,8 @@
 }
 .container h4 {
   font-family: kl;
-  font-size: 1.25rem;
+  font-size: 1.35rem;
+  color: rgb(198, 4, 36);
 }
 .container p {
   font-family: kl;
@@ -228,9 +229,6 @@
   .container h3 {
     font-size: 2.75rem;
   }
-  .container h4 {
-    font-size: 1rem;
-  }
   .container .logo {
     margin-left: 2.5rem;
   }
@@ -271,9 +269,6 @@
 @media (min-width: 660px) and (max-width: 874px) {
   .container h3 {
     font-size: 2.75rem;
-  }
-  .container h4 {
-    font-size: 1.1rem;
   }
   .container .logo {
     margin-left: 2.5rem;
@@ -333,9 +328,6 @@
   .container h3 {
     font-size: 2.25rem;
   }
-  .container h4 {
-    font-size: 1.1rem;
-  }
   .container .logo {
     margin-left: 1rem;
   }
@@ -346,7 +338,7 @@
     margin-left: 1rem;
   }
   .container .content .inner-content .text h4 {
-    font-size: 0.825rem;
+    font-size: 1.35rem;
   }
   .container .content .inner-content .text h1 {
     font-size: 2.25rem;
@@ -354,20 +346,20 @@
   .container .content .inner-content .text p {
     padding-top: 1.5rem;
     padding-bottom: 0.5rem;
-    font-size: 1.25rem;
+    font-size: 1.35rem;
     width: 90%;
   }
   .container .content .inner-content form .input-wrapper {
     width: 22rem;
   }
   .container .content .inner-content1 {
-    margin-top: 4rem;
+    margin-top: 2rem;
   }
   .container .content .inner-content1 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 67.5%;
+    width: 90%;
   }
   .container .inner-content2 {
     margin-left: 0;

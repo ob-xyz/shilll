@@ -28,14 +28,14 @@ export default function Footer() {
 
 <div className="footer-links">
   <div className="column">
-    <h4>Newsletters</h4>
-            <a title="Jeffamazon" href="https://jeffamazon.com"  rel="noopener noreferrer">Jeffamazon</a>
-              <a title="The Poast" href="https://thepoast.com"  rel="noopener noreferrer">The Poast</a>
-  </div>
-  <div className="column">
     <h4>Company</h4>
     <Link to="/">Home</Link>
     <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch</a>
+  </div>
+  <div className="column">
+    <h4>Newsletters</h4>
+            <a title="Jeffamazon" href="https://jeffamazon.com"  rel="noopener noreferrer">Jeffamazon</a>
+              <a title="The Poast" href="https://thepoast.com"  rel="noopener noreferrer">The Poast</a>
   </div>
 </div>
 </div>

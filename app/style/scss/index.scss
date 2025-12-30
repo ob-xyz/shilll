@@ -28,7 +28,8 @@
     }
     h4{
       font-family: kl;
-      font-size:1.25rem;
+      font-size:1.35rem;
+      color:rgb(198, 4, 36);
       }
     p{
         font-family:kl;
@@ -238,9 +239,6 @@ p {
   h3{
       font-size:2.75rem;
   }
-  h4{
-      font-size:1rem;
-    }
   .logo{
     margin-left:2.5rem;
   }
@@ -290,9 +288,6 @@ form {
   h3{
       font-size:2.75rem;
   }
-  h4{
-      font-size:1.1rem;
-    }
   .logo{
     margin-left:2.5rem;
   }
@@ -363,9 +358,6 @@ form {
   h3{
       font-size:2.25rem;
   }
-  h4{
-      font-size:1.1rem;
-    }
   .logo{
     margin-left:1rem;
   }
@@ -375,7 +367,7 @@ form {
         margin-left:1rem;
     .text{
       h4{
-          font-size:.825rem;
+          font-size:1.35rem;
         }
       h1{
         font-size:2.25rem;
@@ -383,7 +375,7 @@ form {
       p{
         padding-top:1.5rem;
         padding-bottom:.5rem;
-        font-size:1.25rem;
+        font-size:1.35rem;
         width:90%;
       }
     }
@@ -394,12 +386,12 @@ form {
     }
   }
 .inner-content1 {
-  margin-top: 4rem;
+  margin-top: 2rem;
   img {
-    display: block;        // Required for margin: auto to work on an image
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 67.5%;
+    width: 90%;
   }
 }
 }

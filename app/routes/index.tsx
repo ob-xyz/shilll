@@ -52,7 +52,7 @@ export default function Index() {
       </div>
        <div className="inner-content3">
       <div className="header">
-          <h4>GET STARTED</h4>
+          <h4>Get started</h4>
           <h3>Build your own empire</h3>
       </div>
       <div className="grid">
