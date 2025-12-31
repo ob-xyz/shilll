@@ -220,7 +220,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Scroll Less. Live More.",
+  description: "Elevate Your Life.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -283,4 +283,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-4JX73O3H.js.map
+//# sourceMappingURL=/build/root-SITKWAQS.js.map
