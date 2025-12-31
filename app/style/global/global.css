@@ -46,11 +46,11 @@
   font-size: 4.5rem;
 }
 .container h2 {
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   font-family: kl;
 }
 .container h2 span {
-  font-size: 4rem;
+  font-size: 5.5rem;
   font-family: ku;
 }
 .container h3 {
@@ -79,7 +79,7 @@
 }
 .container .content .inner-content .text h1 {
   margin-left: 0;
-  width: 100%;
+  width: 90%;
 }
 .container .content .inner-content .text p {
   text-align: left;
@@ -97,7 +97,7 @@
 }
 .container .content .inner-content form .input-wrapper {
   position: relative;
-  width: 29rem;
+  width: 31rem;
 }
 .container .content .inner-content form input.email {
   width: 100%;
@@ -133,9 +133,9 @@
   cursor: pointer;
 }
 .container .content .inner-content1 img {
-  margin-left: 3.5rem;
+  margin-left: 2.5rem;
   margin-bottom: -1rem;
-  width: 81%;
+  width: 87.5%;
 }
 .container .inner-content2 {
   background: #02090A;

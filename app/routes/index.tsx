@@ -27,8 +27,8 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h4>Elevate Your Life</h4>
-            <h1>Scroll Less. Live More.</h1>
-            <p>Shilll is a company for people who want to actually live more. Subscribe to stay informed 🚀</p>
+            <h1>Live More. Do More.</h1>
+            <p>Shilll is a place for people who just want to live and do more. Subscribe to stay informed 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
