@@ -28,7 +28,7 @@ export default function Index() {
           <div className="text">
             <h4>Elevate Your Life</h4>
             <h1>Scroll Less. Live More.</h1>
-            <p>Subscribe to stay informed 🚀</p>
+            <p>Shilll is a company for people who want to actually live more. Subscribe to stay informed 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -45,9 +45,9 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Elevate your life with a single <span>newsletter</span></h2>
+      <h2>Live more with <span>Shilll</span></h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll's mission is to help you scroll less and live more. Our 1-minute newsletters are meticulously designed to give you power over your time.</p>
+      <p>Shilll's mission is to help humanity live more. Our 1-minute newsletters are meticulously designed to elevate your life with timely information.</p>
       </a>
       </div>
        <div className="inner-content3">
