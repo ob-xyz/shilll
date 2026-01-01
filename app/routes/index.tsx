@@ -31,7 +31,7 @@ export default function Index() {
           <div className="text">
             <h4>Elevate Your Life</h4>
             <h1>Scroll Less. Live More.</h1>
-            <p>We're building a company for people like me and you. Subscribe to know more about Shilll 🚀</p>
+            <p>We're building a company for people like me and you. Subscribe to stay informed about Shilll 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
