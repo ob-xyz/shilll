@@ -115,7 +115,7 @@
   padding: 0 5rem;
 }
 .container .inner-content2 h2, .container .inner-content2 h2 span {
-  padding-top: 6rem;
+  padding-top: 3.5rem;
   margin-left: 0;
   color: #fff;
 }
@@ -140,6 +140,75 @@
   background-size: 100% 100%;
   -webkit-text-fill-color: transparent;
   animation: shimmer 1.5s linear infinite;
+}
+@keyframes shimmer {
+  0% {
+    background-position: -100% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+.container .floatimg {
+  margin-top: 8rem;
+}
+.container .floatimg img {
+  margin: 0 auto;
+  width: 60%;
+}
+.container .inner-content25 {
+  background: #02090A;
+  border-top-left-radius: 3rem;
+  border-top-right-radius: 3rem;
+  padding: 0 5rem;
+  width: 100%;
+  text-align: center;
+}
+.container .inner-content25 h2, .container .inner-content25 h2 span {
+  text-align: center;
+  padding-top: 3.5rem;
+  margin-left: 0;
+  color: #fff;
+}
+.container .inner-content25 p {
+  text-align: center;
+  padding-top: 1.5rem;
+  font-size: 3rem;
+  margin: 0 auto;
+  color: #7a7a7a;
+  background: #7a7a7a;
+  transition: all 0.4s ease-in-out;
+  background-image: linear-gradient(90deg, #ff6600, #ff0044);
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  background-position: left;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+}
+.container .inner-content25 p:hover {
+  background-size: 100% 100%;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 1.5s linear infinite;
+}
+.container .inner-content25 .btn {
+  display: flex;
+  margin: 2rem auto 6rem auto;
+}
+.container .inner-content25 .btn .pricebtn {
+  border-radius: 5rem;
+  padding: 1rem 1.75rem;
+  border: 0.2rem solid #fafafa;
+  color: #fafafa;
+  text-decoration: none;
+  font-size: 1.2rem;
+  background: transparent;
+  cursor: pointer;
+  font-family: bold;
+}
+.container .inner-content25 .btn .pricebtn:hover {
+  background-color: #3a3a3a;
+  color: #fafafa;
 }
 @keyframes shimmer {
   0% {
@@ -301,7 +370,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 70%;
     margin-bottom: 0;
   }
   .container .inner-content2 {
@@ -383,13 +452,21 @@
   }
   .container .inner-content2 h2, .container .inner-content2 span {
     padding-top: 3.5rem;
-    font-size: 2rem;
+    font-size: 3.5rem;
   }
   .container .inner-content2 p {
     margin-bottom: 3.5rem;
     padding-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
     width: 100%;
+  }
+  .container .inner-content25 h2, .container .inner-content25 h2 span {
+    padding-top: 2.5rem;
+    font-size: 3.5rem;
+  }
+  .container .inner-content25 p {
+    padding-top: 1rem;
+    font-size: 2rem;
   }
   .container .inner-content3 {
     margin-top: 3rem;

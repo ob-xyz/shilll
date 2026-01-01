@@ -2,6 +2,9 @@ import { useEffect } from "react";
 
 import logo from "~/../public/img/ja1.png";
 import header from "~/../public/img/ja3.png";
+import jeffamzn from "~/../public/img/jeffamazon.png";
+import thepoast from "~/../public/img/thepoast.png";
+
 
 export default function Index() {
     useEffect(() => {
@@ -49,6 +52,34 @@ export default function Index() {
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll's mission is to elevate the knowledge of society. Our 1-minute newsletters are meticulously designed to elevate your life with timely information that's enjoyable to read.</p>
       </a>
+      </div>
+        <div className="floatimg">
+            <img src={jeffamzn} alt="Jeffamazon newsletter image" />
+        </div>
+      <div className="inner-content25">
+       <h2><span>Jeffamazon</span></h2>
+      <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
+      <p>Daily business newsletter</p>
+      </a>
+      <div className="btn">
+        <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer" className="pricebtn">
+            Subscribe for free
+      </a>
+      </div>
+      </div>
+      <div className="floatimg">
+            <img src={thepoast} alt="Jeffamazon newsletter image" />
+        </div>
+      <div className="inner-content25">
+       <h2><span>The Poast</span></h2>
+      <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
+      <p>Weekly local newsletter</p>
+      </a>
+      <div className="btn">
+        <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer" className="pricebtn">
+            Subscribe for free
+      </a>
+      </div>
       </div>
        <div className="inner-content3">
       <div className="header">
