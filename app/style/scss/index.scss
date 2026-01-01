@@ -48,7 +48,7 @@
 .text{
     h1{
         margin-left:0;
-        width:90%;
+        width:95%;
     }
     p{
         text-align: left;
@@ -66,7 +66,7 @@ form {
 }
 .input-wrapper {
   position: relative;
-  width: 31rem;
+  width: 33rem;
 }
 input.email {
   width: 100%;
@@ -109,7 +109,7 @@ button.submit {
   .inner-content1{
     img{
       margin-left: 2.5rem;
-      margin-bottom: -1rem;
+      margin-bottom: -3.25rem;
       width: 87.5%;
     }
   }
@@ -295,32 +295,36 @@ form {
     margin-left:2.5rem;
   }
 .content{
+    flex-direction: column;
 .inner-content{
         margin-left:2.5rem;
     .text{
       h1{
         font-size:3.5rem;
-        width:75%;
+        width:57.5%;
       }
       p{
         padding-top:2.5rem;
         padding-bottom:.5rem;
-        width:65%;
+        width:85%;
       }
     }
 form {
 .input-wrapper {
-  width: 29rem;
+  width: 33rem;
   }
     }
   }
 .inner-content1{
-  img{
+  margin-top: 2.5rem;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 90%;
-    margin-left:1.5rem;
-    margin-bottom: -12.5rem;
-  }
- }
+    margin-bottom:0;
+ } 
+}
 }
 .inner-content2{
   padding:0 2.5rem;
@@ -396,6 +400,7 @@ form {
     margin-left: auto;
     margin-right: auto;
     width: 90%;
+    margin-bottom:0;
   }
 }
 }
