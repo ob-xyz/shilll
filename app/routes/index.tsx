@@ -29,9 +29,9 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>Elevate Your Life</h4>
+            <h4>Help is here</h4>
             <h1>Scroll Less. Live More.</h1>
-            <p>We're building a company for people like me and you. Subscribe to stay informed 🚀</p>
+            <p>1-minute newsletters built for your active life 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -48,9 +48,9 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Live more of your life with <span>Shilll</span></h2>
+      <h2>Say hello to a <span>new generation</span> of email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll's mission is to help you live more of your life. Enjoy our 1-minute newsletters, meticulously designed to deliver timely information about your interests in a way that actually feels good.</p>
+      <p>Shilll's mission is helping you live more. Our signature style 1-minute newsletters are meticulously designed for your active life.</p>
       </a>
       </div>
         <div className="floatimg">
