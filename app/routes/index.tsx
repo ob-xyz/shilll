@@ -29,9 +29,9 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>Help is here</h4>
+            <h4>Life with less noise</h4>
             <h1>Scroll Less. Live More.</h1>
-            <p>1-minute newsletters built for your active life 🚀</p>
+            <p>1-minute newsletters designed for your life 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -48,7 +48,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Say hello to a <span>new generation</span> of email newsletters</h2>
+      <h2>Say hello to the <span>next generation</span> of email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll's mission is helping you live more. Our signature style 1-minute newsletters are meticulously designed for your active life.</p>
       </a>
@@ -58,13 +58,13 @@ export default function Index() {
         </div>
       <div className="inner-content25">
        <h2><span>Jeffamazon</span></h2>
-      <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
+      <a title="jeffamazon home page" href="https://jeffamazon.com/"  rel="noopener noreferrer">
       <p>Daily business newsletter</p>
       </a>
       <div className="btn">
         <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer" className="pricebtn">
             Subscribe for free
-      </a>
+        </a>
       </div>
       </div>
       <div className="floatimg">
@@ -72,13 +72,13 @@ export default function Index() {
         </div>
       <div className="inner-content25">
        <h2><span>The Poast</span></h2>
-      <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
+      <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
       <p>Weekly local newsletter</p>
       </a>
       <div className="btn">
-        <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer" className="pricebtn">
+        <a title="subscription form" href="https://thepoast.com/"  rel="noopener noreferrer" className="pricebtn">
             Subscribe for free
-      </a>
+        </a>
       </div>
       </div>
        <div className="inner-content3">
