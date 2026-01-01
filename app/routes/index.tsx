@@ -50,7 +50,7 @@ export default function Index() {
       <div className="inner-content2">
       <h2>Live more of your life with <span>Shilll</span></h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll's mission is to help you live more. Our 1-minute newsletters are meticulously designed to deliver timely information about your interests in a way that feels good.</p>
+      <p>Shilll's mission is to help you live more of your life. Enjoy our 1-minute newsletters, meticulously designed to deliver timely information about your interests in a way that actually feels good.</p>
       </a>
       </div>
         <div className="floatimg">
