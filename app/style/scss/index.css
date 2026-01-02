@@ -442,10 +442,10 @@
   }
   .container .inner-content2 h2, .container .inner-content2 span {
     padding-top: 3.5rem;
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
   .container .inner-content2 span {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
   .container .inner-content2 p {
     margin-bottom: 3.5rem;
@@ -454,11 +454,11 @@
     width: 100%;
   }
   .container .floatimg img {
-    width: 60%;
+    width: 65%;
   }
   .container .inner-content25 h2, .container .inner-content25 h2 span {
-    padding-top: 2.5rem;
-    font-size: 2.75rem;
+    padding-top: 2.25rem;
+    font-size: 2.5rem;
   }
   .container .inner-content25 p {
     padding-top: 1rem;
@@ -473,7 +473,7 @@
     grid-template-columns: repeat(1, 1fr);
   }
   .container .inner-content3 .grid .box h1 {
-    font-size: 2.75rem;
+    font-size: 2.25rem;
   }
   .container .inner-content3 .grid .box p {
     width: 92.5%;
