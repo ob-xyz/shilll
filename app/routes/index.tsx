@@ -33,7 +33,7 @@ export default function Index() {
           <div className="text">
             <h4>EMPOWERING INDIVIDUALS</h4>
             <h1>Scroll Less. Live More.</h1>
-            <p>1-minute newsletters designed for your life 🚀</p>
+            <p>1-minute newsletters designed for your mind 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -50,9 +50,9 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Say hello to <span>our growing family</span> of email newsletters</h2>
+      <h2>The future of media is <span>email</span></h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll's mission is empowering individuals like me and you. Our signature style 1-minute newsletters are meticulously designed to scroll less, live more.</p>
+      <p>Shilll's mission is empowering individuals to live more. Our signature style 1-minute email newsletters are meticulously designed to empower the minds of individuals.</p>
       </a>
       </div>
         <div className="floatimg">
@@ -86,10 +86,8 @@ export default function Index() {
       <div className="inner-content255">
         <div className="side1">
        <h2><span>LEADERSHIP</span></h2>
-      <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
-      <p>Founder</p>
-      <p>Chris Signore</p>
-      </a>
+      <p className="noclick">Founder</p>
+      <p className="noclick">Chris Signore</p>
       <div className="btn">
         <a title="subscription form" href="https://thepoast.com/"  rel="noopener noreferrer" className="pricebtn">
             About
@@ -100,13 +98,13 @@ export default function Index() {
           <img src={cs} alt="Founder image" />
         </div>
       </div>
-      <div className="inner-content25">
+      <div className="inner-content2555">
       <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
-      <p>We believe in building seriously profitable businesses that help people live.</p>
+      <p>" We're building the future of media that empowers individuals to live more.</p>
       </a>
       <div className="tag">
       <p>
-        CHRIS SIGNORE
+        —CHRIS SIGNORE
       </p>
       <p>
         Founder
