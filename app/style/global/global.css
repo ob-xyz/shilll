@@ -185,7 +185,8 @@
   margin: 0 auto;
   width: 55%;
 }
-.container .inner-content25 {
+.container .inner-content25,
+.container .inner-content255 {
   background: #02090A;
   border-top-left-radius: 3rem;
   border-top-right-radius: 3rem;
@@ -193,13 +194,16 @@
   width: 100%;
   text-align: center;
 }
-.container .inner-content25 h2, .container .inner-content25 h2 span {
+.container .inner-content25 h2, .container .inner-content25 h2 span,
+.container .inner-content255 h2,
+.container .inner-content255 h2 span {
   text-align: center;
   padding-top: 3.5rem;
-  margin-left: 0;
+  margin: 0 auto;
   color: #fff;
 }
-.container .inner-content25 p {
+.container .inner-content25 p,
+.container .inner-content255 p {
   text-align: center;
   padding-top: 1.5rem;
   font-size: 3rem;
@@ -215,16 +219,19 @@
   -webkit-text-fill-color: transparent;
   cursor: pointer;
 }
-.container .inner-content25 p:hover {
+.container .inner-content25 p:hover,
+.container .inner-content255 p:hover {
   background-size: 100% 100%;
   -webkit-text-fill-color: transparent;
   animation: shimmer 1.5s linear infinite;
 }
-.container .inner-content25 .btn {
+.container .inner-content25 .btn,
+.container .inner-content255 .btn {
   display: flex;
   margin: 2rem auto 6rem auto;
 }
-.container .inner-content25 .btn .pricebtn {
+.container .inner-content25 .btn .pricebtn,
+.container .inner-content255 .btn .pricebtn {
   border-radius: 5rem;
   padding: 1rem 1.75rem;
   border: 0.2rem solid #fafafa;
@@ -235,7 +242,8 @@
   cursor: pointer;
   font-family: bold;
 }
-.container .inner-content25 .btn .pricebtn:hover {
+.container .inner-content25 .btn .pricebtn:hover,
+.container .inner-content255 .btn .pricebtn:hover {
   background-color: #3a3a3a;
   color: #fafafa;
 }
@@ -246,6 +254,48 @@
   100% {
     background-position: 200% 0;
   }
+}
+.container .inner-content255 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 14rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  border-radius: 2rem;
+  padding: 0;
+  width: auto;
+}
+.container .inner-content255 .side1 {
+  padding: 0 0 0 2rem;
+  width: 100%;
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.container .inner-content255 .side1 h2, .container .inner-content255 .side1 h2 span {
+  margin: 0;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  text-align: left;
+}
+.container .inner-content255 .side1 p {
+  text-align: left;
+  padding: 0;
+  font-size: 2rem;
+}
+.container .inner-content255 .side1 .btn {
+  margin: 0;
+  margin-top: 2rem;
+}
+.container .inner-content255 .side1 .btn .pricebtn {
+  margin: 0;
+}
+.container .inner-content255 img {
+  width: 100%;
+  border-radius: 2rem;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
 }
 .container .inner-content3 {
   margin: 14rem auto 0 auto;

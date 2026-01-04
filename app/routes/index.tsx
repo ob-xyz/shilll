@@ -4,6 +4,8 @@ import logo from "~/../public/img/ja1.png";
 import header from "~/../public/img/ja3.png";
 import jeffamzn from "~/../public/img/jeffamazon.png";
 import thepoast from "~/../public/img/thepoast.png";
+import cs from "~/../public/img/cs.jpg";
+
 
 
 export default function Index() {
@@ -29,7 +31,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>Life with less noise</h4>
+            <h4>ELEVATE YOUR LIFE</h4>
             <h1>Scroll Less. Live More.</h1>
             <p>1-minute newsletters designed for your life 🚀</p>
           </div>
@@ -79,6 +81,36 @@ export default function Index() {
         <a title="subscription form" href="https://thepoast.com/"  rel="noopener noreferrer" className="pricebtn">
             Subscribe for free
         </a>
+      </div>
+      </div>
+      <div className="inner-content255">
+        <div className="side1">
+       <h2><span>LEADERSHIP</span></h2>
+      <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
+      <p>Founder</p>
+      <p>Chris Signore</p>
+      </a>
+      <div className="btn">
+        <a title="subscription form" href="https://thepoast.com/"  rel="noopener noreferrer" className="pricebtn">
+            About
+        </a>
+      </div>
+        </div>
+        <div className="side2">
+          <img src={cs} alt="Founder image" />
+        </div>
+      </div>
+      <div className="inner-content25">
+      <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
+      <p>We believe in building seriously profitable businesses that help people live.</p>
+      </a>
+      <div className="tag">
+      <p>
+        CHRIS SIGNORE
+      </p>
+      <p>
+        Founder
+      </p>
       </div>
       </div>
        <div className="inner-content3">
