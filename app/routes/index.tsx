@@ -48,7 +48,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Say hello to the <span>next generation</span> of email newsletters</h2>
+      <h2>Say hello to <span>our growing family</span> of email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll's mission is helping you live more. Our signature style 1-minute newsletters are meticulously designed for your active life.</p>
       </a>
