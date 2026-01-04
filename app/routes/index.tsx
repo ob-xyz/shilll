@@ -31,7 +31,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>ELEVATE YOUR LIFE</h4>
+            <h4>EMPOWERING INDIVIDUALS</h4>
             <h1>Scroll Less. Live More.</h1>
             <p>1-minute newsletters designed for your life 🚀</p>
           </div>
@@ -52,7 +52,7 @@ export default function Index() {
       <div className="inner-content2">
       <h2>Say hello to <span>our growing family</span> of email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll's mission is helping you live more. Our signature style 1-minute newsletters are meticulously designed for your active life.</p>
+      <p>Shilll's mission is empowering individuals like me and you. Our signature style 1-minute newsletters are meticulously designed to scroll less, live more.</p>
       </a>
       </div>
         <div className="floatimg">
