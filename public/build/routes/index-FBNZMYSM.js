@@ -137,7 +137,7 @@ function Index() {
         lineNumber: 53,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "subscription form", href: "https://jeffamazon.com/subscribe", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Shilll replaces scrolling to infinity with intentional insights. Our 1-minute newsletters are meticulously designed to empower your mind before quickly returning your focus to the world happening around you." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "subscription form", href: "https://jeffamazon.com/subscribe", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Shilll replaces infinite scrolling with intentional insights. Our 1-minute newsletters are meticulously designed to quickly empower your mind before returning your focus to the world around you." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 55,
         columnNumber: 7
@@ -285,7 +285,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "the poast home", href: "https://thepoast.com/", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: `" We're building the future of media that empowers individuals to live more.` }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "the poast home", href: "https://thepoast.com/", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: `" We're building a future of media that empowers individuals to live more.` }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 103,
         columnNumber: 7
@@ -376,4 +376,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-5IGEM57L.js.map
+//# sourceMappingURL=/build/routes/index-FBNZMYSM.js.map

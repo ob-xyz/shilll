@@ -52,7 +52,7 @@ export default function Index() {
       <div className="inner-content2">
       <h2>The future of media is <span>email</span></h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll replaces scrolling to infinity with intentional insights. Our 1-minute newsletters are meticulously designed to empower your mind before quickly returning your focus to the world happening around you.</p>
+      <p>Shilll replaces infinite scrolling with intentional insights. Our 1-minute newsletters are meticulously designed to quickly empower your mind before returning your focus to the world around you.</p>
       </a>
       </div>
         <div className="floatimg">
@@ -100,7 +100,7 @@ export default function Index() {
       </div>
       <div className="inner-content2555">
       <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
-      <p>" We're building the future of media that empowers individuals to live more.</p>
+      <p>" We're building a future of media that empowers individuals to live more.</p>
       </a>
       <div className="tag">
       <p>
