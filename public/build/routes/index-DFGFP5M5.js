@@ -137,7 +137,7 @@ function Index() {
         lineNumber: 53,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "subscription form", href: "https://jeffamazon.com/subscribe", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Shilll's mission is empowering individuals to live more. Our signature style 1-minute email newsletters are meticulously designed to empower the minds of individuals." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "subscription form", href: "https://jeffamazon.com/subscribe", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Shilll replaces the infinite scroll with intentional insights. Our 1-minute newsletters are meticulously designed to empower your mind before quickly returning your focus to the world happening around you." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 55,
         columnNumber: 7
@@ -376,4 +376,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-NU4YITQB.js.map
+//# sourceMappingURL=/build/routes/index-DFGFP5M5.js.map
