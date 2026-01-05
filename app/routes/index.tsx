@@ -52,7 +52,7 @@ export default function Index() {
       <div className="inner-content2">
       <h2>The future of media is <span>email</span></h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll replaces the infinite scroll with intentional insights. Our 1-minute newsletters are meticulously designed to empower your mind before quickly returning your focus to the world happening around you.</p>
+      <p>Shilll replaces scrolling to infinity with intentional insights. Our 1-minute newsletters are meticulously designed to empower your mind before quickly returning your focus to the world happening around you.</p>
       </a>
       </div>
         <div className="floatimg">
