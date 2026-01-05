@@ -33,7 +33,7 @@ export default function Index() {
           <div className="text">
             <h4>EMPOWERING INDIVIDUALS</h4>
             <h1>Scroll Less. Live More.</h1>
-            <p>1-minute newsletters designed for your mind 🚀</p>
+            <p>1-minute newsletters designed for your mind ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -104,7 +104,7 @@ export default function Index() {
       </a>
       <div className="tag">
       <p>
-        —CHRIS SIGNORE
+        CHRIS SIGNORE
       </p>
       <p>
         Founder

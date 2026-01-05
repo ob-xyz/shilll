@@ -37,7 +37,7 @@ function Footer() {
           lineNumber: 16,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Subscribe to stay informed \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Subscribe to stay informed \u2728" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 17,
           columnNumber: 5
@@ -200,7 +200,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-AVC3DEBM.css";
+var global_default = "/build/_assets/global-Z2KIBBPZ.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -283,4 +283,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-ZOTI2MWL.js.map
+//# sourceMappingURL=/build/root-UZHLZQN2.js.map

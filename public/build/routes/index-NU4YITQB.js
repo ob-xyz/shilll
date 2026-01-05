@@ -58,7 +58,7 @@ function Index() {
             lineNumber: 35,
             columnNumber: 13
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "1-minute newsletters designed for your mind \u{1F680}" }, void 0, false, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "1-minute newsletters designed for your mind \u2728" }, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 36,
             columnNumber: 13
@@ -295,7 +295,7 @@ function Index() {
         columnNumber: 7
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "tag", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "\u2014CHRIS SIGNORE" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "CHRIS SIGNORE" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 106,
           columnNumber: 7
@@ -376,4 +376,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-6I4ZI2PF.js.map
+//# sourceMappingURL=/build/routes/index-NU4YITQB.js.map
