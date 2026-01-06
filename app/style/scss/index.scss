@@ -168,9 +168,11 @@ p {
   background:#02090A;
   border-top-left-radius:3rem;
   border-top-right-radius:3rem;
-  padding:0 5rem;
-  width: 100%;
   text-align: center;
+  margin-left:5rem;
+  margin-right:5rem;
+  padding:0;
+  width:auto;
   h2, h2 span{
       text-align: center;
       padding-top:3.5rem;
@@ -487,6 +489,10 @@ form {
     width: 65%;
   }
 }
+.inner-content25{
+  margin-left:1.5rem;
+  margin-right:1.5rem;
+}
 .inner-content255{
   flex-direction: column-reverse;
   margin-top:14rem;
@@ -609,6 +615,8 @@ form {
   }
 }
 .inner-content25{
+    margin-left:1.5rem;
+  margin-right:1.5rem;
   h2, h2 span{
       padding-top:2.25rem;
       font-size:2.5rem;

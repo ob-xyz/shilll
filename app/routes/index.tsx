@@ -50,7 +50,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>The future of media is <span>email newsletters</span></h2>
+      <h2>The <span>future of media</span> is bespoke email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll replaces infinite scrolling with intentional insights. Our 1-minute newsletters are meticulously designed to empower the minds of individuals across the world.</p>
       </a>

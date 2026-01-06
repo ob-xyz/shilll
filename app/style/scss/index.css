@@ -162,9 +162,11 @@
   background: #02090A;
   border-top-left-radius: 3rem;
   border-top-right-radius: 3rem;
-  padding: 0 5rem;
-  width: 100%;
   text-align: center;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  padding: 0;
+  width: auto;
 }
 .container .inner-content25 h2, .container .inner-content25 h2 span,
 .container .inner-content255 h2,
@@ -477,6 +479,10 @@
   .container .floatimg img {
     width: 65%;
   }
+  .container .inner-content25 {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
   .container .inner-content255 {
     flex-direction: column-reverse;
     margin-top: 14rem;
@@ -583,6 +589,10 @@
   }
   .container .floatimg img {
     width: 65%;
+  }
+  .container .inner-content25 {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
   }
   .container .inner-content25 h2, .container .inner-content25 h2 span {
     padding-top: 2.25rem;
