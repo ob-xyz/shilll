@@ -29,8 +29,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll : Empowering individuals",
-  description: "The future of media is email newsletters.",
+  title: "Shilll",
+  description: "Empowering individuals.",
   viewport: "width=device-width,initial-scale=1"
 });
 
