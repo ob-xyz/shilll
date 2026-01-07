@@ -50,7 +50,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Shilll is a <span>bespoke publisher</span> of email newsletters</h2>
+      <h2>Shilll is a <span>bespoke publisher</span> of 1-minute email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll replaces infinite scrolling with intentional insights. Our 1-minute email newsletters are meticulously designed to delight and empower the minds of individuals.</p>
       </a>
