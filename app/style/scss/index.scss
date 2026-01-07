@@ -166,8 +166,7 @@ p {
 .inner-content255,
 .inner-content2555{
   background:#02090A;
-  border-top-left-radius:3rem;
-  border-top-right-radius:3rem;
+  border-radius:2rem;
   text-align: center;
   margin-left:5rem;
   margin-right:5rem;
@@ -595,8 +594,8 @@ form {
   margin-left:0;
   margin-right:0;
   padding:0 2rem;
-  border-top-left-radius:1.5rem;
-  border-top-right-radius:1.5rem;
+  border-top-left-radius:2rem;
+  border-top-right-radius:2rem;
   h2, h2 span{
     padding-top:3.5rem;
     font-size:2.25rem;
