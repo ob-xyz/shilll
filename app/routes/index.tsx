@@ -32,7 +32,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h4>EMPOWERING INDIVIDUALS</h4>
-            <h1>Scroll Less. Live More.</h1>
+            <h1>Less Scroll. More Life.</h1>
             <p>1-minute newsletters designed for your mind ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
@@ -50,7 +50,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Shilll is a <span>bespoke publisher</span> of 1-minute email newsletters</h2>
+      <h2>Shilll is a <span>bespoke publisher</span> of email newsletters</h2>
       <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
       <p>Shilll replaces infinite scrolling with intentional insights. Our 1-minute email newsletters are meticulously designed to delight and empower the minds of individuals.</p>
       </a>
@@ -100,7 +100,7 @@ export default function Index() {
       </div>
       <div className="inner-content2555">
       <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
-      <p>" We're building a future of media that empowers individuals to live more.</p>
+      <p>" We're building a future of media that empowers individuals with more life.</p>
       </a>
       <div className="tag">
       <p>
