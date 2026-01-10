@@ -1,32 +1,17 @@
-import { useEffect } from "react";
+import { Link } from "@remix-run/react";
 
 import logo from "~/../public/img/ja1.png";
 import header from "~/../public/img/ja3.png";
-import jeffamzn from "~/../public/img/jeffamazon.png";
-import thepoast from "~/../public/img/thepoast.png";
+import header2 from "~/../public/img/ja3.png";
+import tp from "~/../public/img/thepoast.png";
+import ja from "~/../public/img/jeffamazon.png";
 import cs from "~/../public/img/cs.jpg";
 
-
-
 export default function Index() {
-    useEffect(() => {
-    // Dynamically load the hCaptcha script
-    const script = document.createElement("script");
-    script.src = "https://js.hcaptcha.com/1/api.js";
-    script.async = true;
-    script.defer = true;
-    document.body.appendChild(script);
-
-    // Clean up script on component unmount
-    return () => {
-      document.body.removeChild(script);
-    };
-  }, []);
-
   return (
     <div className="container">
       <div className="logo">
-        <img src={logo} alt="Shilll Logo" />
+        <img src={logo} alt="Jeffamazon Logo" />
       </div>
       <div className="content">
         <div className="inner-content">
@@ -38,7 +23,7 @@ export default function Index() {
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
           <input className="email" type="email" name="email" required placeholder="Email Address *" />
-          <button className="submit" type="submit">Subscribe</button>
+          <button className="submit" type="submit">Send it</button>
         </div>
         <div className="h-captcha" data-sitekey="7e96e6a6-eef8-4624-be9c-e468b5a8b230"></div>
         <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
@@ -50,48 +35,44 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Shilll is a <span>bespoke publisher</span> of email newsletters</h2>
-      <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer">
-      <p>Shilll replaces infinite scrolling with intentional insights. Our 1-minute email newsletters are meticulously designed to delight and empower the minds of individuals.</p>
-      </a>
+      <h2><span>Shilll</span> is a bespoke publisher</h2>
+        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with intentional insights. <span>Our 1 min newsletters are meticulously designed</span> to empower the minds of individuals across the world.</Link>
       </div>
+      <div className="inner-content3sm">
+      <div className="grid">
+      <div className="boxmat">
+         <div className="floatimg">
+          <img src={ja} alt="Jeffamazon newsletter image" />
+      </div>
+      <div className="box">
+        <h1>Jeffamazon</h1>
+        <p>Daily business news</p>
+      <div className="btn">
+          <Link className="pricebtn" to="/subscribe">Subscribe for free</Link>
+      </div>
+      </div>
+      </div>
+            <div className="boxmat">
         <div className="floatimg">
-            <img src={jeffamzn} alt="Jeffamazon newsletter image" />
+            <img src={tp} alt="The Poast newsletter image" />
         </div>
-      <div className="inner-content25">
-       <h2><span>Jeffamazon</span></h2>
-      <a title="jeffamazon home page" href="https://jeffamazon.com/"  rel="noopener noreferrer">
-      <p>Daily business newsletter</p>
-      </a>
+      <div className="box">
+        <h1>The Poast</h1>
+        <p>Weekly local news</p>
       <div className="btn">
-        <a title="subscription form" href="https://jeffamazon.com/subscribe"  rel="noopener noreferrer" className="pricebtn">
-            Subscribe for free
-        </a>
+          <Link className="pricebtn" to="/subscribe">Subscribe for free</Link>
       </div>
       </div>
-      <div className="floatimg">
-            <img src={thepoast} alt="Jeffamazon newsletter image" />
-        </div>
-      <div className="inner-content25">
-       <h2><span>The Poast</span></h2>
-      <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
-      <p>Weekly local newsletter</p>
-      </a>
-      <div className="btn">
-        <a title="subscription form" href="https://thepoast.com/"  rel="noopener noreferrer" className="pricebtn">
-            Subscribe for free
-        </a>
+     </div>
       </div>
-      </div>
+    </div>
       <div className="inner-content255">
         <div className="side1">
        <h2><span>LEADERSHIP</span></h2>
       <p className="noclick">Founder</p>
       <p className="noclick">Chris Signore</p>
       <div className="btn">
-        <a title="subscription form" href="https://thepoast.com/"  rel="noopener noreferrer" className="pricebtn">
-            About
-        </a>
+          <Link className="pricebtn" to="/about">About</Link>
       </div>
         </div>
         <div className="side2">
@@ -99,9 +80,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-      <a title="the poast home" href="https://thepoast.com/"  rel="noopener noreferrer">
-      <p>" We're building a future of media that empowers individuals with more life.</p>
-      </a>
+          <Link className="text" to="/about">" In a world of content overload it's nice to just know what matters.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
@@ -114,17 +93,57 @@ export default function Index() {
        <div className="inner-content3">
       <div className="grid">
       <div className="box">
-        <h1>Build</h1>
-        <p>Want to start & build a newsletter with us?</p>
-        <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch →</a>
+        <h1>Subscribe</h1>
+        <p>Get what matters delivered straight to your inbox.</p>
+          <Link className="text" to="/subscribe">Subscribe →</Link>
       </div>
       <div className="box">
-        <h1>Grow</h1>
-        <p>Raising funding? We're occasional investors.</p>
-        <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch →</a>
+        <h1>Advertise</h1>
+        <p>Want to post? We're looking for new advertisers.</p>
+          <Link className="text" to="/ads/ad-form">Get in touch →</Link>
       </div>
       </div>
     </div>
+{/* <div className="inner-blog">
+    <div className="header">
+          <h4>JEFFAMAZON NEWS</h4>
+          <h3>The latest and greatest.</h3>
+    </div>
+    <ul className="grid">
+    {campaigns.length === 0 ? (
+      <li>No campaigns available yet.</li>
+    ) : (
+      campaigns.slice(0, 6).map((c) => (
+        <li key={c.id} className="box">
+          <a href={c.url} target="_blank" rel="noopener noreferrer">
+            <img src="https://jeffamazn.com/GsidegWXwAECEUs.jpeg" alt="You gotta see this" />
+            <h2>{c.subject}</h2>
+            <p>{new Date(c.send_at).toLocaleDateString()}</p> 
+          </a>
+        </li>
+      ))
+    )}
+  </ul>
+</div> */}
+{/* 
+<div className="inner-blog">
+      <div className="header">
+          <h4>JEFFAMAZON NEWS</h4>
+          <h3>The latest and greatest.</h3>
+      </div>
+  <ul className="grid">
+    <li className="box">
+      <a
+        href="http://app.jeffamzn.com/campaign/ba97f2f9-a8c7-46a7-b183-ccffbc3b6891/6716369b-5785-4c74-be76-73af2558eebb"
+        rel="noopener noreferrer"
+      >
+        <img src="https://jeffamazn.com/Screen-Shot-2025-06-03-at-5.09.08-PM.png" alt="Test Campaign Preview" />
+        <h2>Test Campaign — Preview</h2>
+        <p>June 29, 2025</p>
+      </a>
+    </li>
+  </ul>
+</div> */}
     </div>
   );
 }

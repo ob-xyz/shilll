@@ -1,23 +1,7 @@
-import { useEffect } from "react";
-
 import logo from "~/../public/img/ja1.png";
 import bg from "~/../public/img/bg.jpg";
 import bg1 from "~/../public/img/bg1.jpg";
 export default function Index() {
-    useEffect(() => {
-    // Dynamically load the hCaptcha script
-    const script = document.createElement("script");
-    script.src = "https://js.hcaptcha.com/1/api.js";
-    script.async = true;
-    script.defer = true;
-    document.body.appendChild(script);
-
-    // Clean up script on component unmount
-    return () => {
-      document.body.removeChild(script);
-    };
-  }, []);
-
   return (
     <div className="content-aboutus">
       <div className="logo">

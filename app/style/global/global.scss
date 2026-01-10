@@ -3,8 +3,12 @@
 '../global/Buttons.scss',
 '../scss/index.scss',
 '../scss/about.scss',
+'../scss/subscribe.scss',
+'../scss/ads/ad-form.scss',
 '../scss/ads/advertise.scss',
+'../scss/ads/oldad-formats.scss',
 '../scss/ads/ad-formats.scss',
+'../scss/ads/advertise-with-us.scss',
 '../scss/policies/privacy.scss',
 '../scss/policies/checkmarks.scss',
 '../scss/components/footer.scss';
@@ -27,7 +31,7 @@ body {
 main{
   padding:0;
   margin:0 auto;
-  background:#02090A;
+  background:#F8F7F5;
 }
 img {
   display: block;

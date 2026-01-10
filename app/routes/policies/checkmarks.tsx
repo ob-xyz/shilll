@@ -1,5 +1,3 @@
-import { useEffect } from "react";
-
 import logo from "~/../public/img/ja1.png";
 import bluecheck from "~/../public/img/bluecheck.png";
 import goldcheck from "~/../public/img/goldcheck.png";
@@ -7,21 +5,7 @@ import graycheck from "~/../public/img/graycheck.png";
 import blackcheck from "~/../public/img/blackcheck.png";
 
 export default function Index() {
-    useEffect(() => {
-    // Dynamically load the hCaptcha script
-    const script = document.createElement("script");
-    script.src = "https://js.hcaptcha.com/1/api.js";
-    script.async = true;
-    script.defer = true;
-    document.body.appendChild(script);
-
-    // Clean up script on component unmount
-    return () => {
-      document.body.removeChild(script);
-    };
-  }, []);
-
-  return (
+return (
     <div className="content-verification">
       <div className="logo">
         <img src={logo} alt="Jeffamazon Logo" />

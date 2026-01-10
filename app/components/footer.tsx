@@ -14,7 +14,7 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-    <p>Subscribe to stay informed ✨</p>
+          <p>Stay informed with Shilll</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
@@ -30,35 +30,33 @@ export default function Footer() {
   <div className="column">
     <h4>Company</h4>
     <Link to="/">Home</Link>
-    <a title="get in touch" href="mailto:chris@shilll.com"  rel="noopener noreferrer">Get in touch</a>
+    <Link to="/about">About</Link>
   </div>
   <div className="column">
     <h4>Newsletters</h4>
-            <a title="Jeffamazon" href="https://jeffamazon.com"  rel="noopener noreferrer">Jeffamazon</a>
-              <a title="The Poast" href="https://thepoast.com"  rel="noopener noreferrer">The Poast</a>
+      <a title="Jeffamazon" href="https://jeffamazon.com/"  rel="noopener noreferrer">Jeffamazon</a>
+      <a title="The Poast" href="https://thepoast.com/"  rel="noopener noreferrer">The Poast</a>
   </div>
 </div>
 </div>
 
-      <div className="footer-bottom">
-        <div className="footer-meta">
-          <Link to="/policies/privacy">Privacy Policy</Link>
-          <a href="https://policies.google.com/terms?hl=en-US" target="_blank" rel="noopener noreferrer">
-            Terms of Service
-          </a>
-        </div>
-        <div className="footer-social">
-          <a href="https://x.com/shillhq" target="_blank" rel="noopener noreferrer">
-            <img src={x} alt="X (formerly Twitter)" />
-          </a>
-          <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
-            <img src={linkedin} alt="LinkedIn" />
-          </a>
-          <a href="mailto:chris@shilll.com">
-            <img src={email} alt="Email us" />
-          </a>
-        </div>
-      </div>
+<div className="footer-bottom">
+
+  <div className="footer-meta">
+    <Link to="/policies/privacy">Privacy Policy</Link>
+  <a href="https://policies.google.com/terms?hl=en-US" target="_blank" rel="noopener noreferrer">
+    Terms of Service
+  </a>
+  </div>
+  <div className="footer-social">
+  <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
+    <img src={linkedin} alt="LinkedIn" />
+  </a>
+  <a href="mailto:chris@shilll.com">
+    <img src={email} alt="Email us" />
+  </a>
+  </div>
+</div>
 </footer>
   );
 }

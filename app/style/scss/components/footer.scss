@@ -64,19 +64,19 @@ input.email {
 
 button.submit {
   position: absolute;
-  top: 2px;
+  top: 0px;
   right: 2px;
-  bottom: 2px;
+  bottom: 0px;
   padding: 0 2rem;
-  background-color: #fafafa;
-  color: black;
+  background-color: #02090A;
+  color: #fafafa;
   border: none;
-  border-left: .12rem solid #02090A;
+  border-left: .15rem solid #02090a;
   border-radius: 0 0.2rem 0.2rem 0;
   font-size: 1rem;
 
   &:hover {
-    background-color: #F5F5F5;
+    opacity: .85;
     cursor: pointer;
   }
 }
@@ -151,6 +151,13 @@ font-size: 0.825rem;
       }
     }
   }
+}
+@media (min-width: 875px) and (max-width: 1162px) {
+.footer {
+  h1{
+    font-size: 8.5rem;
+  }
+}
 }
 @media (min-width: 660px) and (max-width: 930px) {
 .footer {
