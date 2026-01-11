@@ -2,7 +2,8 @@ import { Link } from "@remix-run/react";
 
 import logo from "~/../public/img/ja1.png";
 import header from "~/../public/img/ja3.png";
-import header2 from "~/../public/img/ja3.png";
+import header2 from "~/../public/img/ja6.png";
+import header3 from "~/../public/img/ja7.png";
 import tp from "~/../public/img/thepoast.png";
 import ja from "~/../public/img/jeffamazon.png";
 import cs from "~/../public/img/cs.jpg";
@@ -42,7 +43,7 @@ export default function Index() {
       <div className="grid">
       <div className="boxmat">
          <div className="floatimg">
-          <img src={ja} alt="Jeffamazon newsletter image" />
+          <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
       <div className="box">
         <h1>Jeffamazon</h1>
@@ -54,7 +55,7 @@ export default function Index() {
       </div>
             <div className="boxmat">
         <div className="floatimg">
-            <img src={tp} alt="The Poast newsletter image" />
+            <img src={header3} alt="The Poast newsletter image" />
         </div>
       <div className="box">
         <h1>The Poast</h1>
