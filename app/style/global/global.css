@@ -2982,7 +2982,10 @@
 .adformats-container .logo {
   background: none;
   margin: 1.25rem 0 1.25rem 5rem;
-  width: 2.5rem;
+  width: 3.5rem;
+}
+.adformats-container .logo img {
+  border-radius: 10rem;
 }
 .adformats-container h1, .adformats-container h2, .adformats-container h3, .adformats-container span {
   font-style: normal;
@@ -3055,7 +3058,6 @@
 }
 .adformats-container .content .inner-content1 img {
   margin-left: -7.5rem;
-  margin-bottom: -5rem;
   width: 100%;
 }
 .adformats-container .inner-content2 {
@@ -3440,15 +3442,11 @@
     padding-top: 2.5rem;
     padding-bottom: 0.5rem;
   }
-  .adformats-container .content .inner-content1 {
-    margin-top: 2.5rem;
-  }
   .adformats-container .content .inner-content1 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
-    margin-bottom: -6.5rem;
+    width: 70%;
   }
   .adformats-container .inner-content2 {
     padding: 0 2.5rem;
@@ -3522,6 +3520,8 @@
   .adformats-container .inner-content3 {
     margin-top: 12rem;
     margin-bottom: 8rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
   }
   .adformats-container .inner-content3 .grid {
     margin: 1.25rem;
@@ -3578,15 +3578,11 @@
     padding-bottom: 0.5rem;
     width: 87.5%;
   }
-  .adformats-container .content .inner-content1 {
-    margin-top: 2.5rem;
-  }
   .adformats-container .content .inner-content1 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
-    margin-bottom: -8rem;
+    width: 70%;
   }
   .adformats-container .inner-content2 {
     margin-left: 0;
@@ -3656,9 +3652,10 @@
     padding-top: 0.35rem;
   }
   .adformats-container .inner-content3 {
+    margin: 0 0;
     margin-top: 6rem;
     margin-bottom: 4rem;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
   }
   .adformats-container .inner-content3 .grid {
     grid-template-columns: repeat(1, 1fr);
@@ -3703,7 +3700,10 @@
 .ads-container .logo {
   background: none;
   margin: 1.25rem 0 1.25rem 5rem;
-  width: 2.5rem;
+  width: 3.5rem;
+}
+.ads-container .logo img {
+  border-radius: 10rem;
 }
 .ads-container h1, .ads-container h2, .ads-container h3, .ads-container span {
   font-style: normal;
@@ -3775,9 +3775,8 @@
   cursor: pointer;
 }
 .ads-container .content .inner-content1 img {
-  margin-left: -7.5rem;
-  margin-bottom: -5rem;
-  width: 100%;
+  margin-left: -15rem;
+  width: 150%;
 }
 .ads-container .inner-content2 {
   background: #02090A;
@@ -3999,10 +3998,6 @@
     background-position: 200% 0;
   }
 }
-.ads-container .inner-content3sm,
-.ads-container .inner-content3smm {
-  margin: 0 5rem;
-}
 .ads-container .inner-content3sm .boxmat,
 .ads-container .inner-content3smm .boxmat {
   width: 100%;
@@ -4010,6 +4005,8 @@
 }
 .ads-container .inner-content3sm .grid,
 .ads-container .inner-content3smm .grid {
+  margin-left: 5rem;
+  margin-right: 5rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -4177,7 +4174,7 @@
     padding-bottom: 0.5rem;
   }
   .ads-container .content .inner-content1 {
-    width: 100%;
+    width: 40%;
     margin-left: 15rem;
     margin-bottom: 0rem;
   }
@@ -4233,15 +4230,11 @@
     padding-top: 2.5rem;
     padding-bottom: 0.5rem;
   }
-  .ads-container .content .inner-content1 {
-    margin-top: 2.5rem;
-  }
   .ads-container .content .inner-content1 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
-    margin-bottom: -6.5rem;
+    width: 70%;
   }
   .ads-container .inner-content2 {
     padding: 0 2.5rem;
@@ -4359,15 +4352,11 @@
     padding-bottom: 0.5rem;
     width: 87.5%;
   }
-  .ads-container .content .inner-content1 {
-    margin-top: 2.5rem;
-  }
   .ads-container .content .inner-content1 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
-    margin-bottom: -8rem;
+    width: 70%;
   }
   .ads-container .inner-content2 {
     margin-left: 0;
