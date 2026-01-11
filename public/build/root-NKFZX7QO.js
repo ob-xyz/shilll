@@ -212,8 +212,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Subscribe to Jeffamazon 1-Minute Newsletter - Jeffamazon",
-  description: "Subscribe to the free, 1-minute daily newsletter keeping 32K+ decisive people in the know about what matters.",
+  title: "Shilll",
+  description: "Empowering individuals.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -300,4 +300,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-LQTNEDXB.js.map
+//# sourceMappingURL=/build/root-NKFZX7QO.js.map
