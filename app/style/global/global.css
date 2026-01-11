@@ -414,13 +414,14 @@
     background-position: 200% 0;
   }
 }
+.container .inner-content3sm {
+  margin: 0 5rem;
+}
 .container .inner-content3sm .boxmat {
   width: 100%;
   height: auto;
 }
 .container .inner-content3sm .grid {
-  margin-left: 5rem;
-  margin-right: 5rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -678,6 +679,8 @@
   .container .inner-content3sm {
     margin-top: 7rem;
     margin-bottom: -2rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
   }
   .container .inner-content3sm .grid {
     margin: 1.25rem;
@@ -689,6 +692,8 @@
   .container .inner-content3 {
     margin-top: 12rem;
     margin-bottom: 8rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
   }
   .container .inner-content3 .grid {
     margin: 1.25rem;
@@ -768,7 +773,7 @@
   }
   .container .inner-content255 {
     flex-direction: column-reverse;
-    margin-top: 7rem;
+    margin-top: 1rem;
     margin-left: 1.5rem;
     margin-right: 1.5rem;
   }
@@ -827,9 +832,10 @@
     font-size: 1rem;
   }
   .container .inner-content3sm {
+    margin: 0 0;
     margin-top: -3rem;
     margin-bottom: 6rem;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
   }
   .container .inner-content3sm .grid {
     grid-template-columns: repeat(1, 1fr);
@@ -848,9 +854,10 @@
     margin-bottom: 1.5rem;
   }
   .container .inner-content3 {
+    margin: 0 0;
     margin-top: 7rem;
     margin-bottom: 6rem;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
   }
   .container .inner-content3 .grid {
     grid-template-columns: repeat(1, 1fr);
@@ -1122,13 +1129,14 @@
   margin-bottom: 0;
   text-align: center;
 }
+.about-container .inner-content3sm {
+  margin: 0 5rem;
+}
 .about-container .inner-content3sm .boxmat {
   width: 100%;
   height: auto;
 }
 .about-container .inner-content3sm .grid {
-  margin-left: 5rem;
-  margin-right: 5rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -1297,6 +1305,8 @@
   .about-container .inner-content3sm {
     margin-top: 7rem;
     margin-bottom: -2rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
   }
   .about-container .inner-content3sm .grid {
     margin: 1.25rem;
@@ -1432,9 +1442,10 @@
     margin-bottom: 1rem;
   }
   .about-container .inner-content3sm {
+    margin: 0 0;
     margin-top: -3rem;
     margin-bottom: 6rem;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
   }
   .about-container .inner-content3sm .grid {
     grid-template-columns: repeat(1, 1fr);
@@ -3988,6 +3999,10 @@
     background-position: 200% 0;
   }
 }
+.ads-container .inner-content3sm,
+.ads-container .inner-content3smm {
+  margin: 0 5rem;
+}
 .ads-container .inner-content3sm .boxmat,
 .ads-container .inner-content3smm .boxmat {
   width: 100%;
@@ -3995,8 +4010,6 @@
 }
 .ads-container .inner-content3sm .grid,
 .ads-container .inner-content3smm .grid {
-  margin-left: 5rem;
-  margin-right: 5rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -4285,6 +4298,8 @@
   .ads-container .inner-content3smm {
     margin-top: 0rem;
     margin-bottom: -2rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
   }
   .ads-container .inner-content3 .grid,
   .ads-container .inner-content3sm .grid,
@@ -4432,9 +4447,10 @@
   .ads-container .inner-content3,
   .ads-container .inner-content3sm,
   .ads-container .inner-content3smm {
+    margin: 0 0;
     margin-top: 1rem;
     margin-bottom: 5rem;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
   }
   .ads-container .inner-content3 .grid,
   .ads-container .inner-content3sm .grid,

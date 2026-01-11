@@ -246,13 +246,12 @@ p, .text{
   text-align: center;
 }
 .inner-content3sm{
+    margin:0 5rem;
   .boxmat{
     width:100%;
     height:auto;
   }
   .grid{
-  margin-left:5rem;
-  margin-right:5rem;
   display:grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -429,8 +428,10 @@ p, .text{
   margin-bottom:-8rem;
 }
 .inner-content3sm{
-  margin-top:7rem;
+   margin-top:7rem;
   margin-bottom:-2rem;
+  margin-left: .25rem;
+  margin-right: .25rem;
 .grid{
   margin:1.25rem;
   grid-template-columns: repeat(1, 1fr);
@@ -566,9 +567,10 @@ p, .text{
   margin-bottom:1rem;
 }
 .inner-content3sm{
+  margin:0 0;
   margin-top:-3rem;
   margin-bottom:6rem;
-  padding:0 2rem;
+  padding:0 1.5rem;
 .grid{
   grid-template-columns: repeat(1, 1fr);
   margin-left: 0;
