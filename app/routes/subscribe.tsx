@@ -67,12 +67,13 @@ export default function Index() {
               {/* Only render the widget if mounted is true. 
                   This prevents SSR mismatch and ensures the script is ready.
               */}
-              <div style={{ minHeight: '100px', margin: '15px 0' }}>
+              <div style={{ minHeight: '100px', margin: '0 0' }}>
                 {mounted ? (
-              <altcha-widget 
-                test 
-                challengeurl="https://app.jeffamzn.com/api/public/captcha/altcha"
-              ></altcha-widget>
+                  <altcha-widget 
+                    challengeurl="https://app.jeffamzn.com/api/public/captcha/altcha"
+                    hidefooter="true"
+                    hidelogo="true"
+                  ></altcha-widget>
                 ) : (
                   <div className="captcha-placeholder">Loading security...</div>
                 )}
