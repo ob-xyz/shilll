@@ -1,4 +1,5 @@
 import { Link } from "@remix-run/react";
+import Altcha from "./altcha";
 
 import linkedin from "~/../public/img/in.png";
 import ig from "~/../public/img/ig.png";
@@ -20,7 +21,7 @@ export default function Footer() {
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
         <button className="submit" type="submit">Let's do it</button>
       </div>
-      <div className="h-captcha" data-sitekey="7e96e6a6-eef8-4624-be9c-e468b5a8b230"></div>
+        <Altcha />
       <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
       <input type="hidden" name="nonce" />
     </form>

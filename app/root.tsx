@@ -37,33 +37,8 @@ export const meta: MetaFunction = () => ({
 });
 
 export default function App() {
-  const location = useLocation();
 
-  useEffect(() => {
-    const renderCaptchas = () => {
-      if (window.hcaptcha) {
-        const captchaElements = document.querySelectorAll(".h-captcha");
-        captchaElements.forEach((el) => {
-          if (el.innerHTML === "") {
-            window.hcaptcha.render(el);
-          }
-        });
-      }
-    };
-
-    let script = document.querySelector('script[src="https://js.hcaptcha.com/1/api.js"]');
-    
-    if (!script) {
-      script = document.createElement("script");
-      script.src = "https://js.hcaptcha.com/1/api.js";
-      script.async = true;
-      script.defer = true;
-      script.onload = renderCaptchas;
-      document.body.appendChild(script);
-    } else {
-      renderCaptchas();
-    }
-  }, [location.key]);
+  
   return (
     <html lang="en">
       <head>

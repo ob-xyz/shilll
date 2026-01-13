@@ -1,4 +1,5 @@
 import { Link } from "@remix-run/react";
+import Altcha from '../../components/altcha'
 
 import logo from "~/../public/img/ja1.png";
 import header from "~/../public/img/ja3.png";
@@ -182,7 +183,7 @@ export default function Index() {
           <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
           <button className="submit" type="submit">Request quote</button>
         </div>
-        <div className="h-captcha" data-sitekey="7e96e6a6-eef8-4624-be9c-e468b5a8b230"></div>
+        <Altcha />
         <input id="82687" type="hidden" name="l" value="82687238-ae68-46c7-98ad-183fbf4cfea0" />
         <input type="hidden" name="nonce" />
       </form>

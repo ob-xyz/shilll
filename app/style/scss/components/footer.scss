@@ -37,9 +37,15 @@
   flex-direction: column;
   margin-left: 0;
   margin-top:.45rem;
-  .h-captcha{
-  margin:0;
-  padding-top:.25rem;
+altcha-widget {
+  position: relative;
+  margin-left:0;
+  margin-top:.1rem;
+  max-width: 200px;
+  --altcha-max-width: 200px;
+  --altcha-border-radius: 0.5rem;
+  font-size: 1.1rem;
+  font-family: kl;
 }
 .input-wrapper {
   position: relative;
@@ -50,7 +56,7 @@ input.email {
   padding: 0.85rem 6rem 0.85rem 0.75rem;
   color: #000;
   border: .15rem solid #02090A;
-  border-radius: 0.2rem;
+  border-radius: 0.5rem;
   font-size: 1.1rem;
   box-sizing: border-box;
 
@@ -72,7 +78,7 @@ button.submit {
   color: #fafafa;
   border: none;
   border-left: .15rem solid #02090a;
-  border-radius: 0 0.2rem 0.2rem 0;
+  border-radius: 0 0.5rem 0.5rem 0;
   font-size: 1rem;
 
   &:hover {

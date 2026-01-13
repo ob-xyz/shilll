@@ -345,9 +345,18 @@ p, .text {
   flex-direction: column;
   margin-left: 0;
   margin-top: 0;
-.h-captcha{
-  margin:0;
-  padding-top:.25rem;
+altcha-widget {
+  position: relative;
+  margin-left:.5rem;
+  margin-top:.1rem;
+  max-width: 200px;
+  --altcha-max-width: 200px;
+  --altcha-border-radius: 10rem;
+  border-radius: 10rem;
+  font-size: 1.1rem;
+  font-family: kl;
+  background:#000;
+  color:#fafafa;
 }
 .input-wrapper {
   width: 38rem;
@@ -359,7 +368,7 @@ input.email {
   font-family: Arial, sans-serif;
   color: #000;
   border: .15rem solid #02090A;
-  border-radius: 0.2rem;
+  border-radius: 0.5rem;
   font-size: 1.1rem;
   box-sizing: border-box;
 
