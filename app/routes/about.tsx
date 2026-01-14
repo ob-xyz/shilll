@@ -28,7 +28,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Good time to brag?</h2>
+      <h2>Is there ever a good time to brag?</h2>
           <Link className="text" to="/subscribe">I'm best known for my newsletters Jeffamazon and The Poast.</Link>
           <br /><br /><br />
           <Link className="text" to="/subscribe">But I'm also a bootstrapped founder just learning how to build a company that'll design and engineer the things I want to exist in the world.</Link>
