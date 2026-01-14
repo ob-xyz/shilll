@@ -31,7 +31,7 @@ export default function Index() {
       <h2>Is there ever a good time to brag?</h2>
           <Link className="text" to="/subscribe">I'm best known for my newsletters Jeffamazon and The Poast.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">But I'm also a bootstrapped founder just learning how to build a company that'll design and engineer the things I want to exist in the world.</Link>
+          <Link className="text" to="/subscribe">But I'm also a bootstrapped founder building a company that makes it easy for me to design and engineer things I can shill to you.</Link>
           <br /><br /><br />
           <Link className="text" to="/subscribe">Born and raised in a samll town. Commerce university grad. First job lasted 5 years working for Rick Hunter at ProSlide before I leaped.</Link>
           <br /><br /><br />
