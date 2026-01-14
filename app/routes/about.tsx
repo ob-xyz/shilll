@@ -29,17 +29,19 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Is there ever a good time to brag?</h2>
-          <Link className="text" to="/subscribe">I'm best known for my newsletters Jeffamazon and The Poast.</Link>
+          <Link className="text" to="/subscribe">I'm best known for my newsletter Jeffamazon. And being voted most likely to never sell a course online.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">But I'm also a bootstrapped founder building a company that makes it easy for me to design and engineer things I can shill to you.</Link>
+          <Link className="text" to="/subscribe">But I'm also a bootstrapped founder building a company that makes it easy for me to design and engineer things I actually want to shill.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Born and raised in a samll town. Commerce university grad. First job lasted 5 years working for Rick Hunter at ProSlide before I leaped.</Link>
+          <Link className="text" to="/subscribe">Born and raised in a samll town. Commerce university grad. First job was a 5 year stint at ProSlide before leaping.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Landed head first in email newsletters. Slowly built my list. Vetted everyone. Re-taught myself how to code so I could design and build a newsletter content format I actually liked.</Link>
+          <Link className="text" to="/subscribe">Landed head first in email newsletters. Slowly built my list. Vetted everyone. And slowly taught myself figma and how to write code.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Made it my thing. Doubled down. Iterated a million more times. And nowadays that's still pretty much all I do.</Link>
+          <Link className="text" to="/subscribe">I started working on this crazy idea that newsletters could be a content format I enjoyed. Less text. More visual. Feels like scrolling a feed.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Voted most likely to never sell a course or write a book. But my newsletters will always be free. If you have feedback or just want to talk the best way to reach me is <span>chris@shilll.com</span></Link>
+          <Link className="text" to="/subscribe">And I called it Jeffamazon....</Link>
+          <br /><br /><br />
+          <Link className="text" to="/subscribe">Have feedback? best way to reach me is <span>chris@jeffamazon.com</span></Link>
       </div>
       <div className="inner-content251">
           <Link className="text" to="/subscribe">My first products.</Link>
