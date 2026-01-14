@@ -35,7 +35,7 @@ export default function Index() {
           <br /><br /><br />
           <Link className="text" to="/subscribe">Born and raised in a samll town. Commerce university grad. First job was a 5 year stint at ProSlide before leaping.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Landed head first in email newsletters. Started posting content online. Slowly built a list. And then vetted everyone twice just to see who's who in the Jeffamazon zoo.</Link>
+          <Link className="text" to="/subscribe">Landed head first in email newsletters. Started posting every day to build a list. Then vetted everyone to see who's who in the Jeffamazon zoo.</Link>
           <br /><br /><br />
           <Link className="text" to="/subscribe">Turns out it's a lot of people like me and you.</Link>
           <br /><br /><br />
