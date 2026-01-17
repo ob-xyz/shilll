@@ -18,7 +18,7 @@ export default function Index() {
           <div className="text">
             <h4>EMPOWERING INDIVIDUALS</h4>
             <h1>Less Scroll. More Life.</h1>
-            <p>1-minute newsletters designed for your mind ✨</p>
+            <p>1-minute newsletters made for your mind ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
