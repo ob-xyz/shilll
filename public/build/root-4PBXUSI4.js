@@ -86,50 +86,27 @@ function Footer() {
         lineNumber: 16,
         columnNumber: 3
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-links", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "column", children: [
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Company" }, void 0, false, {
-            fileName: "app/components/footer.tsx",
-            lineNumber: 32,
-            columnNumber: 5
-          }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/", children: "Home" }, void 0, false, {
-            fileName: "app/components/footer.tsx",
-            lineNumber: 33,
-            columnNumber: 5
-          }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/about", children: "About" }, void 0, false, {
-            fileName: "app/components/footer.tsx",
-            lineNumber: 34,
-            columnNumber: 5
-          }, this)
-        ] }, void 0, true, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-links", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "column", children: [
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Company" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 31,
-          columnNumber: 3
+          lineNumber: 32,
+          columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "column", children: [
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Newsletters" }, void 0, false, {
-            fileName: "app/components/footer.tsx",
-            lineNumber: 37,
-            columnNumber: 5
-          }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "Jeffamazon", href: "https://jeffamazon.com/", rel: "noopener noreferrer", children: "Jeffamazon" }, void 0, false, {
-            fileName: "app/components/footer.tsx",
-            lineNumber: 38,
-            columnNumber: 7
-          }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "The Poast", href: "https://thepoast.com/", rel: "noopener noreferrer", children: "The Poast" }, void 0, false, {
-            fileName: "app/components/footer.tsx",
-            lineNumber: 39,
-            columnNumber: 7
-          }, this)
-        ] }, void 0, true, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/", children: "Home" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 36,
-          columnNumber: 3
+          lineNumber: 33,
+          columnNumber: 5
+        }, this),
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "Jeffamazon", href: "https://jeffamazon.com/", rel: "noopener noreferrer", children: "Jeffamazon" }, void 0, false, {
+          fileName: "app/components/footer.tsx",
+          lineNumber: 34,
+          columnNumber: 5
         }, this)
       ] }, void 0, true, {
+        fileName: "app/components/footer.tsx",
+        lineNumber: 31,
+        columnNumber: 3
+      }, this) }, void 0, false, {
         fileName: "app/components/footer.tsx",
         lineNumber: 30,
         columnNumber: 1
@@ -143,46 +120,46 @@ function Footer() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-meta", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/policies/privacy", children: "Privacy Policy" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 47,
+          lineNumber: 42,
           columnNumber: 5
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://policies.google.com/terms?hl=en-US", target: "_blank", rel: "noopener noreferrer", children: "Terms of Service" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 48,
+          lineNumber: 43,
           columnNumber: 3
         }, this)
       ] }, void 0, true, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 46,
+        lineNumber: 41,
         columnNumber: 3
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-social", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://linkedin.com/company/signore", target: "_blank", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: in_default, alt: "LinkedIn" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 54,
+          lineNumber: 49,
           columnNumber: 5
         }, this) }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 53,
+          lineNumber: 48,
           columnNumber: 3
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "mailto:chris@shilll.com", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: email_default, alt: "Email us" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 57,
+          lineNumber: 52,
           columnNumber: 5
         }, this) }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 56,
+          lineNumber: 51,
           columnNumber: 3
         }, this)
       ] }, void 0, true, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 52,
+        lineNumber: 47,
         columnNumber: 3
       }, this)
     ] }, void 0, true, {
       fileName: "app/components/footer.tsx",
-      lineNumber: 44,
+      lineNumber: 39,
       columnNumber: 1
     }, this)
   ] }, void 0, true, {
@@ -193,7 +170,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-TQ5Y6ZAI.css";
+var global_default = "/build/_assets/global-54VYVDFZ.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -276,4 +253,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-PH4ZN2FY.js.map
+//# sourceMappingURL=/build/root-4PBXUSI4.js.map

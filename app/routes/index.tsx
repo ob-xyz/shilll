@@ -2,9 +2,8 @@ import { Link } from "@remix-run/react";
 import Altcha from '../components/altcha'
 
 import logo from "~/../public/img/ja1.png";
-import header from "~/../public/img/ja3.png";
+import header from "~/../public/img/ja6.png";
 import header2 from "~/../public/img/ads/recads.png";
-import header3 from "~/../public/img/ads/recads2.png";
 import cs from "~/../public/img/cs.jpg";
 
 export default function Index() {
@@ -17,8 +16,8 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h4>EMPOWERING INDIVIDUALS</h4>
-            <h1>Less Scroll. More Life.</h1>
-            <p>1-minute newsletters made for your mind ✨</p>
+            <h1>Less Scroll. Win More.</h1>
+            <p>1-minute newsletters that help you win ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -36,36 +35,19 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2><span>Shilll</span> is a bespoke publisher</h2>
-        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with intentional insights. <span>Our 1 min newsletters are meticulously designed</span> to empower the minds of individuals across the world.</Link>
+        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with intentional insights. <span>Our 1 min newsletter is meticulously designed</span> to empower individuals to win more.</Link>
       </div>
-      <div className="inner-content3sm">
-      <div className="grid">
-      <div className="boxmat">
-         <div className="floatimg">
+
+      <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
-      <div className="box">
-        <h1>Jeffamazon</h1>
-        <p>Daily business news</p>
+      <div className="inner-content25">
+       <h2><span>Jeffamazon</span></h2>
+            <Link className="text" to="/subscribe">Jeffamazon is a quick and insightful daily newsletter that helps you stay ahead in business strategy, technology, and economic trends.</Link>
       <div className="btn">
-          <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
+          <Link className="pricebtn" to="/subscribe">Subscribe for free</Link>
       </div>
       </div>
-      </div>
-            <div className="boxmat">
-        <div className="floatimg">
-            <img src={header3} alt="The Poast newsletter image" />
-        </div>
-      <div className="box">
-        <h1>The Poast</h1>
-        <p>Weekly local news</p>
-      <div className="btn">
-          <a className="pricebtn" href="https://thepoast.com/subscribe">Subscribe for free</a>
-      </div>
-      </div>
-     </div>
-      </div>
-    </div>
       <div className="inner-content255">
         <div className="side1">
        <h2><span>LEADERSHIP</span></h2>
@@ -80,7 +62,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" In a world full of AI brainrot it's good to know what really matters.</Link>
+          <Link className="text" to="/about">" Jeffamazon is the one thing that lets me know what really matters.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

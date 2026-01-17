@@ -2,6 +2,9 @@ import {
   cs_default
 } from "/build/_shared/chunk-EJTSO6MN.js";
 import {
+  ja6_default
+} from "/build/_shared/chunk-KDWZK5T4.js";
+import {
   Link
 } from "/build/_shared/chunk-4RXSKUQF.js";
 import {
@@ -13,9 +16,6 @@ import {
 import {
   __toESM
 } from "/build/_shared/chunk-IU43IUTG.js";
-
-// public/img/ja6.png
-var ja6_default = "/build/_assets/ja6-VVXWPTMH.png";
 
 // public/img/ja7.png
 var ja7_default = "/build/_assets/ja7-OQPRNO2G.png";
@@ -356,4 +356,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/about-O6JXRXKJ.js.map
+//# sourceMappingURL=/build/routes/about-7GQXGFTZ.js.map

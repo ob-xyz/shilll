@@ -175,6 +175,83 @@ p span, .text span{
     border-top-right-radius: 2rem;
   }
 }
+.floatimg{
+  margin-top: 8rem;
+  img{
+    margin: 0 auto;
+    width: 55%;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+  }
+}
+.inner-content25,
+.inner-content25sm,
+.inner-content255,
+.inner-content2555{
+  background:#02090A;
+  border-radius:2rem;
+  padding:0 5rem;
+  margin-left:5rem;
+  margin-right:5rem;
+  width: auto;
+  text-align: center;
+  h2, h2 span{
+      text-align: center;
+      padding-top:3.5rem;
+      margin:0 auto;
+      color:#fafafa;
+    }
+p, .text {
+  text-align: center;
+  padding-top: 1.5rem;
+  font-size: 3rem;
+  font-family: kl;
+  margin: 0 auto;
+  margin-bottom:4rem;
+  color: #7a7a7a; //fb
+  background:#7a7a7a;
+  transition: all 0.4s ease-in-out;
+  background-image: linear-gradient(90deg, #ff6600, #ff0044);
+  background-size: 0% 100%;
+  background-repeat: no-repeat;
+  background-position: left;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  cursor: pointer;
+  &:hover {
+      background-size: 100% 100%;
+      -webkit-text-fill-color: transparent;
+      animation: shimmer 1.5s linear infinite;
+  }
+}
+.btn { 
+  display: flex;
+  margin:3rem auto 5rem auto;
+  .pricebtn {
+    border-radius: 5rem;
+    padding: 1rem 1.75rem;
+    border: 0.2rem solid #fafafa;
+    color: #fafafa;
+    text-decoration: none;
+    font-size: 1.2rem;
+    background: transparent;
+    cursor: pointer;
+    font-family:bold;
+    &:hover {
+      background-color: #3a3a3a;
+      color: #fafafa;
+    }
+  }
+}
+@keyframes shimmer {
+  0% {
+      background-position: -100% 0;
+  }
+  100% {
+      background-position: 200% 0;
+  }
+}
+}
 .inner-content255,
 .inner-content2555{
   background:#02090A;
@@ -636,6 +713,10 @@ form {
     width: 65%;
   }
 }
+.inner-content25{
+  margin-left:1.5rem;
+  margin-right:1.5rem;
+}
 .inner-content255{
   flex-direction: column-reverse;
   margin-top:14rem;
@@ -835,12 +916,13 @@ p, .text{
   font-size: 1.75rem;
 }
 }
+
 .inner-content25{
+  padding-bottom: 0;
   p, .text{
     margin-bottom:2rem;
   }
     .btn{
-        margin-bottom:4rem;
       .pricebtn{
       font-size: 1rem;
       }
