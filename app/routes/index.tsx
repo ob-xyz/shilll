@@ -3,8 +3,8 @@ import Altcha from '../components/altcha'
 
 import logo from "~/../public/img/ja1.png";
 import header from "~/../public/img/ja3.png";
-import header2 from "~/../public/img/ja6.png";
-import header3 from "~/../public/img/ja7.png";
+import header2 from "~/../public/img/ads/recads.png";
+import header3 from "~/../public/img/ads/recads2.png";
 import cs from "~/../public/img/cs.jpg";
 
 export default function Index() {
