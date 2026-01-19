@@ -16,8 +16,8 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h4>EMPOWERING INDIVIDUALS</h4>
-            <h1>Less Scroll. Win More.</h1>
-            <p>1-minute newsletters that help you win ✨</p>
+            <h1>Scroll Less. Win More.</h1>
+            <p>1-minute newsletters that help you succeed ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -35,7 +35,7 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2><span>Shilll</span> is a bespoke publisher</h2>
-        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with intentional insights. <span>Our 1 min newsletter is meticulously designed</span> to empower individuals to win more.</Link>
+        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with intentional insights. <span>Our 1 min newsletters are meticulously designed</span> to empower individuals to do more.</Link>
       </div>
 
       <div className="floatimg">
@@ -62,7 +62,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Jeffamazon is the one thing that lets me know what really matters.</Link>
+          <Link className="text" to="/about">" It helps me know what matters every day.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
