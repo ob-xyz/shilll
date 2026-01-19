@@ -76,7 +76,7 @@ export default function Index() {
       <div className="grid">
       <div className="box">
         <h1>Subscribe</h1>
-        <p>Get what matters delivered straight to your inbox.</p>
+        <p>Get Jeffamazon delivered straight to your inbox.</p>
           <Link className="text" to="/subscribe">Subscribe →</Link>
       </div>
       <div className="box">
