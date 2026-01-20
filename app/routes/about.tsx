@@ -28,16 +28,16 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Is there ever a good time to brag?</h2>
+      <h2>Is it <span>go time?</span></h2>
           <Link className="text" to="/subscribe">I'm best known for my newsletter Jeffamazon.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">But I'm also a bootstrapped founder building a company that designs and engineers things from scratch.</Link>
+          <Link className="text" to="/subscribe">But I'm also a bootstrapped solo entrepreneur designing and engineering things I want to exist.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Born and raised in a samll town. Commerce university grad. First job was a 5 year stint at ProSlide before leaping.</Link>
+          <Link className="text" to="/subscribe">Born and raised in a samll town. Commerce university grad. I spent years working for others before finally taking a leap on my own ideas.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Landed head first in email newsletters. Started posting every day to build a list. Then vetted everyone to see who's who in the zoo.</Link>
+          <Link className="text" to="/subscribe">Landed head first in email newsletters. Started posting every day. Slowly built a list. Then got insanely technical about the details.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Turns out it's a lot of people like me and you.</Link>
+          <Link className="text" to="/subscribe">That's when I actually built The Poast, a 1-minute newsletter designed for people who value signal over noise.</Link>
           <br /><br /><br />
           <Link className="text" to="/subscribe">Have feedback? best way to reach me is <span>chris@shilll.com</span></Link>
       </div>
