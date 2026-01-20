@@ -15,9 +15,9 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>EMPOWERING INDIVIDUALS</h4>
-            <h1>Scroll Less. Win More.</h1>
-            <p>1-minute newsletters that help you succeed ✨</p>
+            <h4>GIVE YOUR MIND A BREAK</h4>
+            <h1>Scroll Less. Know More.</h1>
+            <p>Enjoy one minute of zero noise ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -35,7 +35,7 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2><span>Shilll</span> is a bespoke publisher</h2>
-        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with intentional insights. <span>Our 1 min newsletters are meticulously designed</span> to empower individuals to do more.</Link>
+        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with one minute of zero noise. Our <span>email newsletters</span> are designed for people who value signal over noise.</Link>
       </div>
 
       <div className="floatimg">
