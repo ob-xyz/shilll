@@ -135,7 +135,7 @@ function Index() {
           lineNumber: 38,
           columnNumber: 118
         }, this),
-        " are designed for people who value signal over noise."
+        " are designed for people who actually value signal over noise."
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
         lineNumber: 38,
@@ -321,4 +321,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-NMRMS6MV.js.map
+//# sourceMappingURL=/build/routes/index-IJ5OEF6E.js.map
