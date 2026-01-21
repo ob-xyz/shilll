@@ -81,7 +81,7 @@
 }
 .container .content .inner-content .text h1 {
   margin-left: 0;
-  width: 70%;
+  width: 90%;
 }
 .container .content .inner-content .text p {
   text-align: left;
@@ -141,9 +141,8 @@
   cursor: pointer;
 }
 .container .content .inner-content1 img {
-  margin-left: -7rem;
-  margin-bottom: 0rem;
-  width: 70%;
+  margin-left: -3.5rem;
+  width: 100%;
 }
 .container .inner-content2 {
   background: #02090A;

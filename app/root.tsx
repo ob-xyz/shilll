@@ -1,6 +1,5 @@
 import type { MetaFunction } from "@remix-run/node";
 import type { LinksFunction } from "@remix-run/node";
-import { useEffect } from "react";
 import Footer from "./components/footer";
 
 import {
@@ -9,8 +8,7 @@ import {
   Meta,
   Outlet,
   Scripts,
-  ScrollRestoration,
-  useLocation
+  ScrollRestoration
 } from "@remix-run/react";
 
 import globalStyles from "~/style/global/global.css";
@@ -31,8 +29,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll",
-  description: "Making products people love.",
+  title: "Shilll : Just Make Something",
+  description: "The physical goods company.",
   viewport: "width=device-width,initial-scale=1"
 });
 

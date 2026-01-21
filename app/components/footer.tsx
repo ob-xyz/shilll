@@ -2,8 +2,6 @@ import { Link } from "@remix-run/react";
 import Altcha from "./altcha";
 
 import linkedin from "~/../public/img/in.png";
-import ig from "~/../public/img/ig.png";
-import x from "~/../public/img/x.png";
 import email from "~/../public/img/email.png";
 
 export default function Footer() {
@@ -15,7 +13,7 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-          <p>Stay informed with Shilll</p>
+          <p>Stay informed about Shilll</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />

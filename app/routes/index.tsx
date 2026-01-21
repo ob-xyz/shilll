@@ -1,8 +1,8 @@
 import { Link } from "@remix-run/react";
-import Altcha from '../components/altcha'
+import Altcha from "../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
-import header from "~/../public/img/ja6.png";
+import header from "~/../public/img/spoon.png";
 import header2 from "~/../public/img/ads/recads.png";
 import cs from "~/../public/img/cs.jpg";
 
@@ -15,9 +15,9 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>GIVE YOUR MIND A BREAK</h4>
-            <h1>Less Scroll. More Joy.</h1>
-            <p>Enjoy one minute of zero noise ✨</p>
+            <h4>JUST MAKE SOMETHING</h4>
+            <h1>Become a product making machine.</h1>
+            <p>Subscribe to stay informed ✨</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -34,8 +34,8 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2><span>Shilll</span> is a bespoke publisher</h2>
-        <Link className="text" to="/subscribe">Shilll replaces infinite scrolling with one minute of zero noise. Our <span>1 min newsletters</span> are designed for people who value signal over noise.</Link>
+      <h2><span>Shilll</span> is a physical goods company</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Currently we're designing and engineering a backbone support system that enables solo entrepreneurs and small teams to make something exist in the world. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
       </div>
 
       <div className="floatimg">
@@ -43,7 +43,7 @@ export default function Index() {
       </div>
       <div className="inner-content25">
        <h2><span>Jeffamazon</span></h2>
-            <Link className="text" to="/subscribe">Jeffamazon is a quick and insightful daily newsletter that helps you stay ahead in business strategy, technology, and economic trends.</Link>
+            <Link className="text" to="/subscribe">Enjoy our daily business newsletter while you wait for us to make something.</Link>
       <div className="btn">
           <Link className="pricebtn" to="/subscribe">Subscribe for free</Link>
       </div>
@@ -62,7 +62,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" It helps me know what matters every day.</Link>
+          <Link className="text" to="/about">" Just make something.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
@@ -81,7 +81,7 @@ export default function Index() {
       </div>
       <div className="box">
         <h1>Advertise</h1>
-        <p>Want to post? We're looking for new advertisers.</p>
+        <p>Want to post in Jeffamazon? We're looking for advertisers.</p>
           <Link className="text" to="/ads/ad-form">Get in touch →</Link>
       </div>
       </div>
