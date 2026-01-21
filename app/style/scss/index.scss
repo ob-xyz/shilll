@@ -821,7 +821,7 @@ form {
     }
   }
 .inner-content1 {
-  margin-top: 2.5rem;
+  margin-top: 0rem;
   img {
     display: block;
     margin-left: auto;
@@ -859,6 +859,32 @@ form {
   img{
     width: 74%;
   }
+}
+.inner-content25{
+  margin-left:1.5rem;
+  margin-right:1.5rem;
+  padding:0 1rem;
+  padding-bottom:3rem;
+  h2, h2 span{
+      padding-top:2.25rem;
+      font-size:2.25rem;
+    }
+p, .text {
+  padding-top: 1rem;
+  font-size: 1.75rem;
+}
+}
+.inner-content25{
+  padding-bottom: 0;
+  margin-bottom:6rem;
+  p, .text{
+    margin-bottom:2rem;
+  }
+    .btn{
+      .pricebtn{
+      font-size: 1rem;
+      }
+    }
 }
 .inner-content255{
   flex-direction: column-reverse;
@@ -914,18 +940,6 @@ p, .text{
   padding-top: 1rem;
   font-size: 1.75rem;
 }
-}
-
-.inner-content25{
-  padding-bottom: 0;
-  p, .text{
-    margin-bottom:2rem;
-  }
-    .btn{
-      .pricebtn{
-      font-size: 1rem;
-      }
-    }
 }
 .inner-content3sm{
   margin:0 0;

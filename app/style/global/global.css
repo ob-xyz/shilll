@@ -846,7 +846,7 @@
     width: 22rem;
   }
   .container .content .inner-content1 {
-    margin-top: 2.5rem;
+    margin-top: 0rem;
   }
   .container .content .inner-content1 img {
     display: block;
@@ -883,6 +883,30 @@
   }
   .container .floatimg img {
     width: 74%;
+  }
+  .container .inner-content25 {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    padding: 0 1rem;
+    padding-bottom: 3rem;
+  }
+  .container .inner-content25 h2, .container .inner-content25 h2 span {
+    padding-top: 2.25rem;
+    font-size: 2.25rem;
+  }
+  .container .inner-content25 p, .container .inner-content25 .text {
+    padding-top: 1rem;
+    font-size: 1.75rem;
+  }
+  .container .inner-content25 {
+    padding-bottom: 0;
+    margin-bottom: 6rem;
+  }
+  .container .inner-content25 p, .container .inner-content25 .text {
+    margin-bottom: 2rem;
+  }
+  .container .inner-content25 .btn .pricebtn {
+    font-size: 1rem;
   }
   .container .inner-content255 {
     flex-direction: column-reverse;
@@ -934,15 +958,6 @@
   .container .inner-content251 p, .container .inner-content251 .text {
     padding-top: 1rem;
     font-size: 1.75rem;
-  }
-  .container .inner-content25 {
-    padding-bottom: 0;
-  }
-  .container .inner-content25 p, .container .inner-content25 .text {
-    margin-bottom: 2rem;
-  }
-  .container .inner-content25 .btn .pricebtn {
-    font-size: 1rem;
   }
   .container .inner-content3sm {
     margin: 0 0;
@@ -1765,7 +1780,7 @@
     width: 30rem;
   }
   .subscribe-container .content .inner-content1 {
-    margin-top: 2.5rem;
+    margin-top: 0rem;
   }
   .subscribe-container .content .inner-content1 img {
     display: block;
@@ -1831,7 +1846,7 @@
     width: 22rem;
   }
   .subscribe-container .content .inner-content1 {
-    margin-top: 2.5rem;
+    margin-top: 0rem;
   }
   .subscribe-container .content .inner-content1 img {
     display: block;
