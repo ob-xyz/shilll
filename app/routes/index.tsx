@@ -35,7 +35,7 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2><span>Shilll</span> is a physical goods company</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Currently we're designing and engineering a backbone support system that enables solo entrepreneurs and small teams to make something exist in the world. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
+        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Today we're a small team of highly technical advisors helping solo entrepreneurs and small teams turn a napkin sketch into a physical product people love. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
       </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
