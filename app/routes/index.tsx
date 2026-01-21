@@ -42,7 +42,7 @@ export default function Index() {
       </div>
       <div className="inner-content25">
        <h2><span>Jeffamazon</span></h2>
-            <Link className="text" to="/subscribe">Enjoy our daily business newsletter while you wait for us to make something.</Link>
+            <Link className="text" to="/subscribe">Subscribe to our daily newsletter for free insights and ideas</Link>
       <div className="btn">
           <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
       </div>
