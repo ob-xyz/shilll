@@ -10,14 +10,14 @@ export default function Index() {
   return (
     <div className="container">
       <div className="logo">
-        <img src={logo} alt="Jeffamazon Logo" />
+        <img src={logo} alt="Shilll Logo" />
       </div>
       <div className="content">
         <div className="inner-content">
           <div className="text">
             <h4>JUST MAKE SOMETHING</h4>
             <h1>Become a product making machine.</h1>
-            <p>Subscribe to stay informed ✨</p>
+            <p>Wanna make something? Let's talk 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -30,14 +30,13 @@ export default function Index() {
       </form>
         </div>
         <div className="inner-content1">
-            <img src={header} alt="Jeffamazon newsletter image" />
+            <img src={header} alt="Shilll image" />
         </div>
       </div>
       <div className="inner-content2">
       <h2><span>Shilll</span> is a physical goods company</h2>
         <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Currently we're designing and engineering a backbone support system that enables solo entrepreneurs and small teams to make something exist in the world. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
       </div>
-
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
@@ -45,7 +44,7 @@ export default function Index() {
        <h2><span>Jeffamazon</span></h2>
             <Link className="text" to="/subscribe">Enjoy our daily business newsletter while you wait for us to make something.</Link>
       <div className="btn">
-          <Link className="pricebtn" to="/subscribe">Subscribe for free</Link>
+          <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
       </div>
       </div>
       <div className="inner-content255">

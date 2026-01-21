@@ -2,19 +2,19 @@ import { Link } from "@remix-run/react";
 import Altcha from "../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
-import header from "~/../public/img/ja6.png";
+import header from "~/../public/img/cs.jpg";
 
 export default function Index() {
   return (
     <div className="subscribe-container">
       <div className="logo">
-        <img src={logo} alt="Jeffamazon Logo" />
+        <img src={logo} alt="Shilll Logo" />
       </div>
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>SIGN UP FOR JEFFAMAZON</h4>
-            <h1>Join 32K+</h1>
+            <h4>WANNA MAKE SOMETHING?</h4>
+            <h1>Let's talk.</h1>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -33,8 +33,8 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Start your day with <span>Jeffamazon</span></h2>
-        <Link className="text" to="/subscribe">Don't waste good mornings scrolling to stay ahead. <span>Jeffamazon is the 1 min antidote keeping 32,000+ people in the loop</span> about what matters across the business world.</Link>
+      <h2><span>Shilll</span> is a physical goods company</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Currently we're designing and engineering a backbone support system that enables solo entrepreneurs and small teams to make something exist in the world. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
       </div>
     </div>
   );
