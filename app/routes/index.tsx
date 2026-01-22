@@ -15,9 +15,8 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>JUST MAKE SOMETHING</h4>
             <h1>Become a product making machine.</h1>
-            <p>Wanna make something? Let's talk 🚀</p>
+            <p>Start making physical things people love 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -35,7 +34,7 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2><span>Shilll</span> is a physical goods company</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Today we're a small team of highly technical advisors guiding solo entrepreneurs and small teams to easily turn quick napkin sketches into a physical products people love. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
+        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Today we're a small team of highly technical advisors guiding solo entrepreneurs and small teams on quickly turning napkin sketches into a physical products people love. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
       </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -61,7 +60,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Just make something.</Link>
+          <Link className="text" to="/about">" Make somethig physical.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
