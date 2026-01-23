@@ -15,8 +15,9 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
+            <h4>GET STARTED TODAY</h4>
             <h1>Become a product making machine.</h1>
-            <p>Start making physical things people love 🚀</p>
+            <p>Sign up to learn more 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -33,14 +34,20 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2><span>Shilll</span> is a physical goods company</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things.</Link>
+      <h2><span>Shilll</span> is an institution for builders</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is to put your future in the palm of your hands.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Today we're just a small team of highly technical advisors making emulators and sims for lights-out manufacturing.</Link>
+        <Link className="text" to="/subscribe">Our state of the art training ground helps high-performance people maximize future potential.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Our first objective is building a backbone support system that helps solo entrepreneurs and small teams become product making machines.</Link>
+        <Link className="text" to="/subscribe">We're not a venture capital firm or an entrepreneur-in-resdience program. We're a place for people who care deeply about having an amazing career, either as a founder or a leader within a world leading company.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">If you're someone designing, engineering, or prototyping physical things : Shilll will help you go from atoms to products people love.</Link>
+        <Link className="text" to="/subscribe">At our core Shilll is a highly vetted community of technical advisors who are some of the world's best product builders still building things.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/subscribe">We are the makers of beloved brand. The founders of well known companies. And a few of the technically insane trying to do it all.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/subscribe">And now we're combining our unique skills into a high-performance academy that helps you maximize your future potential.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/subscribe">Click here to learn more.</Link>
       </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -66,7 +73,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Make somethig physical.</Link>
+          <Link className="text" to="/about">" We're just a buncha builders building things.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

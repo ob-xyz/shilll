@@ -13,7 +13,7 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-          <p>Wanna make something? Let's talk 🚀</p>
+          <p>Sign up to learn more 🚀</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
