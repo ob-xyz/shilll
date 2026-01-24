@@ -2,7 +2,7 @@ import { Link } from "@remix-run/react";
 import Altcha from "../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
-import header from "~/../public/img/spoon.png";
+import header from "~/../public/img/ja6.png";
 
 export default function Index() {
   return (
@@ -13,8 +13,8 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>MAKING SOMETHING PHYSICAL?</h4>
-            <h1>Let's talk.</h1>
+            <h4>JEFFAMAZON 1-MINUTE NEWSLETTER</h4>
+            <h1>Join 32K+</h1>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -33,8 +33,8 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2><span>Shilll</span> is a physical goods company</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is empowering individuals to make physical things. Today we're a small team of highly technical advisors guiding solo entrepreneurs and small teams to easily turn quick napkin sketches into a physical products people love. If you'd like to join our mission contact <span>chris@shilll.com</span></Link>
+      <h2>Start your day with <span>Jeffamazon</span></h2>
+        <Link className="text" to="/subscribe">Don't waste good mornings scrolling to stay informed. Jeffamazon is the <span>1 minute antidote keeping 32,000+ people in the loop</span> about what really matters across the world.</Link>
       </div>
     </div>
   );

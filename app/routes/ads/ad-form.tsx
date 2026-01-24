@@ -2,7 +2,7 @@ import { Link } from "@remix-run/react";
 import Altcha from "../../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
-import header from "~/../public/img/ja3.png";
+import header from "~/../public/img/ja6.png";
 
 export default function Index() {
   return (
@@ -13,8 +13,8 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>ADVERTISE WITH US</h4>
-            <h1>Just reach out.</h1>
+          <h4>ADVERTISE WITH US</h4>
+            <h1>Reach 32K+</h1>
           </div>
           <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <div className="input-wrapper">
@@ -34,10 +34,10 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-        <h2>Connect with your next customers on <span>Shilll</span></h2>
-        <Link className="text" to="/subscribe">
-          Our audience is bold, decisive, and always looking for what's new. 
-          So whether you want to use videos, images, or words, there's a Shilll 
+        <h2>Connect with your next customers on <span>Jeffamazon</span></h2>
+        <Link className="text" to="/ads/ad-form">
+          Our audience is highly vetted, decisive, and always looking for what's new. 
+          So whether you want to use videos, images, or words, there's a Jeffamazon 
           ad format that'll help you reach our audience.
         </Link>
       </div>

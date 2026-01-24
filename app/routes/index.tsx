@@ -14,7 +14,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Shilll offers founder level compensation for people who make things</h1>
+            <h1>Shilll offers founder level compensation for people who do big things</h1>
             <p>Sign up to stay informed 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
@@ -29,25 +29,20 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>A compensation package as flexible as your active life</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is to help you win life and live well.</Link>
+      <h2>A compensation package for your flexible lifestyle</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated the way you want.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where you trade the prime years of your career to chase a title in a hierarchy designed to make you feel small.</Link>
+        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" - a system where you trade the prime years of your career trying to figure out how to manage people instead of building things.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">At Shilll we look for high-agency individuals, solo entrepreneurs, and small teams of up to 5 people who are obssessed with the craft of making things.</Link>
+        <Link className="text" to="/subscribe"> And in the old world, your reward for excellence was a title and a fixed salary.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">If you're a "well-rounded" employee who likes gold stars, then Shilll won't be a good fit for you.</Link>
-        <br /><br /><br />
-        <Link className="text" to="/subscribe">We look for people who build real value and need flexible compensation to keep up with their growing lifestyle.</Link>
-        <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll allows people at existing companies, solo entrepreneurs, or even small teams of up to five people to choose their compensation by mixing base salary, equity preference, restricted stock units, or stock options.</Link>
-      </div>
+        <Link className="text" to="/subscribe">Shilll offers individuals, solo entrepreneurs, and small teams of up to five people the ability to mix and choose how they want to be compensated between base salary, equity preference, restricted stock units, and stock options.</Link>      </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
       <div className="inner-content25">
        <h2><span>Jeffamazon</span></h2>
-            <Link className="text" to="/subscribe">Get our daily business newsletter delivered straight to your inbox</Link>
+            <Link className="text" to="/subscribe">Check out our daily newsletter</Link>
       <div className="btn">
           <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
       </div>
@@ -66,7 +61,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Shilll is for people who like winning and living well.</Link>
+          <Link className="text" to="/about">" Shilll is for people who like winning and living more.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
