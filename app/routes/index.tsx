@@ -29,12 +29,10 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>A compensation package for your flexible lifestyle</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated the way you want.</Link>
+      <h2>Build a compensation package that's as flexible as you are</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" - a system where you trade the prime years of your career trying to figure out how to manage people instead of building things.</Link>
-        <br /><br /><br />
-        <Link className="text" to="/subscribe"> And in the old world, your reward for excellence was a title and a fixed salary.</Link>
+        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence trades the prime years of your career for a title and salary that's based on how many people you manage instead of what you can do.</Link>
         <br /><br /><br />
         <Link className="text" to="/subscribe">Shilll offers individuals, solo entrepreneurs, and small teams of up to five people the ability to mix and choose how they want to be compensated between base salary, equity preference, restricted stock units, and stock options.</Link>      </div>
       <div className="floatimg">
