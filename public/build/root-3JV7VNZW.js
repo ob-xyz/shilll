@@ -170,7 +170,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-NUE7SKYH.css";
+var global_default = "/build/_assets/global-SEP6VCVB.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -189,8 +189,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Shilll : Do Big Things",
-  description: "Try Shilll to know how much you should be compensated for your work.",
+  title: "Shilll",
+  description: "Build a compensation package that's as flexible as you are.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -253,4 +253,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-MTFD7LQP.js.map
+//# sourceMappingURL=/build/root-3JV7VNZW.js.map

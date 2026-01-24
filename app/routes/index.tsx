@@ -29,7 +29,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Build a compensation package that's as flexible as you are</h2>
+      <h2>Build a compensation package that's as flexible as you are today</h2>
         <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated.</Link>
         <br /><br /><br />
         <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence trades the prime years of your career for a title and salary that's based on how many people you manage instead of what you can do.</Link>

@@ -97,7 +97,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a compensation package that's as flexible as you are" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a compensation package that's as flexible as you are today" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 7
@@ -328,4 +328,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-BSUBGWX5.js.map
+//# sourceMappingURL=/build/routes/index-42CHSAJ2.js.map
