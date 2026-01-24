@@ -36,7 +36,7 @@
 }
 .container .logo {
   background: none;
-  margin: 2rem 0 1.25rem 5rem;
+  margin-top: 2rem;
   width: 2.5rem;
 }
 .container h1, .container h2, .container h3, .container span {
@@ -44,6 +44,9 @@
   text-align: left;
   font-family: ku;
   font-size: 4.5rem;
+}
+.container h1 {
+  font-family: kl;
 }
 .container h2 {
   font-size: 4.5rem;
@@ -70,32 +73,32 @@
 }
 .container .content {
   display: flex;
-  flex-direction: row;
-  margin-left: 0;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 5rem;
+  margin-top: 4rem;
 }
 .container .content .inner-content {
   display: flex;
   flex-direction: column;
-  margin-left: 5rem;
-  margin-top: 2.5rem;
 }
 .container .content .inner-content .text h1 {
-  margin-left: 0;
-  width: 90%;
+  text-align: center;
+  font-size: 5rem;
+  width: 85%;
+}
+.container .content .inner-content .text h1 span {
+  font-size: 5rem;
 }
 .container .content .inner-content .text p {
-  text-align: left;
-  padding: 2rem 0rem 0.5rem 0;
-  margin-left: 0;
+  padding: 1rem 0rem 0.5rem 0;
 }
 .container .content .inner-content form {
   display: flex;
   flex-direction: column;
-  margin-left: 0;
 }
 .container .content .inner-content form altcha-widget {
   position: relative;
-  margin-left: 0;
   margin-top: 0.1rem;
   max-width: 200px;
   --altcha-max-width: 200px;
@@ -139,10 +142,6 @@
 .container .content .inner-content form button.submit:hover {
   opacity: 0.85;
   cursor: pointer;
-}
-.container .content .inner-content1 img {
-  margin-left: -3.5rem;
-  width: 100%;
 }
 .container .inner-content2 {
   background: #02090A;
@@ -434,9 +433,9 @@
 }
 .container .inner-content2555 p, .container .inner-content2555 .text {
   text-align: left;
-  font-family: ku;
+  font-family: kl;
   background-color: #fafafa;
-  font-size: 4rem;
+  font-size: 4.5rem;
   margin-bottom: 0;
 }
 .container .inner-content2555 .tag {

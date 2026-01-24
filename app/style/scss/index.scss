@@ -6,7 +6,7 @@
     }
     .logo{
         background:none;
-        margin:2rem 0 1.25rem 5rem;
+        margin-top:2rem;
         width: 2.5rem;
     }
     h1, h2, h3, span{
@@ -14,6 +14,9 @@
         text-align: left;
         font-family: ku;
         font-size:4.5rem;
+    }
+    h1{
+      font-family: kl;
     }
     h2 {
         font-size:4.5rem;
@@ -40,31 +43,31 @@
     }
 .content{
   display:flex;
-  flex-direction:row;
-  margin-left:0;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 5rem;
+  margin-top: 4rem;
 .inner-content{
       display: flex;
       flex-direction: column;
-      margin-left:5rem;
-      margin-top:2.5rem;
 .text{
     h1{
-        margin-left:0;
-        width: 90%;
+      text-align: center;
+      font-size:5rem;
+      width:85%;
+    }
+    h1 span{
+      font-size: 5rem;
     }
     p{
-        text-align: left;
-        padding:2rem 0rem .5rem 0;
-        margin-left:0;
+        padding:1rem 0rem .5rem 0;
     }
 }
 form {
   display: flex;
   flex-direction: column;
-  margin-left: 0;
 altcha-widget {
   position: relative;
-  margin-left:0;
   margin-top:.1rem;
   max-width: 200px;
   --altcha-max-width: 200px;
@@ -114,13 +117,7 @@ button.submit {
 }
 }
   }
-.inner-content1{
-    img{
-      margin-left:-3.5rem;
-      width: 100%;
-    }
   }
-}
 .inner-content2{
   background:#02090A;
   border-top-left-radius:2rem;
@@ -374,9 +371,9 @@ p, .text {
   text-align: left;
   p, .text{
     text-align: left;
-    font-family: ku;
+    font-family: kl;
     background-color:#fafafa;
-    font-size: 4rem;
+    font-size: 4.5rem;
     margin-bottom: 0; 
   }
   .tag{

@@ -2,7 +2,6 @@ import { Link } from "@remix-run/react";
 import Altcha from "../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
-import header from "~/../public/img/spoon.png";
 import header2 from "~/../public/img/ads/recads.png";
 import cs from "~/../public/img/cs.jpg";
 
@@ -15,9 +14,8 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>GET STARTED TODAY</h4>
-            <h1>Become a product making machine.</h1>
-            <p>Sign up to learn more 🚀</p>
+            <h1>Shilll offers founder level compensation for people who make things</h1>
+            <p>Sign up to stay informed 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
         <div className="input-wrapper">
@@ -29,32 +27,27 @@ export default function Index() {
         <input type="hidden" name="nonce" />
       </form>
         </div>
-        <div className="inner-content1">
-            <img src={header} alt="Shilll image" />
-        </div>
       </div>
       <div className="inner-content2">
-      <h2><span>Shilll</span> is an institution for builders</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is to put your future in the palm of your hands.</Link>
+      <h2>A compensation package as flexible as your active life</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is to help you win life and live well.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Our state of the art training ground helps high-performance people maximize future potential.</Link>
+        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where you trade the prime years of your career to chase a title in a hierarchy designed to make you feel small.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">We're not a venture capital firm or an entrepreneur-in-resdience program. We're a place for people who care deeply about having an amazing career, either as a founder or a leader within a world leading company.</Link>
+        <Link className="text" to="/subscribe">At Shilll we look for high-agency individuals, solo entrepreneurs, and small teams of up to 5 people who are obssessed with the craft of making things.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">At our core Shilll is a highly vetted community of technical advisors who are some of the world's best product builders still building things.</Link>
+        <Link className="text" to="/subscribe">If you're a "well-rounded" employee who likes gold stars, then Shilll won't be a good fit for you.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">We are the makers of beloved brand. The founders of well known companies. And a few of the technically insane trying to do it all.</Link>
+        <Link className="text" to="/subscribe">We look for people who build real value and need flexible compensation to keep up with their growing lifestyle.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">And now we're combining our unique skills into a high-performance academy that helps you maximize your future potential.</Link>
-        <br /><br /><br />
-        <Link className="text" to="/subscribe">Click here to learn more.</Link>
+        <Link className="text" to="/subscribe">Shilll allows people at existing companies, solo entrepreneurs, or even small teams of up to five people to choose their compensation by mixing base salary, equity preference, restricted stock units, or stock options.</Link>
       </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
       <div className="inner-content25">
        <h2><span>Jeffamazon</span></h2>
-            <Link className="text" to="/subscribe">Get daily business news and insights delivered straight to your inbox</Link>
+            <Link className="text" to="/subscribe">Get our daily business newsletter delivered straight to your inbox</Link>
       <div className="btn">
           <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
       </div>
@@ -73,7 +66,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" We're just a buncha builders building things.</Link>
+          <Link className="text" to="/about">" Shilll is for people who like winning and living well.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
