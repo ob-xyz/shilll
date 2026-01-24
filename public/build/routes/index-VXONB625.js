@@ -35,7 +35,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll offers founder level compensation for people who do big things" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll offers founder level compensation for builders who do big things" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
           columnNumber: 13
@@ -97,7 +97,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a compensation package that's as flexible as you are today" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a comp package that's as flexible as you are right now" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 7
@@ -142,7 +142,7 @@ function Index() {
         lineNumber: 36,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: "Shilll offers individuals, solo entrepreneurs, and small teams of up to five people the ability to mix and choose how they want to be compensated between base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: "Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated for work between a base salary, equity preference, restricted stock units, or stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 37,
         columnNumber: 9
@@ -241,7 +241,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Shilll is for people who like winning and living more.' }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Shilll is for builders who like winning and living more every day.' }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 62,
         columnNumber: 11
@@ -328,4 +328,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-42CHSAJ2.js.map
+//# sourceMappingURL=/build/routes/index-VXONB625.js.map

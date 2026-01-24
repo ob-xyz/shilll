@@ -14,7 +14,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Shilll offers founder level compensation for people who do big things</h1>
+            <h1>Shilll offers founder level compensation for builders who do big things</h1>
             <p>Sign up to stay informed 🚀</p>
           </div>
       <form method="post" action="https://app.jeffamzn.com/subscription/form">
@@ -29,12 +29,12 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Build a compensation package that's as flexible as you are today</h2>
+      <h2>Build a comp package that's as flexible as you are right now</h2>
         <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated.</Link>
         <br /><br /><br />
         <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence trades the prime years of your career for a title and salary that's based on how many people you manage instead of what you can do.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll offers individuals, solo entrepreneurs, and small teams of up to five people the ability to mix and choose how they want to be compensated between base salary, equity preference, restricted stock units, and stock options.</Link>      </div>
+        <Link className="text" to="/subscribe">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated for work between a base salary, equity preference, restricted stock units, or stock options.</Link>      </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
@@ -59,7 +59,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Shilll is for people who like winning and living more.</Link>
+          <Link className="text" to="/about">" Shilll is for builders who like winning and living more every day.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
