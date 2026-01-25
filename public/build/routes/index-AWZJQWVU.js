@@ -151,7 +151,7 @@ function Index() {
         lineNumber: 34,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "Get a real taste for the upsides of entrepreneurship without having to risk it all. Start, build, and get compensated for contributing like a founder. Immediate vesting. Zero cliffs. And bigger upside \u{1F680}\u{1F680}\u{1F680}" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "Get a real taste for the upsides of entrepreneurship without having to risk it all. Start, build, and get compensated for real contributions. Immediate vesting. Zero cliffs. And founder upside \u{1F680}\u{1F680}\u{1F680}" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 35,
         columnNumber: 9
@@ -340,4 +340,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-SNCFYYUN.js.map
+//# sourceMappingURL=/build/routes/index-AWZJQWVU.js.map
