@@ -233,7 +233,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Most companies pretend stability still exists. I built this while hiring for Jeffamazon because I needed a way to compensate contributors like adults \u2014 not employees, not contractors, and not fake co-founders.' }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" People should be able to join, contribute, and leave without legal gymnastics or emotional debt.' }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 59,
         columnNumber: 11
@@ -320,4 +320,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-TKQSXN3X.js.map
+//# sourceMappingURL=/build/routes/index-XPXROYQK.js.map

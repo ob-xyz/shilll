@@ -56,7 +56,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Most companies pretend stability still exists. I built this while hiring for Jeffamazon because I needed a way to compensate contributors like adults — not employees, not contractors, and not fake co-founders.</Link>
+          <Link className="text" to="/about">" People should be able to join, contribute, and leave without legal gymnastics or emotional debt.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
