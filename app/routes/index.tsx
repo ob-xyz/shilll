@@ -23,11 +23,11 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Get real upside with <span>Shilll</span></h2>
-        <Link className="text" to="/forms/get-access">Shilll's mission is to help you build your life.</Link>
+        <Link className="text" to="/forms/get-access">Shilll's mission is to help you build your dreams.</Link>
         <br /><br /><br />
         <Link className="text" to="/forms/get-access">For decades success meant climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's often not even tied to your real work.</Link>
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">At Shilll we unlock real ways for builders, solo entrepreneurs, and small teams to have flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/forms/get-access">At Shilll we're unlocking ways to give builders, solo entrepreneurs, and small teams more flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
         <Link className="text" to="/forms/get-access">Build your dreams. Find what you love. And get a real taste of entrepreneurship without being afraid to fail.</Link>      
         </div>
