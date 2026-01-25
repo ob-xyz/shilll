@@ -118,7 +118,7 @@ function Index() {
         lineNumber: 30,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "At Shilll we offer builders, solo entrepreneurs, and small teams of up to five people more upside across base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "At Shilll we offer builders, solo entrepreneurs, and small teams of up to 5 people flexibility to specify base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 31,
         columnNumber: 9
@@ -240,7 +240,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Most companies pretend stability still exists. I built this while hiring for Jeffamazon because I needed a way to compensate contributors like adults \u2014 not employees, not contractors, and not fake co-founders.' }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" I just want to create more stories of people getting more upside in life.' }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 59,
         columnNumber: 11
@@ -327,4 +327,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-WDHNG7A7.js.map
+//# sourceMappingURL=/build/routes/index-QC4AD4ZG.js.map

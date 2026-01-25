@@ -28,7 +28,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/get-info">For decades success meant climbing "The Corporate Ladder" where reward for excellence meant spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">At Shilll we offer builders, solo entrepreneurs, and small teams of up to five people more upside across base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/get-info">At Shilll we offer builders, solo entrepreneurs, and small teams of up to 5 people flexibility to specify base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
         <Link className="text" to="/get-info">Get a real taste for the upside of entrepreneurship without having to risk it all. Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. And more upside 🚀🚀🚀</Link>      
         </div>
@@ -56,7 +56,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Most companies pretend stability still exists. I built this while hiring for Jeffamazon because I needed a way to compensate contributors like adults — not employees, not contractors, and not fake co-founders.</Link>
+          <Link className="text" to="/about">" I just want to create more stories of people getting more upside in life.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
