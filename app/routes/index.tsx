@@ -15,29 +15,29 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Shilll offers founder level compensation to builders</h1>
-            <p>Build your own compensation package. Get immediate vesting. Zero cliffs. And the same tax-upside as a startup founder 🚀</p>
+            <p>Start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. Better upside 🚀</p>
           </div>
         <div className="btn">
-              <Link className="pricebtn" to="/ads/ad-form">Try shilll</Link>
+              <Link className="pricebtn" to="/ads/ad-form">Request access</Link>
         </div>
         </div>
       </div>
       <div className="inner-content2">
       <h2>Build a compensation package that's as flexible as you are</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is helping builders get compensated.</Link>
+        <Link className="text" to="/subscribe">Shilll's mission is helping builders do more.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on what you can build.</Link>
+        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on what you can do.</Link>
         <br /><br /><br />
         <Link className="text" to="/subscribe">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated in base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll gives you immediate vesting with zero cliffs. And the same tax-upside as a startup founder.</Link>      
+        <Link className="text" to="/subscribe">Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And better upside.</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>
       <div className="inner-content25">
        <h2><span>Jeffamazon</span></h2>
-            <Link className="text" to="/subscribe">Check out our daily newsletter</Link>
+          <p><a className="pricebtn" href="https://jeffamazon.com/subscribe">Check out our daily newsletter</a></p>
       <div className="btn">
           <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
       </div>
