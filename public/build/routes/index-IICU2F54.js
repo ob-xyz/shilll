@@ -66,12 +66,12 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a compensation package that's as flexible as you are" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Enjoy a compensation package that's as flexible as you are" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: "Shilll's mission is helping builders do more." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: "Shilll's mission is helping builders live more." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 27,
         columnNumber: 9
@@ -320,4 +320,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-KJMTCRIK.js.map
+//# sourceMappingURL=/build/routes/index-IICU2F54.js.map

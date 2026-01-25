@@ -23,8 +23,8 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Build a compensation package that's as flexible as you are</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is helping builders do more.</Link>
+      <h2>Enjoy a compensation package that's as flexible as you are</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is helping builders live more.</Link>
         <br /><br /><br />
         <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on what you can do.</Link>
         <br /><br /><br />
