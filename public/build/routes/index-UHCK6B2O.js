@@ -118,7 +118,7 @@ function Index() {
         lineNumber: 30,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "At Shilll we offer builders, solo entrepreneurs, and small teams of up to 5 people flexibility to specify base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "At Shilll we're unlocking new ways for builders, solo entrepreneurs, and small teams to have flexibility over their base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 31,
         columnNumber: 9
@@ -327,4 +327,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-VNFXD6ZJ.js.map
+//# sourceMappingURL=/build/routes/index-UHCK6B2O.js.map
