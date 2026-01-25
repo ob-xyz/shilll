@@ -85,7 +85,7 @@
 .container .content .inner-content .text h1 {
   text-align: center;
   font-size: 5rem;
-  width: 80%;
+  width: 75%;
 }
 .container .content .inner-content .text h1 span {
   font-size: 5rem;
@@ -652,7 +652,7 @@
   }
   .container .content .inner-content .text h1, .container .content .inner-content .text span {
     font-size: 3.5rem;
-    width: 80%;
+    width: 60%;
   }
   .container .content .inner-content .text p {
     padding-top: 2.5rem;
@@ -704,7 +704,7 @@
   }
   .container .content .inner-content .text h1 {
     font-size: 3.5rem;
-    width: 60%;
+    width: 100%;
   }
   .container .content .inner-content .text p {
     padding-top: 2.5rem;

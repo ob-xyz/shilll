@@ -2,8 +2,8 @@ import {
   cs_default
 } from "/build/_shared/chunk-EJTSO6MN.js";
 import {
-  recads_default
-} from "/build/_shared/chunk-HL642WJ4.js";
+  ja6_default
+} from "/build/_shared/chunk-BJSHEBP3.js";
 import {
   AltchaWrapper
 } from "/build/_shared/chunk-552RS725.js";
@@ -97,7 +97,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a comp package that's as flexible as you are right now" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Build a comp package that's as flexible as you are" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 7
@@ -153,7 +153,7 @@ function Index() {
       lineNumber: 31,
       columnNumber: 7
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "floatimg", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: recads_default, alt: "Jeffamazon newsletter image" }, void 0, false, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "floatimg", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: ja6_default, alt: "Jeffamazon newsletter image" }, void 0, false, {
       fileName: "app/routes/index.tsx",
       lineNumber: 39,
       columnNumber: 11
@@ -241,7 +241,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Shilll is for builders who like winning and living more every day.' }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Shilll is for builders who like winning and living more.' }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 62,
         columnNumber: 11
@@ -328,4 +328,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-VXONB625.js.map
+//# sourceMappingURL=/build/routes/index-KONWVVHJ.js.map

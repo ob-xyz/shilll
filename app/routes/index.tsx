@@ -2,7 +2,7 @@ import { Link } from "@remix-run/react";
 import Altcha from "../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
-import header2 from "~/../public/img/ads/recads.png";
+import header2 from "~/../public/img/ja6.png";
 import cs from "~/../public/img/cs.jpg";
 
 export default function Index() {
@@ -29,7 +29,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Build a comp package that's as flexible as you are right now</h2>
+      <h2>Build a comp package that's as flexible as you are</h2>
         <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated.</Link>
         <br /><br /><br />
         <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence trades the prime years of your career for a title and salary that's based on how many people you manage instead of what you can do.</Link>
@@ -59,7 +59,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Shilll is for builders who like winning and living more every day.</Link>
+          <Link className="text" to="/about">" Shilll is for builders who like winning and living more.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
