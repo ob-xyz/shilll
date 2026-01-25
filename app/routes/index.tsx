@@ -15,7 +15,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Shilll offers founder level compensation to builders</h1>
-            <p>Start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. Bigger upside 🚀</p>
+            <p>Start, build, and get compensated for your contributions. Immediate vesting. Zero cliffs. Founder upside 🚀</p>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/request-access">Request access</Link>

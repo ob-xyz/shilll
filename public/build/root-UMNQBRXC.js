@@ -170,7 +170,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-OSODHEJJ.css";
+var global_default = "/build/_assets/global-OBR3AMZR.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -190,7 +190,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "We're building the future of work.",
+  description: "Get more upside.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -253,4 +253,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-UKCDT33B.js.map
+//# sourceMappingURL=/build/root-UMNQBRXC.js.map

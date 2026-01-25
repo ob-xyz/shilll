@@ -37,7 +37,7 @@ function Index() {
           lineNumber: 17,
           columnNumber: 13
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. Bigger upside \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Start, build, and get compensated for your contributions. Immediate vesting. Zero cliffs. Founder upside \u{1F680}" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 18,
           columnNumber: 13
@@ -340,4 +340,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-AWZJQWVU.js.map
+//# sourceMappingURL=/build/routes/index-FZSUC2DV.js.map
