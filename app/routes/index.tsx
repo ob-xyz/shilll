@@ -14,27 +14,24 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Shilll offers founder level compensation for builders who do big things</h1>
-            <p>Sign up to stay informed 🚀</p>
+            <h1>Shilll offers founder level compensation to builders</h1>
+            <p>Build your own compensation package. Get immediate vesting. Zero cliffs. And the same tax-upside as a startup founder 🚀</p>
           </div>
-      <form method="post" action="https://app.jeffamzn.com/subscription/form">
-        <div className="input-wrapper">
-          <input className="email" type="email" name="email" required placeholder="Email Address *" />
-          <button className="submit" type="submit">Send it</button>
+        <div className="btn">
+              <Link className="pricebtn" to="/ads/ad-form">Try shilll</Link>
         </div>
-          <Altcha />
-        <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
-        <input type="hidden" name="nonce" />
-      </form>
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Build a comp package that's as flexible as you are</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is helping you get compensated.</Link>
+      <h2>Build a compensation package that's as flexible as you are</h2>
+        <Link className="text" to="/subscribe">Shilll's mission is helping builders get compensated.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence trades the prime years of your career for a title and salary that's based on how many people you manage instead of what you can do.</Link>
+        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on what you can build.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated for work between a base salary, equity preference, restricted stock units, or stock options.</Link>      </div>
+        <Link className="text" to="/subscribe">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated in base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <br /><br /><br />
+        <Link className="text" to="/subscribe">Shilll gives you immediate vesting with zero cliffs. And the same tax-upside as a startup founder.</Link>      
+        </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
       </div>

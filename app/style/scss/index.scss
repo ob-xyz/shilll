@@ -61,60 +61,26 @@
     }
     p{
         padding:1rem 0rem .5rem 0;
+        width:50%;
     }
 }
-form {
+.btn { 
   display: flex;
-  flex-direction: column;
-altcha-widget {
-  position: relative;
-  margin-top:.1rem;
-  max-width: 200px;
-  --altcha-max-width: 200px;
-  --altcha-border-radius: 0.5rem;
-  font-size: 1.1rem;
-  font-family: kl;
-}
-.input-wrapper {
-  position: relative;
-  width: 27rem;
-}
-input.email {
-  width: 100%;
-  padding: 0.85rem 6rem 0.85rem 0.75rem;
-  font-family: Arial, sans-serif;
-  color: #000;
-  border: .15rem solid #02090A;
-  border-radius: 0.5rem;
-  font-size: 1.1rem;
-  box-sizing: border-box;
-
-  &:focus {
-    outline: none;
-    box-shadow: 0 0 1px 1px #02090A;
-    border-color: #02090A;
-    caret-color: #02090A;
-  }
-}
-
-button.submit {
-  position: absolute;
-  top: 0px;
-  right: 2px;
-  bottom: 0px;
-  padding: 0 2rem;
-  background-color: #02090A;
-  color: #fafafa;
-  border: none;
-  border-left: .15rem solid #02090a;
-  border-radius: 0 0.5rem 0.5rem 0;
-  font-size: 1rem;
-
+  margin-top: 1rem;
+  .pricebtn {
+    border-radius: 5rem;
+    padding: 1rem 1.75rem;
+    background-color: #02090A;
+    color: #fafafa;
+    border: none;
+    border-radius: .5rem;
+    font-size: 1rem;
+    font-family: bold;
   &:hover {
     opacity: .85;
     cursor: pointer;
   }
-}
+  }
 }
   }
   }
