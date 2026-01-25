@@ -32,7 +32,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/get-info">At Shilll we offer builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to get compensated across base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/get-info">Learn how to start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. And way bigger upside 🚀🚀🚀</Link>      
+        <Link className="text" to="/get-info">Get a real taste for the upside of entrepreneurship without having to risk it all. Start, build, and get compensated for contributing like a founder. Immediate vesting. Zero cliffs. And way bigger upside 🚀🚀🚀</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
