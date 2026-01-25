@@ -56,7 +56,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Shilll gives builders a bigger upside.</Link>
+          <Link className="text" to="/about">" Shilll is for builders who like winning more</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
