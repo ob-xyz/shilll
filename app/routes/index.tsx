@@ -24,13 +24,15 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Enjoy a compensation package that's as flexible as you are</h2>
-        <Link className="text" to="/get-info">Shilll's mission is helping builders live more.</Link>
+        <Link className="text" to="/get-info">Shilll's mission is building the future of work.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on your actual performance.</Link>
+        <Link className="text" to="/get-info">We believe the future of work gives people the power to join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated in base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/get-info">For decades the only way to succeed was climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even tied to your own performance.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside 🚀🚀🚀</Link>      
+        <Link className="text" to="/get-info">At Shilll we offer builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to get compensated across base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <br /><br /><br />
+        <Link className="text" to="/get-info">Learn how to start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. And way bigger upside 🚀🚀🚀</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -56,7 +58,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" People should be able to join, contribute, and leave without legal gymnastics or emotional debt.</Link>
+          <Link className="text" to="/about">" Most companies pretend stability still exists. I built this while hiring for Jeffamazon because I needed a way to compensate contributors like adults — not employees, not contractors, and not fake co-founders.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
