@@ -12,8 +12,8 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>REQUEST ACCESS</h4>
-            <h1>Get access to your next dream job ✨</h1>
+            <h4>GET STARTED</h4>
+            <h1>Request access to find your next dream job ✨</h1>
           </div>
           <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <div className="input-wrapper">
