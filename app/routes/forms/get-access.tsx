@@ -33,8 +33,8 @@ export default function Index() {
       <div className="inner-content2">
       <h2>Get more upside with <span>Shilll</span></h2>
         <Link className="text" to="/forms/get-access">
-          Get a real taste for the upside of entrepreneurship without having to risk it all. Enjoy founder level compensation for your work contributions. Immediate vesting. Zero cliffs. And more upside 🚀
-          </Link>
+        Enjoy a real taste for the upside of entrepreneurship without having to risk it all. Get founder level compensation for your work. Immediate vesting. Zero cliffs. Real upside 🚀
+        </Link>
       </div>
     </div>
   );

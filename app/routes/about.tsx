@@ -20,7 +20,7 @@ export default function Index() {
             <p>But I'm best known for my newsletters Jeffamazon 🚀</p>
           </div>
       <div className="btn">
-            <Link className="pricebtn" to="/subscribe">Subscribe</Link>
+          <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe</a>
       </div>
         </div>
         <div className="inner-content1">
@@ -29,11 +29,11 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Wanna know more?</h2>
-          <Link className="text" to="/subscribe">I'm best known for my newsletter Jeffamazon.</Link>
+          <Link className="text" to="/about">I'm best known for my newsletter Jeffamazon.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">But I'm actually just a bootstrapped solo entrepreneur trying to build more stories of people getting more upside in life.</Link>
+          <Link className="text" to="/about">But I'm actually just a bootstrapped solo entrepreneur trying to build more stories of people getting more upside in life.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">Wanna get in touch? the best way to reach me is <span>chris@shilll.com</span></Link>
+          <Link className="text" to="/about">Wanna get in touch? the best way to reach me is <span>chris@shilll.com</span></Link>
       </div>
       <div className="inner-content3sm">
       <div className="grid">
@@ -52,7 +52,7 @@ export default function Index() {
       </div>
     </div>
       <div className="inner-content25">
-          <Link className="text" to="/submit-job">" I just want to build more stories of people getting more upside in life.</Link>
+          <Link className="text" to="/about">" Every day Shilll unlocks real upside for builders, solo entrepreneurs, and small teams of people like me and you.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
