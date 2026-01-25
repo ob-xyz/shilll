@@ -112,18 +112,18 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Connect with your next customers on ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Jeffamazon" }, void 0, false, {
+        "Get founder level compensation with ",
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/ads/ad-form.tsx",
           lineNumber: 35,
-          columnNumber: 49
+          columnNumber: 53
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/ads/ad-form.tsx",
         lineNumber: 35,
-        columnNumber: 9
+        columnNumber: 13
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/ads/ad-form", children: "Our audience is highly vetted, decisive, and always looking for what's new. So whether you want to use videos, images, or words, there's a Jeffamazon ad format that'll help you reach our audience." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/ads/ad-form", children: "Start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside \u{1F680}\u{1F680}\u{1F680}" }, void 0, false, {
         fileName: "app/routes/ads/ad-form.tsx",
         lineNumber: 36,
         columnNumber: 9
@@ -142,4 +142,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/ads/ad-form-UD4VBMKD.js.map
+//# sourceMappingURL=/build/routes/ads/ad-form-KNT3RQ35.js.map

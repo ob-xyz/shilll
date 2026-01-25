@@ -30,7 +30,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/subscribe">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated in base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside.</Link>      
+        <Link className="text" to="/subscribe">Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside 🚀🚀🚀</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />

@@ -1847,7 +1847,7 @@
   font-family: kl;
 }
 .adform-container h2 span {
-  font-size: 4.5rem;
+  font-size: 5rem;
   font-family: ku;
 }
 .adform-container h3 {
@@ -1945,9 +1945,6 @@
   padding-top: 6rem;
   margin-left: 0;
   color: #fafafa;
-}
-.adform-container .inner-content2 h2 span {
-  font-size: 4.5rem;
 }
 .adform-container .inner-content2 p,
 .adform-container .inner-content2 .text {
