@@ -78,7 +78,7 @@ function Index() {
         lineNumber: 26,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "Shilll's mission is building the future of work with more upside for people who want to join, contribute, and leave companies without legal gymnastics or emotional debt." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "Shilll's mission is building the future of work where you can join, contribute, and leave companies without legal gymnastics or emotional debt." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 27,
         columnNumber: 9
@@ -98,7 +98,7 @@ function Index() {
         lineNumber: 28,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: `For decades the only way to success was climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.` }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: `For decades success meant climbing "The Corporate Ladder" where reward for excellence meant spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.` }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 29,
         columnNumber: 9
@@ -138,7 +138,7 @@ function Index() {
         lineNumber: 32,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "Get a real taste for the upsides of entrepreneurship without having to risk it all. Start, build, and get compensated for your contributions. Immediate vesting. Zero cliffs. And founder upside \u{1F680}\u{1F680}\u{1F680}" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "Get a real taste for the upside of entrepreneurship without having to risk it all. Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. And more upside \u{1F680}\u{1F680}\u{1F680}" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 33,
         columnNumber: 9
@@ -327,4 +327,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-M7367TRF.js.map
+//# sourceMappingURL=/build/routes/index-RLEUHPZG.js.map
