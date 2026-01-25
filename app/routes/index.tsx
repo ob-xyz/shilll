@@ -24,7 +24,7 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Get more upside with <span>Shilll</span></h2>
-        <Link className="text" to="/get-info">Shilll's mission is building the future of work where you can join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
+        <Link className="text" to="/get-info">Shilll's mission is building the future of work where people can join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
         <br /><br /><br />
         <Link className="text" to="/get-info">For decades success meant climbing "The Corporate Ladder" where reward for excellence meant spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.</Link>
         <br /><br /><br />
