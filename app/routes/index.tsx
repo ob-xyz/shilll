@@ -18,19 +18,19 @@ export default function Index() {
             <p>Start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. Bigger upside 🚀</p>
           </div>
         <div className="btn">
-              <Link className="pricebtn" to="/ads/ad-form">Request access</Link>
+              <Link className="pricebtn" to="/request-access">Request access</Link>
         </div>
         </div>
       </div>
       <div className="inner-content2">
       <h2>Enjoy a compensation package that's as flexible as you are</h2>
-        <Link className="text" to="/subscribe">Shilll's mission is helping builders live more.</Link>
+        <Link className="text" to="/get-info">Shilll's mission is helping builders live more.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on your actual performance.</Link>
+        <Link className="text" to="/get-info">For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on your actual performance.</Link>
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated in base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/get-info">Shilll offers builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to be compensated in base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/subscribe">Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside 🚀🚀🚀</Link>      
+        <Link className="text" to="/get-info">Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside 🚀🚀🚀</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -56,7 +56,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Shilll is for builders who like winning more</Link>
+          <Link className="text" to="/about">" Most companies pretend stability still exists. I built this while hiring for Jeffamazon because I needed a way to compensate contributors like adults — not employees, not contractors, and not fake co-founders.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
@@ -69,14 +69,14 @@ export default function Index() {
        <div className="inner-content3">
       <div className="grid">
       <div className="box">
-        <h1>Subscribe</h1>
-        <p>Get Jeffamazon delivered straight to your inbox.</p>
-          <Link className="text" to="/subscribe">Subscribe →</Link>
+        <h1>Try now</h1>
+        <p>Request access.</p>
+          <Link className="text" to="/request-access">Request access →</Link>
       </div>
       <div className="box">
-        <h1>Advertise</h1>
-        <p>Want to post in Jeffamazon? We're looking for advertisers.</p>
-          <Link className="text" to="/ads/ad-form">Get in touch →</Link>
+        <h1>Get info</h1>
+        <p>Learn more.</p>
+          <Link className="text" to="/get-info">Get info →</Link>
       </div>
       </div>
     </div>
