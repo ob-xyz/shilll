@@ -18,19 +18,19 @@ export default function Index() {
             <p>Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. More upside 🚀</p>
           </div>
         <div className="btn">
-              <Link className="pricebtn" to="/request-access">Request access</Link>
+              <Link className="pricebtn" to="/forms/get-access">Request access</Link>
         </div>
         </div>
       </div>
       <div className="inner-content2">
       <h2>Get more upside with <span>Shilll</span></h2>
-        <Link className="text" to="/get-info">Shilll's mission is building the future of work where people can join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
+        <Link className="text" to="/forms/get-access">Shilll's mission is building the future of work where people can join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">For decades success meant climbing "The Corporate Ladder" where reward for excellence meant spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.</Link>
+        <Link className="text" to="/forms/get-access">For decades success meant climbing "The Corporate Ladder" where reward for excellence meant spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">At Shilll we're unlocking new ways for builders, solo entrepreneurs, and small teams to have flexibility over their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/forms/get-access">At Shilll we're unlocking new ways for builders, solo entrepreneurs, and small teams to have flexibility over their base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/get-info">Get a real taste for the upside of entrepreneurship without having to risk it all. Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. And more upside 🚀🚀🚀</Link>      
+        <Link className="text" to="/forms/get-access">Get a real taste for the upside of entrepreneurship without having to risk it all. Enjoy founder level compensation for your work contributions. Immediate vesting. Zero cliffs. And more upside 🚀</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -56,7 +56,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" I just want to create more stories of people getting more upside in life.</Link>
+          <Link className="text" to="/about">" I just want to build more stories of people getting more upside in life.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
@@ -69,14 +69,14 @@ export default function Index() {
        <div className="inner-content3">
       <div className="grid">
       <div className="box">
-        <h1>Try now</h1>
-        <p>Request access.</p>
-          <Link className="text" to="/request-access">Request access →</Link>
+        <h1>Get access</h1>
+        <p>Request access to see what jobs are available.</p>
+          <Link className="text" to="/forms/get-access">Get access →</Link>
       </div>
       <div className="box">
-        <h1>Get info</h1>
-        <p>Learn more.</p>
-          <Link className="text" to="/get-info">Get info →</Link>
+        <h1>Submit job</h1>
+        <p>Submit a real job you want to hire for.</p>
+          <Link className="text" to="/forms/submit-job">Submit job →</Link>
       </div>
       </div>
     </div>

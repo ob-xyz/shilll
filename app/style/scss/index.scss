@@ -365,12 +365,12 @@ p, .text {
 .inner-content3{
   margin:14rem auto 0 auto; 
 .grid{
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:5rem;
+  margin-right:5rem;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
-  width: 100%;
+  width: auto;
   .box {
     display: flex;
     flex-direction: column;

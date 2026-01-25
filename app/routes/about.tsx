@@ -28,10 +28,10 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2><span>Is it go time?</span></h2>
+      <h2>Wanna know more?</h2>
           <Link className="text" to="/subscribe">I'm best known for my newsletter Jeffamazon.</Link>
           <br /><br /><br />
-          <Link className="text" to="/subscribe">But I'm actually just a bootstrapped founder trying to make the world a better place.</Link>
+          <Link className="text" to="/subscribe">But I'm actually just a bootstrapped solo entrepreneur trying to build more stories of people getting more upside in life.</Link>
           <br /><br /><br />
           <Link className="text" to="/subscribe">Wanna get in touch? the best way to reach me is <span>chris@shilll.com</span></Link>
       </div>
@@ -52,7 +52,7 @@ export default function Index() {
       </div>
     </div>
       <div className="inner-content25">
-          <Link className="text" to="/subscribe">" Just make something.</Link>
+          <Link className="text" to="/submit-job">" I just want to build more stories of people getting more upside in life.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
