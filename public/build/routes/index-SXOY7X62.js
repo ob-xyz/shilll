@@ -91,7 +91,7 @@ function Index() {
         lineNumber: 28,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "We believe the future of work gives people the power to join, contribute, and leave companies without legal gymnastics or emotional debt." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/get-info", children: "We're building the future of work that gives people the power to join, contribute, and leave companies without legal gymnastics or emotional debt." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 29,
         columnNumber: 9
@@ -340,4 +340,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-5IQ6OKDQ.js.map
+//# sourceMappingURL=/build/routes/index-SXOY7X62.js.map

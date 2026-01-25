@@ -26,7 +26,7 @@ export default function Index() {
       <h2>Enjoy a compensation package that's as flexible as you are</h2>
         <Link className="text" to="/get-info">Shilll's mission is building the future of work.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">We believe the future of work gives people the power to join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
+        <Link className="text" to="/get-info">We're building the future of work that gives people the power to join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
         <br /><br /><br />
         <Link className="text" to="/get-info">For decades the only way to succeed was climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even tied to your own performance.</Link>
         <br /><br /><br />

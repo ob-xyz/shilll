@@ -190,7 +190,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Build a compensation package that's as flexible as you are.",
+  description: "We're building the future of work.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -253,4 +253,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-42HYNWWR.js.map
+//# sourceMappingURL=/build/root-UKCDT33B.js.map
