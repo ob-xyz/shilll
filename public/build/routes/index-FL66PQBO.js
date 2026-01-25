@@ -37,7 +37,7 @@ function Index() {
           lineNumber: 17,
           columnNumber: 13
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. Better upside \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Start, build, and get compensated like a founder. Immediate vesting. Zero cliffs. Bigger upside \u{1F680}" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 18,
           columnNumber: 13
@@ -91,7 +91,7 @@ function Index() {
         lineNumber: 28,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: `For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on what you can do.` }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: `For decades, the only path to success was climbing "The Ladder" where the reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even based on your actual performance.` }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 29,
         columnNumber: 9
@@ -131,7 +131,7 @@ function Index() {
         lineNumber: 32,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: "Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And better upside." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/subscribe", children: "Shilll helps you start, build, and get compensated like a founder. Enjoy immediate vesting. Zero cliffs. And bigger upside." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 33,
         columnNumber: 9
@@ -233,7 +233,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Shilll is for builders who like winning and living more.' }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: '" Shilll gives builders a bigger upside.' }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 59,
         columnNumber: 11
@@ -320,4 +320,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-IICU2F54.js.map
+//# sourceMappingURL=/build/routes/index-FL66PQBO.js.map
