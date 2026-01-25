@@ -32,12 +32,12 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll offers founder level compensation to builders" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll offers more upside to builders" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
           columnNumber: 13
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Start, build, and get compensated for your contributions. Immediate vesting. Zero cliffs. Founder upside \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. More upside \u{1F680}" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 18,
           columnNumber: 13
@@ -327,4 +327,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-T3ETLPCV.js.map
+//# sourceMappingURL=/build/routes/index-M7367TRF.js.map

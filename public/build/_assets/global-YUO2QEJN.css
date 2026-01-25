@@ -89,14 +89,14 @@
 .container .content .inner-content .text h1 {
   text-align: center;
   font-size: 4.5rem;
-  width: 75%;
+  width: 65%;
 }
 .container .content .inner-content .text h1 span {
   font-size: 5rem;
 }
 .container .content .inner-content .text p {
   padding: 1rem 0rem .5rem 0;
-  width: 45%;
+  width: 50%;
 }
 .container .content .inner-content .btn {
   display: flex;
