@@ -28,11 +28,11 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/get-info">We're building the future of work that gives people the power to join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
         <br /><br /><br />
-        <Link className="text" to="/get-info">For decades the only way to succeed was climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's not even tied to your own performance.</Link>
+        <Link className="text" to="/get-info">For decades the only way to success was climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's eventually not even tied to your own performance or ideas.</Link>
         <br /><br /><br />
         <Link className="text" to="/get-info">At Shilll we offer builders, solo entrepreneurs, and small teams of up to five people the ability to mix and match how they want to get compensated across base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/get-info">Get a real taste for the upside of entrepreneurship without having to risk it all. Start, build, and get compensated for contributing like a founder. Immediate vesting. Zero cliffs. And way bigger upside 🚀🚀🚀</Link>      
+        <Link className="text" to="/get-info">Get a real taste for the upsides of entrepreneurship without having to risk it all. Start, build, and get compensated for contributing like a founder. Immediate vesting. Zero cliffs. And bigger upside 🚀🚀🚀</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
