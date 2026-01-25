@@ -32,7 +32,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll offers more upside to builders" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll unlocks more upside for builders" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
           columnNumber: 13
@@ -327,4 +327,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-QC4AD4ZG.js.map
+//# sourceMappingURL=/build/routes/index-VNFXD6ZJ.js.map

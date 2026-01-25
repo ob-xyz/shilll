@@ -14,7 +14,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Shilll offers more upside to builders</h1>
+            <h1>Shilll unlocks more upside for builders</h1>
             <p>Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. More upside 🚀</p>
           </div>
         <div className="btn">
