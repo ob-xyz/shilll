@@ -40,18 +40,18 @@
     }
 .content{
   display:flex;
-  justify-content: center;
-  width: 100%;
+  flex-direction:row;
 .inner-content{
       display: flex;
       flex-direction: column;
-      align-items: center;
       margin-top:3rem;
       margin-bottom: 3rem;
+      margin-left:5rem;
+
 .text{
     h1{
-      font-size:2.25rem;
-      width:55%;
+      font-size:2rem;
+      width:60%;
       margin-left:0;
       font-family: ku;
     }
@@ -164,25 +164,6 @@ p span{
   h3{
       font-size:2.75rem;
   }
-.content{
-.inner-content{
-        margin-left:2.5rem;
-    .text{
-      h1, span{
-        font-size:3.5rem;
-      }
-      p{
-        padding-top:2.5rem;
-        padding-bottom:.5rem;
-      }
-    }
-form {
-.input-wrapper { 
-  width: 30rem;
-  }
-    }
-  }
-}
 .inner-content2{
   margin: 0 auto;
   padding:0 2.5rem;
@@ -214,15 +195,6 @@ form {
 .inner-content{
         margin-left:2.5rem;
         margin-bottom:2.5rem;
-    .text{
-      h1{
-        font-size:3.5rem;
-      }
-      p{
-        padding-top:2.5rem;
-        padding-bottom:.5rem;
-      }
-    }
 form {
 .input-wrapper {
   width: 30rem;
@@ -271,18 +243,13 @@ form {
 .content{
   flex-direction: column;
 .inner-content{
-        margin-left:1rem;
+        margin-left:2.5rem;
         margin-top: 1.5rem;
         margin-bottom: 2rem;
     .text{
       h1{
-        font-size:3rem;
-        width:100%;
-      }
-      p{
-        padding-top:1.5rem;
-        padding-bottom:.5rem;
-        width:87.5%;
+        font-size: 1.75rem;
+        width:70%;
       }
     }
 form {

@@ -13,7 +13,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-          <h4>REQUEST ACCESS</h4>
+            <h4>REQUEST ACCESS</h4>
             <h1>Get better compensation with a bigger upside.</h1>
           </div>
           <form method="post" action="https://app.jeffamzn.com/subscription/form">

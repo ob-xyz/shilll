@@ -32,7 +32,7 @@ function Index() {
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "REQUEST ACCESS" }, void 0, false, {
           fileName: "app/routes/ads/ad-form.tsx",
           lineNumber: 16,
-          columnNumber: 11
+          columnNumber: 13
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Get better compensation with a bigger upside." }, void 0, false, {
           fileName: "app/routes/ads/ad-form.tsx",
@@ -142,4 +142,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/ads/ad-form-UXNXP2GE.js.map
+//# sourceMappingURL=/build/routes/ads/ad-form-UD4VBMKD.js.map

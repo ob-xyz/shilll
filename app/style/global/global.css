@@ -1890,19 +1890,18 @@
 }
 .adform-container .content {
   display: flex;
-  justify-content: center;
-  width: 100%;
+  flex-direction: row;
 }
 .adform-container .content .inner-content {
   display: flex;
   flex-direction: column;
-  align-items: center;
   margin-top: 3rem;
   margin-bottom: 3rem;
+  margin-left: 5rem;
 }
 .adform-container .content .inner-content .text h1 {
-  font-size: 2.25rem;
-  width: 55%;
+  font-size: 2rem;
+  width: 60%;
   margin-left: 0;
   font-family: ku;
 }
@@ -2009,19 +2008,6 @@
   .adform-container h3 {
     font-size: 2.75rem;
   }
-  .adform-container .content .inner-content {
-    margin-left: 2.5rem;
-  }
-  .adform-container .content .inner-content .text h1, .adform-container .content .inner-content .text span {
-    font-size: 3.5rem;
-  }
-  .adform-container .content .inner-content .text p {
-    padding-top: 2.5rem;
-    padding-bottom: 0.5rem;
-  }
-  .adform-container .content .inner-content form .input-wrapper {
-    width: 30rem;
-  }
   .adform-container .inner-content2 {
     margin: 0 auto;
     padding: 0 2.5rem;
@@ -2052,13 +2038,6 @@
   .adform-container .content .inner-content {
     margin-left: 2.5rem;
     margin-bottom: 2.5rem;
-  }
-  .adform-container .content .inner-content .text h1 {
-    font-size: 3.5rem;
-  }
-  .adform-container .content .inner-content .text p {
-    padding-top: 2.5rem;
-    padding-bottom: 0.5rem;
   }
   .adform-container .content .inner-content form .input-wrapper {
     width: 30rem;
@@ -2101,18 +2080,13 @@
     flex-direction: column;
   }
   .adform-container .content .inner-content {
-    margin-left: 1rem;
+    margin-left: 2.5rem;
     margin-top: 1.5rem;
     margin-bottom: 2rem;
   }
   .adform-container .content .inner-content .text h1 {
-    font-size: 3rem;
-    width: 100%;
-  }
-  .adform-container .content .inner-content .text p {
-    padding-top: 1.5rem;
-    padding-bottom: 0.5rem;
-    width: 87.5%;
+    font-size: 1.75rem;
+    width: 70%;
   }
   .adform-container .content .inner-content form .input-wrapper {
     width: 22rem;
