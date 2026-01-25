@@ -15,7 +15,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Shilll unlocks real upside for builders</h1>
-            <p>Get founder level compensation for your work. Immediate vesting. Zero cliffs. Real upside 🚀</p>
+            <p>Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. Real upside ✨</p>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/forms/get-access">Request access</Link>
@@ -24,13 +24,13 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Get real upside with <span>Shilll</span></h2>
-        <Link className="text" to="/forms/get-access">Shilll's mission is building the future of work where people can join, contribute, and leave companies without legal gymnastics or emotional debt.</Link>
+        <Link className="text" to="/forms/get-access">Shilll's mission is to help you build your life.</Link>
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">For decades success meant climbing "The Corporate Ladder" where reward for excellence meant spending the prime years of your career chasing a title and fixed salary that's often not tied to your real work.</Link>
+        <Link className="text" to="/forms/get-access">For decades success meant climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's often not even tied to your real work.</Link>
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">At Shilll we're unlocking new ways for builders, solo entrepreneurs, and small teams to have flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/forms/get-access">At Shilll we unlock real ways for builders, solo entrepreneurs, and small teams to have flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">Enjoy a real taste for the upside of entrepreneurship without having to risk it all. Get founder level compensation for your work. Immediate vesting. Zero cliffs. Real upside 🚀</Link>      
+        <Link className="text" to="/forms/get-access">Build your dreams. Find what you love. And enjoy a real taste of entrepreneurship without being afraid to fail.</Link>      
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -56,7 +56,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about">" Every day Shilll unlocks real upside for builders, solo entrepreneurs, and small teams of people like me and you.</Link>
+          <Link className="text" to="/about"><span>"</span> Enjoy a real taste of entrepreneurship without being afraid to fail.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

@@ -52,7 +52,7 @@ export default function Index() {
       </div>
     </div>
       <div className="inner-content25">
-          <Link className="text" to="/about">" Every day Shilll unlocks real upside for builders, solo entrepreneurs, and small teams of people like me and you.</Link>
+          <Link className="text" to="/about"><span>"</span> Enjoy a real taste of entrepreneurship without being afraid to fail.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

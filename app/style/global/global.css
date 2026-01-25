@@ -92,7 +92,7 @@
 }
 .container .content .inner-content .text p {
   padding: 1rem 0rem 0.5rem 0;
-  width: 45%;
+  width: 50%;
 }
 .container .content .inner-content .btn {
   display: flex;
@@ -404,7 +404,7 @@
   text-align: left;
   font-family: kl;
   background-color: #fafafa;
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 0;
 }
 .container .inner-content2555 .tag {
@@ -1115,7 +1115,7 @@
 }
 .about-container .inner-content25 p, .about-container .inner-content25 .text {
   text-align: left;
-  font-family: ku;
+  font-family: kl;
   background-color: #fafafa;
   font-size: 4rem;
   margin-bottom: 0;

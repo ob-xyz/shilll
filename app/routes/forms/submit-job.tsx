@@ -13,7 +13,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h4>GET MORE INFO</h4>
-            <h1>Learn how to get compensation with a bigger upside.</h1>
+            <h1>Learn how to get compensation with a bigger upside ✨</h1>
           </div>
           <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <div className="input-wrapper">
@@ -33,7 +33,7 @@ export default function Index() {
       <div className="inner-content2">
       <h2>Get more upside with <span>Shilll</span></h2>
         <Link className="text" to="/forms/submit-job">
-        Enjoy a real taste for the upside of entrepreneurship without having to risk it all. Get founder level compensation for your work. Immediate vesting. Zero cliffs. Real upside 🚀
+          Build your dreams. Find what you love. And enjoy a real taste of entrepreneurship without being afraid to fail.
         </Link>
       </div>
     </div>
