@@ -241,7 +241,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2555", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: '"' }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { className: "gray", children: '"' }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 59,
           columnNumber: 46
@@ -334,4 +334,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-FQNUCQ7W.js.map
+//# sourceMappingURL=/build/routes/index-EMB5NMIF.js.map
