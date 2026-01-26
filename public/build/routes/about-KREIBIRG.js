@@ -213,7 +213,7 @@ function Index() {
           lineNumber: 55,
           columnNumber: 46
         }, this),
-        " Get a real taste of entrepreneurship without having to risk it all."
+        " Shilll offers a real taste of entrepreneurship without having to risk it all."
       ] }, void 0, true, {
         fileName: "app/routes/about.tsx",
         lineNumber: 55,
@@ -249,4 +249,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/about-KQO7OV3Y.js.map
+//# sourceMappingURL=/build/routes/about-KREIBIRG.js.map

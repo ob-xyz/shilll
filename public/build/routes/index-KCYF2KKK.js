@@ -29,17 +29,17 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. Founder upside." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. More upside." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 16,
           columnNumber: 13
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
-          "Adjust your compensation the way you want. ",
+          "Mix your compensation to fit your goals. ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 17,
-            columnNumber: 59
+            columnNumber: 57
           }, this),
           "Get immediate vesting. Zero cliffs."
         ] }, void 0, true, {
@@ -72,7 +72,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Get real upside with ",
+        "Get more upside with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
@@ -103,7 +103,7 @@ function Index() {
         lineNumber: 27,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "Right now companies want to hire world-class builders, and they're not afraid to pay world-class compensation to lock in real builders." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "Right now companies want to hire world-class builders, and they're not afraid to pay world-class compensation to lock in people like me and you." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 28,
         columnNumber: 9
@@ -123,7 +123,7 @@ function Index() {
         lineNumber: 29,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are this month. Let's just say life is also complex and your future shouldn't be." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "But compensation is complex. Everyone wants wildly different things. It often comes down to what stage of life you're in. Or what your latest interests are. Your compensation is complex because your life is complex." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 30,
         columnNumber: 9
@@ -131,19 +131,19 @@ function Index() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 31,
-        columnNumber: 10
+        columnNumber: 9
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 31,
-        columnNumber: 16
+        columnNumber: 15
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 31,
-        columnNumber: 22
+        columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "With Shilll you get a single number as your total compensation and use sliders to simplify the pay structure you want." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "With Shilll you get a single number of total compensation and use sliders to mix your compensation to fit your goals every quarter." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -163,7 +163,7 @@ function Index() {
         lineNumber: 33,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "It's a perfect fit for seasoned builders, solo entrepreneurs, and small teams who want founder level control over their base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "It's a perfect fit for seasoned builders, solo entrepreneurs, and small teams who actually care about their base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 34,
         columnNumber: 9
@@ -310,7 +310,7 @@ function Index() {
           lineNumber: 57,
           columnNumber: 46
         }, this),
-        " Get a real taste of entrepreneurship without having to risk it all."
+        " Shilll offers a real taste of entrepreneurship without having to risk it all."
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
         lineNumber: 57,
@@ -398,4 +398,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-XJ5BNV74.js.map
+//# sourceMappingURL=/build/routes/index-KCYF2KKK.js.map
