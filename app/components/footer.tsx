@@ -30,8 +30,8 @@ export default function Footer() {
     <h4>Shilll</h4>
     <Link to="/">Home</Link>
     <Link to="/about">About</Link>
-    <Link to="/forms/personal">Builder</Link>
-    <Link to="/forms/enterprise">Enterprise</Link>
+    <Link to="/profile/builder">Builder</Link>
+    <Link to="/profile/enterprise">Enterprise</Link>
   </div>
     <div className="column">
     <h4>Newsletter</h4>

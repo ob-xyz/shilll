@@ -14,22 +14,22 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Shilll unlocks real upside for builders</h1>
-            <p>Immediate vesting. Zero cliffs.<br />Founder level compensation ✨</p>
+            <p>Immediate vesting. Zero cliffs.<br />Founder level compensation.</p>
           </div>
         <div className="btn">
-              <Link className="pricebtn" to="/forms/get-access">Create profile</Link>
+              <Link className="pricebtn" to="/profile/builder">Create profile</Link>
         </div>
         </div>
       </div>
       <div className="inner-content2">
       <h2>Get real upside with <span>Shilll</span></h2>
-        <Link className="text" to="/forms/get-access">Shilll's mission is to help you build your dreams.</Link>
+        <Link className="text" to="/profile/builder">Shilll's mission is to help you build your dreams.</Link>
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">For decades success meant climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's often not even tied to your real work.</Link>
+        <Link className="text" to="/profile/builder">For decades success meant climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's often not even tied to your real work.</Link>
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">At Shilll we're unlocking ways to give builders, solo entrepreneurs, and small teams more flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/profile/builder">At Shilll we're unlocking ways to give builders, solo entrepreneurs, and small teams more flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">Build your dreams. Do what you love. And get a real taste of entrepreneurship and win without the full risk of traditional startup failure.</Link>
+        <Link className="text" to="/profile/builder">Build your dreams. Do what you love. And get a real taste of entrepreneurship without the full risk of traditional startup failure.</Link>
         </div>
 
       <div className="inner-content255">
@@ -61,12 +61,12 @@ export default function Index() {
       <div className="box">
         <h1>Builder</h1>
         <p>Create a profile with your preferred comp</p>
-          <Link className="text" to="/forms/get-access">Builder →</Link>
+          <Link className="text" to="/profile/builder">Builder →</Link>
       </div>
       <div className="box">
         <h1>Enterprise</h1>
         <p>Create a profile to get access to builders</p>
-          <Link className="text" to="/forms/submit-job">Enterprise →</Link>
+          <Link className="text" to="/profile/enterprise">Enterprise →</Link>
       </div>
       </div>
     </div>
