@@ -39,7 +39,7 @@ function Footer() {
           lineNumber: 15,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Sign up to create a profile \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Sign up to create a free profile \u{1F680}" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 11
@@ -51,7 +51,7 @@ function Footer() {
               lineNumber: 19,
               columnNumber: 9
             }, this),
-            /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("button", { className: "submit", type: "submit", children: "Let's do it" }, void 0, false, {
+            /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("button", { className: "submit", type: "submit", children: "Create profile" }, void 0, false, {
               fileName: "app/components/footer.tsx",
               lineNumber: 20,
               columnNumber: 9
@@ -212,8 +212,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Shilll",
-  description: "Get a real taste of entrepreneurship without risking it all.",
+  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs. Founder Upside.",
+  description: "Adjust your pay compensation the way you want at any company, anywhere.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -276,4 +276,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-ZCKC44TO.js.map
+//# sourceMappingURL=/build/root-FHGYRH54.js.map
