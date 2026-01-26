@@ -27,11 +27,11 @@ export default function Footer() {
 
 <div className="footer-links">
   <div className="column">
-    <h4>Company</h4>
+    <h4>Shilll</h4>
     <Link to="/">Home</Link>
     <Link to="/about">About</Link>
-    <Link to="/forms/submit-job">Submit job</Link>
-    <Link to="/forms/get-access">Request access</Link>
+    <Link to="/forms/personal">Builder</Link>
+    <Link to="/forms/enterprise">Enterprise</Link>
   </div>
     <div className="column">
     <h4>Newsletter</h4>

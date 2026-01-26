@@ -61,7 +61,6 @@
     }
     p{
         padding:1rem 0rem .5rem 0;
-        width:50%;
     }
 }
 .btn { 
@@ -755,35 +754,9 @@ form {
     width: 74%;
   }
 }
-.inner-content25{
-  margin-left:1.5rem;
-  margin-right:1.5rem;
-  padding:0 1rem;
-  padding-bottom:3rem;
-  h2, h2 span{
-      padding-top:2.25rem;
-      font-size:2.25rem;
-    }
-p, .text {
-  padding-top: 1rem;
-  font-size: 1.75rem;
-}
-}
-.inner-content25{
-  padding-bottom: 0;
-  margin-bottom:6rem;
-  p, .text{
-    margin-bottom:2rem;
-  }
-    .btn{
-      .pricebtn{
-      font-size: 1rem;
-      }
-    }
-}
 .inner-content255{
   flex-direction: column-reverse;
-  margin-top:1rem;
+  margin-top:7rem;
   margin-left:1.5rem;
   margin-right:1.5rem;
   .side1{
@@ -811,7 +784,7 @@ p, .text {
   margin-left:1.5rem;
   margin-right:1.5rem;
   padding:4rem 2rem;
-  p, .text{
+  p, .text, span{
     font-size: 2rem;
   }
   .tag{
@@ -822,43 +795,6 @@ p, .text {
       padding-top: .35rem;
     }
   }
-}
-.inner-content251{
-  margin-left:1.5rem;
-  margin-right:1.5rem;
-  padding:0 1rem;
-  h2, h2 span{
-      padding-top:2.25rem;
-      font-size:2.25rem;
-    }
-p, .text{
-  padding-top: 1rem;
-  font-size: 1.75rem;
-}
-}
-.inner-content3sm{
-  margin:0 0;
-  margin-top:-3rem;
-  margin-bottom:6rem;
-  padding:0 1.5rem;
-.grid{
-  grid-template-columns: repeat(1, 1fr);
-  margin-left: 0;
-  margin-right: 0;
-.box{
-  h1{
-    font-size: 2.25rem;
-  }
-   p, .text {
-      width:92.5%;
-      font-size: 1.75rem; 
-    }
-  .btn{
-    margin-top:2rem;
-    margin-bottom:1.5rem;
-  }
-}
-}
 }
 .inner-content3{
   margin:0 0;

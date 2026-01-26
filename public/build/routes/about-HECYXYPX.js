@@ -1,7 +1,6 @@
 import {
-  cs_default,
-  ja6_default
-} from "/build/_shared/chunk-Q3HNR72B.js";
+  cs_default
+} from "/build/_shared/chunk-EJTSO6MN.js";
 import {
   Link
 } from "/build/_shared/chunk-4RXSKUQF.js";
@@ -14,6 +13,9 @@ import {
 import {
   __toESM
 } from "/build/_shared/chunk-IU43IUTG.js";
+
+// public/img/ja6.png
+var ja6_default = "/build/_assets/ja6-ADHMXP4W.png";
 
 // app/routes/about.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -211,7 +213,7 @@ function Index() {
           lineNumber: 55,
           columnNumber: 46
         }, this),
-        " Get a real taste of entrepreneurship without being afraid to fail."
+        " Get a real taste of entrepreneurship without rising it all."
       ] }, void 0, true, {
         fileName: "app/routes/about.tsx",
         lineNumber: 55,
@@ -247,4 +249,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/about-UTIRNCIF.js.map
+//# sourceMappingURL=/build/routes/about-HECYXYPX.js.map

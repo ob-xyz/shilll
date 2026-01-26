@@ -14,10 +14,10 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Shilll unlocks real upside for builders</h1>
-            <p>Get founder level compensation for your contributions. Immediate vesting. Zero cliffs. Real upside ✨</p>
+            <p>Immediate vesting. Zero cliffs.<br />Founder level compensation ✨</p>
           </div>
         <div className="btn">
-              <Link className="pricebtn" to="/forms/get-access">Request access</Link>
+              <Link className="pricebtn" to="/forms/get-access">Create profile</Link>
         </div>
         </div>
       </div>
@@ -29,18 +29,9 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/forms/get-access">At Shilll we're unlocking ways to give builders, solo entrepreneurs, and small teams more flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">Build your dreams. Do what you love. And get a real taste of entrepreneurship without risking it all.</Link>
+        <Link className="text" to="/forms/get-access">Build your dreams. Do what you love. And get a real taste of entrepreneurship and win without the full risk of traditional startup failure.</Link>
         </div>
-      <div className="floatimg">
-          <img src={header2} alt="Jeffamazon newsletter image" />
-      </div>
-      <div className="inner-content25">
-       <h2><span>Jeffamazon</span></h2>
-          <p><a className="pricebtn" href="https://jeffamazon.com/subscribe">Check out our daily newsletter</a></p>
-      <div className="btn">
-          <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
-      </div>
-      </div>
+
       <div className="inner-content255">
         <div className="side1">
        <h2><span>LEADERSHIP</span></h2>
@@ -55,7 +46,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about"><span className="gray">"</span> Get a real taste of entrepreneurship and don't be afraid to fail.</Link>
+          <Link className="text" to="/about"><span className="gray">"</span> Get a real taste of entrepreneurship without risking it all.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
@@ -68,17 +59,27 @@ export default function Index() {
        <div className="inner-content3">
       <div className="grid">
       <div className="box">
-        <h1>Get access</h1>
-        <p>Request access to see what jobs are available.</p>
-          <Link className="text" to="/forms/get-access">Get access →</Link>
+        <h1>Builder</h1>
+        <p>Create a profile with your preferred comp</p>
+          <Link className="text" to="/forms/get-access">Builder →</Link>
       </div>
       <div className="box">
-        <h1>Submit job</h1>
-        <p>Submit a real job you want to hire for.</p>
-          <Link className="text" to="/forms/submit-job">Submit job →</Link>
+        <h1>Enterprise</h1>
+        <p>Create a profile to get access to builders</p>
+          <Link className="text" to="/forms/submit-job">Enterprise →</Link>
       </div>
       </div>
     </div>
+          {/* <div className="floatimg">
+          <img src={header2} alt="Jeffamazon newsletter image" />
+      </div>
+      <div className="inner-content25">
+       <h2><span>Jeffamazon</span></h2>
+          <p><a className="pricebtn" href="https://jeffamazon.com/subscribe">Check out our daily newsletter</a></p>
+      <div className="btn">
+          <a className="pricebtn" href="https://jeffamazon.com/subscribe">Subscribe for free</a>
+      </div>
+      </div> */}
     </div>
   );
 }

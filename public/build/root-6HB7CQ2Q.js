@@ -88,7 +88,7 @@ function Footer() {
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-links", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "column", children: [
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Company" }, void 0, false, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Shilll" }, void 0, false, {
             fileName: "app/components/footer.tsx",
             lineNumber: 30,
             columnNumber: 5
@@ -103,12 +103,12 @@ function Footer() {
             lineNumber: 32,
             columnNumber: 5
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/forms/submit-job", children: "Submit job" }, void 0, false, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/forms/personal", children: "Builder" }, void 0, false, {
             fileName: "app/components/footer.tsx",
             lineNumber: 33,
             columnNumber: 5
           }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/forms/get-access", children: "Request access" }, void 0, false, {
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/forms/enterprise", children: "Enterprise" }, void 0, false, {
             fileName: "app/components/footer.tsx",
             lineNumber: 34,
             columnNumber: 5
@@ -198,7 +198,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-JIFVL6XN.css";
+var global_default = "/build/_assets/global-N425NYUL.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -218,7 +218,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Get a taste of entrepreneurship.",
+  description: "Get a real taste of entrepreneurship without risking it all.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -281,4 +281,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-OINMLOV4.js.map
+//# sourceMappingURL=/build/root-6HB7CQ2Q.js.map

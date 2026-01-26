@@ -92,7 +92,6 @@
 }
 .container .content .inner-content .text p {
   padding: 1rem 0rem 0.5rem 0;
-  width: 50%;
 }
 .container .content .inner-content .btn {
   display: flex;
@@ -784,33 +783,9 @@
   .container .floatimg img {
     width: 74%;
   }
-  .container .inner-content25 {
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
-    padding: 0 1rem;
-    padding-bottom: 3rem;
-  }
-  .container .inner-content25 h2, .container .inner-content25 h2 span {
-    padding-top: 2.25rem;
-    font-size: 2.25rem;
-  }
-  .container .inner-content25 p, .container .inner-content25 .text {
-    padding-top: 1rem;
-    font-size: 1.75rem;
-  }
-  .container .inner-content25 {
-    padding-bottom: 0;
-    margin-bottom: 6rem;
-  }
-  .container .inner-content25 p, .container .inner-content25 .text {
-    margin-bottom: 2rem;
-  }
-  .container .inner-content25 .btn .pricebtn {
-    font-size: 1rem;
-  }
   .container .inner-content255 {
     flex-direction: column-reverse;
-    margin-top: 1rem;
+    margin-top: 7rem;
     margin-left: 1.5rem;
     margin-right: 1.5rem;
   }
@@ -837,7 +812,7 @@
     margin-right: 1.5rem;
     padding: 4rem 2rem;
   }
-  .container .inner-content2555 p, .container .inner-content2555 .text {
+  .container .inner-content2555 p, .container .inner-content2555 .text, .container .inner-content2555 span {
     font-size: 2rem;
   }
   .container .inner-content2555 .tag p {
@@ -845,41 +820,6 @@
   }
   .container .inner-content2555 .tag p:nth-child(2) {
     padding-top: 0.35rem;
-  }
-  .container .inner-content251 {
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
-    padding: 0 1rem;
-  }
-  .container .inner-content251 h2, .container .inner-content251 h2 span {
-    padding-top: 2.25rem;
-    font-size: 2.25rem;
-  }
-  .container .inner-content251 p, .container .inner-content251 .text {
-    padding-top: 1rem;
-    font-size: 1.75rem;
-  }
-  .container .inner-content3sm {
-    margin: 0 0;
-    margin-top: -3rem;
-    margin-bottom: 6rem;
-    padding: 0 1.5rem;
-  }
-  .container .inner-content3sm .grid {
-    grid-template-columns: repeat(1, 1fr);
-    margin-left: 0;
-    margin-right: 0;
-  }
-  .container .inner-content3sm .grid .box h1 {
-    font-size: 2.25rem;
-  }
-  .container .inner-content3sm .grid .box p, .container .inner-content3sm .grid .box .text {
-    width: 92.5%;
-    font-size: 1.75rem;
-  }
-  .container .inner-content3sm .grid .box .btn {
-    margin-top: 2rem;
-    margin-bottom: 1.5rem;
   }
   .container .inner-content3 {
     margin: 0 0;
