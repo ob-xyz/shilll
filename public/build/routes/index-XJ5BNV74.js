@@ -41,7 +41,7 @@ function Index() {
             lineNumber: 17,
             columnNumber: 59
           }, this),
-          "Immediate vesting. Zero cliffs."
+          "Get immediate vesting. Zero cliffs."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -398,4 +398,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-Z2HJGDIR.js.map
+//# sourceMappingURL=/build/routes/index-XJ5BNV74.js.map
