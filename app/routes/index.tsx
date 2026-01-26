@@ -13,8 +13,8 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Shilll unlocks real upside for builders</h1>
-            <p>Immediate vesting. Zero cliffs.<br />Founder level compensation.</p>
+            <h1>Flexible pay. Founder upside.</h1>
+            <p>Adjust your compensation the way you want. <br />Immediate vesting. Zero cliffs.</p>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/profile/builder">Create profile</Link>
@@ -23,13 +23,21 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Get real upside with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/builder">Shilll's mission is to help you build your dreams.</Link>
+        <Link className="text" to="/profile/builder">Shilll's mission is to simplify compensation.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">For decades success meant climbing "The Corporate Ladder" where your reward for excellence means spending the prime years of your career chasing a title and fixed salary that's often not even tied to your real work.</Link>
+        <Link className="text" to="/profile/builder">Right now companies want to hire world-class builders, and they're not afraid to pay world-class compensation to lock in real builders.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">At Shilll we're unlocking ways to give builders, solo entrepreneurs, and small teams more flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/profile/builder">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are this month. Let's just say life is also complex and your future shouldn't be.</Link>
+         <br /><br /><br />
+        <Link className="text" to="/profile/builder">With Shilll you get a single number as your total compensation and use sliders to simplify the pay structure you want.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">Build your dreams. Do what you love. And get a real taste of entrepreneurship without the full risk of traditional startup failure.</Link>
+        <Link className="text" to="/profile/builder">It's a perfect fit for seasoned builders, solo entrepreneurs, and small teams who want founder level control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <br /><br /><br />
+        <Link className="text" to="/profile/builder"><span>Saving for a down payment?</span> Go all cash.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/profile/builder"><span>Willing to bet on yourself?</span> Up your equity.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/profile/builder"><span>Want more options?</span> You know what to do.</Link>
         </div>
 
       <div className="inner-content255">
@@ -46,7 +54,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about"><span className="gray">"</span> Get a real taste of entrepreneurship without risking it all.</Link>
+          <Link className="text" to="/about"><span className="gray">"</span> Get a real taste of entrepreneurship without having to risk it all.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
