@@ -29,7 +29,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/forms/get-access">At Shilll we're unlocking ways to give builders, solo entrepreneurs, and small teams more flexibility and control over their base salary, equity preference, restricted stock units, and stock options.</Link>      
         <br /><br /><br />
-        <Link className="text" to="/forms/get-access">Build your dreams. Find what you love. And get a real taste of entrepreneurship without being afraid to fail.</Link>      
+        <Link className="text" to="/forms/get-access">Build your dreams. Do what you love. And get a real taste of entrepreneurship without risking it all.</Link>
         </div>
       <div className="floatimg">
           <img src={header2} alt="Jeffamazon newsletter image" />
@@ -55,7 +55,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about"><span className="gray">"</span> Get a real taste of entrepreneurship without being afraid to fail.</Link>
+          <Link className="text" to="/about"><span className="gray">"</span> Get a real taste of entrepreneurship and don't be afraid to fail.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

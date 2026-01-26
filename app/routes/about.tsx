@@ -52,7 +52,7 @@ export default function Index() {
       </div>
     </div>
       <div className="inner-content25">
-          <Link className="text" to="/about"><span>"</span> Get a real taste of entrepreneurship without being afraid to fail.</Link>
+          <Link className="text" to="/about"><span>"</span> Get a real taste of entrepreneurship and don't be afraid to fail .</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE
