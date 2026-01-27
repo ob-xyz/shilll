@@ -83,7 +83,7 @@ function Index() {
         lineNumber: 25,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is to unleash your upside." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is unleashing every builders upside." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 9
@@ -143,7 +143,7 @@ function Index() {
         lineNumber: 31,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "At Shilll we simplify your compensation by giving you a single number of total compensation and sliders you can use to mix your compensation to match your goals." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "At Shilll we simplify your compensation by giving you a single number of total compensation and sliders you can use to mix your compensation to fit your goals." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -398,4 +398,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-IO5RK2U3.js.map
+//# sourceMappingURL=/build/routes/index-IRDEYYS2.js.map

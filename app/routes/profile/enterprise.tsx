@@ -32,13 +32,13 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Unleash your upside with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/enterprise">Shilll is a magnet for talented builders.</Link>
+        <Link className="text" to="/profile/enterprise">Shilll's mission is unleashing every builders upside.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder">Right now you want to hire world-class builders, and you're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life people are in. What their interests are. And the goals they set or the plans they change.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">At Shilll we simplify compensation by giving you a single number of total compensation you can offer builders to contribute to your company, project, and ideas. Then we give sliders to builders who can mix your total compensation number to match their goals.</Link>
+        <Link className="text" to="/profile/builder">At Shilll we simplify compensation by giving you a single number of total compensation you can offer builders to contribute to your company, project, and ideas. Then we give sliders to builders who can mix your total compensation number to fit their goals.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
