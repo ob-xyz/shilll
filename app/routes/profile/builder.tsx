@@ -31,14 +31,14 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Unlock unlimited upside with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship without having to risk it all.</Link>
+      <h2>Unleash your upside with <span>Shilll</span></h2>
+        <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder">Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set or the plans that change.</Link>
+        <Link className="text" to="/profile/builder">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set, or the plans that change.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">At Shilll we simplify your compensation by giving you a single number of total compensation and sliders you can use to mix your compensation to fit your goals.</Link>
+        <Link className="text" to="/profile/builder">At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
