@@ -13,7 +13,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Flexible pay. Unlimited upside.</h1>
+            <h1>Flexible pay. Founder upside.</h1>
             <p>Mix your compensation to fit your goals. <br />Get immediate vesting. Zero cliffs.</p>
           </div>
         <div className="btn">
@@ -22,8 +22,8 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Unleash your upside with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/enterprise">Shilll's mission is unleashing every builders upside.</Link>
+      <h2>Unlock founder upside with <span>Shilll</span></h2>
+        <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship without having to risk it all.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder">Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
@@ -54,7 +54,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about"><span className="gray">"</span> Shilll offers a real taste of entrepreneurship without having to risk it all.</Link>
+          <Link className="text" to="/about"><span className="gray">"</span> Shilll gives a taste of entrepreneurship without having to risk it all.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

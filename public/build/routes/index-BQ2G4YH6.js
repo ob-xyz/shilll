@@ -29,7 +29,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. Unlimited upside." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. Founder upside." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 16,
           columnNumber: 13
@@ -72,18 +72,18 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Unleash your upside with ",
+        "Unlock founder upside with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
-          columnNumber: 36
+          columnNumber: 38
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
         lineNumber: 25,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is unleashing every builders upside." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is to give every builder a taste of entrepreneurship without having to risk it all." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 9
@@ -310,7 +310,7 @@ function Index() {
           lineNumber: 57,
           columnNumber: 46
         }, this),
-        " Shilll offers a real taste of entrepreneurship without having to risk it all."
+        " Shilll gives a taste of entrepreneurship without having to risk it all."
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
         lineNumber: 57,
@@ -398,4 +398,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-IRDEYYS2.js.map
+//# sourceMappingURL=/build/routes/index-BQ2G4YH6.js.map
