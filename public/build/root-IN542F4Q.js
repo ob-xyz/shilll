@@ -39,7 +39,7 @@ function Footer() {
           lineNumber: 15,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Sign up to start maxxing your career \u{1F680}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Sign up to start career maxxing \u{1F680}" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 11
@@ -276,4 +276,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-J3BXCWJQ.js.map
+//# sourceMappingURL=/build/root-IN542F4Q.js.map

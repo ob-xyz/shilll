@@ -47,7 +47,7 @@ function Index() {
             lineNumber: 17,
             columnNumber: 98
           }, this),
-          "Start maxxing your career."
+          "Start career maxxing."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -78,11 +78,11 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Unleash your upside with ",
+        "Start career maxxing with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
-          columnNumber: 36
+          columnNumber: 37
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
@@ -250,7 +250,7 @@ function Index() {
         lineNumber: 39,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about their base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 40,
         columnNumber: 9
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-VJW7ZHOS.js.map
+//# sourceMappingURL=/build/routes/index-7QJ2Q4EV.js.map

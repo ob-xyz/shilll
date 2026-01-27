@@ -31,7 +31,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Unleash your upside with <span>Shilll</span></h2>
+      <h2>Start career maxxing with <span>Shilll</span></h2>
         <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder">Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
@@ -46,7 +46,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/profile/builder"><span>Want more options?</span> You know what to do.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/profile/builder">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options.</Link>      
         </div>
     </div>
   );

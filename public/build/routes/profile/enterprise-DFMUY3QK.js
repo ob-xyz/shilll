@@ -112,11 +112,11 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Unleash upside with ",
+        "Hire world-class builders with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/profile/enterprise.tsx",
           lineNumber: 34,
-          columnNumber: 31
+          columnNumber: 42
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/profile/enterprise.tsx",
@@ -222,4 +222,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/profile/enterprise-WOEOBSZT.js.map
+//# sourceMappingURL=/build/routes/profile/enterprise-DFMUY3QK.js.map
