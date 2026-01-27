@@ -114,7 +114,7 @@ function Footer() {
           lineNumber: 15,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Sign up to start career maxxing \u{1F680}" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("p", { children: "Sign up to maximize your career \u{1F680}" }, void 0, !1, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 11
@@ -286,8 +286,8 @@ var import_jsx_dev_runtime4 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs. Built for Aligned Incentives.",
-  description: "Don't waste the best years of your career.",
+  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs.",
+  description: "Shilll aligns compensation with incentives that maximize your career.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -1340,7 +1340,7 @@ function Index3() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("h2", { children: [
-        "Start career maxxing with ",
+        "Maximize your career with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("span", { children: "Shilll" }, void 0, !1, {
           fileName: "app/routes/profile/builder.tsx",
           lineNumber: 34,
@@ -1995,7 +1995,7 @@ function Index6() {
             lineNumber: 17,
             columnNumber: 98
           }, this),
-          "Start career maxxing."
+          "Start maximizing your career."
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -2026,7 +2026,7 @@ function Index6() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("h2", { children: [
-        "Start career maxxing with ",
+        "Maximize your career with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("span", { children: "Shilll" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
@@ -2351,7 +2351,7 @@ function Index6() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-IN542F4Q.js", imports: ["/build/_shared/chunk-552RS725.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/about": { id: "routes/about", parentId: "root", path: "about", index: void 0, caseSensitive: void 0, module: "/build/routes/about-MLQYWDBJ.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-7QJ2Q4EV.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/builder": { id: "routes/profile/builder", parentId: "root", path: "profile/builder", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/builder-PJ4IXWBI.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/enterprise": { id: "routes/profile/enterprise", parentId: "root", path: "profile/enterprise", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/enterprise-DFMUY3QK.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "5a2168a6", hmr: void 0, url: "/build/manifest-5A2168A6.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-JY5H6FDE.js", imports: ["/build/_shared/chunk-552RS725.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/about": { id: "routes/about", parentId: "root", path: "about", index: void 0, caseSensitive: void 0, module: "/build/routes/about-MLQYWDBJ.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-QD6HP7SA.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/builder": { id: "routes/profile/builder", parentId: "root", path: "profile/builder", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/builder-BRYYXT27.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/enterprise": { id: "routes/profile/enterprise", parentId: "root", path: "profile/enterprise", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/enterprise-DFMUY3QK.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "13036ba6", hmr: void 0, url: "/build/manifest-13036BA6.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
