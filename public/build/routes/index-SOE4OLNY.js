@@ -29,7 +29,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. Founder upside." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Don't waste the best years of your career." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 16,
           columnNumber: 13
@@ -41,7 +41,13 @@ function Index() {
             lineNumber: 17,
             columnNumber: 57
           }, this),
-          "Get immediate vesting. Zero cliffs."
+          "Get immediate vesting. Zero cliffs.",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 17,
+            columnNumber: 98
+          }, this),
+          "And maximize your career."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -71,19 +77,12 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Unlock founder upside with ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 25,
-          columnNumber: 38
-        }, this)
-      ] }, void 0, true, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Don't waste the best years of your career" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 25,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is to give every builder a taste of entrepreneurship without having to risk it all." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is to give every builder a taste of entrepreneurship." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 9
@@ -143,7 +142,7 @@ function Index() {
         lineNumber: 31,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "At Shilll we simplify your compensation by giving you a single number of total compensation and sliders you can use to mix your compensation to fit your goals." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/builder", children: "At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -398,4 +397,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-BQ2G4YH6.js.map
+//# sourceMappingURL=/build/routes/index-SOE4OLNY.js.map
