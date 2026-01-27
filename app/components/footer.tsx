@@ -13,11 +13,11 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-          <p>Sign up to create a free profile 🚀</p>
+          <p>Sign up to start maxxing your career 🚀</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
-        <button className="submit" type="submit">Create profile</button>
+        <button className="submit" type="submit">Let's do it</button>
       </div>
         <Altcha />
       <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />

@@ -47,7 +47,7 @@ function Index() {
             lineNumber: 17,
             columnNumber: 98
           }, this),
-          "And maximize your career."
+          "Start maxxing your career."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-Z624RWVC.js.map
+//# sourceMappingURL=/build/routes/index-VJW7ZHOS.js.map
