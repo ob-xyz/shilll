@@ -29,7 +29,7 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. More upside." }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Flexible pay. Unlimited upside." }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 16,
           columnNumber: 13
@@ -72,11 +72,11 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Get more upside with ",
+        "Get unlimited upside with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
-          columnNumber: 32
+          columnNumber: 37
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
@@ -398,4 +398,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-KCYF2KKK.js.map
+//# sourceMappingURL=/build/routes/index-LVJSGBKU.js.map

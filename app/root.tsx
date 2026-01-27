@@ -29,8 +29,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs. Founder Upside.",
-  description: "Adjust your pay compensation the way you want at any company, anywhere.",
+  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs.",
+  description: "Mix your compensation to fit your goals.",
   viewport: "width=device-width,initial-scale=1"
 });
 

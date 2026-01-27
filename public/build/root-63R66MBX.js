@@ -212,8 +212,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs. Founder Upside.",
-  description: "Adjust your pay compensation the way you want at any company, anywhere.",
+  title: "Shilll : Flexible Pay. Immediate Vesting. Zero Cliffs.",
+  description: "Mix your compensation to fit your goals.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -276,4 +276,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-FHGYRH54.js.map
+//# sourceMappingURL=/build/root-63R66MBX.js.map

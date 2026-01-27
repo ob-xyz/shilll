@@ -13,7 +13,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Flexible pay. More upside.</h1>
+            <h1>Flexible pay. Unlimited upside.</h1>
             <p>Mix your compensation to fit your goals. <br />Get immediate vesting. Zero cliffs.</p>
           </div>
         <div className="btn">
@@ -22,7 +22,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Get more upside with <span>Shilll</span></h2>
+      <h2>Get unlimited upside with <span>Shilll</span></h2>
         <Link className="text" to="/profile/builder">Shilll's mission is to simplify compensation.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/builder">Right now companies want to hire world-class builders, and they're not afraid to pay world-class compensation to lock in people like me and you.</Link>

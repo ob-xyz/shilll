@@ -13,7 +13,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h4>ENTERPRISE</h4>
-            <h1>Create an enterprise profile ✨</h1>
+            <h1>Start an enterprise profile ✨</h1>
           </div>
           <form method="post" action="https://app.jeffamzn.com/subscription/form">
             <div className="input-wrapper">
@@ -31,10 +31,9 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Get more upside with <span>Shilll</span></h2>
+      <h2>Get unlimited upside with <span>Shilll</span></h2>
         <Link className="text" to="/profile/enterprise">
-          Build your dreams. Find what you love. And enjoy a real taste of entrepreneurship without being afraid to fail.
-        </Link>
+Right now companies want to hire world-class builders, and they're not afraid to pay world-class compensation to lock in people like me and you.        </Link>
       </div>
     </div>
   );
