@@ -96,7 +96,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Wanna know more?" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: "Is it time to share?" }, void 0, false, {
         fileName: "app/routes/about.tsx",
         lineNumber: 31,
         columnNumber: 7
@@ -121,7 +121,7 @@ function Index() {
         lineNumber: 33,
         columnNumber: 23
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: "But I'm actually just a bootstrapped solo entrepreneur trying to build more stories of people getting more upside in life." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/about", children: "But I'm actually just a solo entrepreneur who's bootstrapping small things that open the spectrum of entrepreneurship to everyone." }, void 0, false, {
         fileName: "app/routes/about.tsx",
         lineNumber: 34,
         columnNumber: 11
@@ -249,4 +249,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/about-KREIBIRG.js.map
+//# sourceMappingURL=/build/routes/about-JQLO6KSQ.js.map
