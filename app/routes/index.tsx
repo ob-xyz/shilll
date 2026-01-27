@@ -13,7 +13,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Don't waste the best years of your career.</h1>
+            <h1>Don't waste the best years of your career</h1>
             <p>Mix your compensation to fit your goals. <br />Get immediate vesting. Zero cliffs.<br />Start maximizing your career.</p>
           </div>
         <div className="btn">
