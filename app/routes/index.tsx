@@ -68,12 +68,12 @@ export default function Index() {
       <div className="grid">
       <div className="box">
         <h1>Personal</h1>
-        <p>Create a profile with your preferred comp</p>
+        <p>Set your preferred comp</p>
           <Link className="text" to="/profile/personal">Personal →</Link>
       </div>
       <div className="box">
         <h1>Enterprise</h1>
-        <p>Create a profile to get access to builders</p>
+        <p>Get access to top talent</p>
           <Link className="text" to="/profile/enterprise">Enterprise →</Link>
       </div>
       </div>
