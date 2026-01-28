@@ -31,7 +31,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Build a career with <span>Shilll</span></h2>
+      <h2>Build your career with <span>Shilll</span></h2>
         <Link className="text" to="/profile/personal">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal">Right now companies want to hire builders who love making things, and they're not afraid to pay world-class compensation to make it happen.</Link>
