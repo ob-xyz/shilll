@@ -1437,17 +1437,6 @@
   flex-direction: column;
   margin-left: 0;
 }
-.adform-container .content .inner-content form altcha-widget {
-  position: relative;
-  margin-left: 0;
-  margin-top: 0.1rem;
-  max-width: 200px;
-  --altcha-max-width: 200px;
-  --altcha-border-radius: 0.5rem;
-  border-radius: 0.5rem;
-  font-size: 1.1rem;
-  font-family: kl;
-}
 .adform-container .content .inner-content form .input-wrapper {
   position: relative;
   width: 29.5rem;
@@ -1701,17 +1690,6 @@
   display: flex;
   flex-direction: column;
   margin-left: 0;
-}
-.adform-container .content .inner-content form altcha-widget {
-  position: relative;
-  margin-left: 0;
-  margin-top: 0.1rem;
-  max-width: 200px;
-  --altcha-max-width: 200px;
-  --altcha-border-radius: 0.5rem;
-  border-radius: 0.5rem;
-  font-size: 1.1rem;
-  font-family: kl;
 }
 .adform-container .content .inner-content form .input-wrapper {
   position: relative;
@@ -2009,6 +1987,17 @@
     border-top-right-radius: 1.5rem;
   }
 }
+altcha-widget {
+  position: relative;
+  margin-left: 0;
+  margin-top: 0.1rem;
+  max-width: 200px;
+  --altcha-max-width: 200px;
+  --altcha-border-width: 0;
+  font-size: 1.1rem;
+  font-family: ku;
+}
+
 .footer {
   width: 100%;
   padding: 10rem 5rem 3rem 5rem;
@@ -2049,16 +2038,6 @@
   flex-direction: column;
   margin-left: 0;
   margin-top: 0.45rem;
-}
-.footer .footer-top .footer-signup form altcha-widget {
-  position: relative;
-  margin-left: 0;
-  margin-top: 0.1rem;
-  max-width: 200px;
-  --altcha-max-width: 200px;
-  --altcha-border-radius: 5rem;
-  font-size: 1.1rem;
-  font-family: kl;
 }
 .footer .footer-top .footer-signup form .input-wrapper {
   position: relative;

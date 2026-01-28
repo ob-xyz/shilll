@@ -29,7 +29,7 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll : Flexible Pay, Immediate Vesting & Zero Cliffs",
+  title: "Shilll : Flex Comp with Immediate Vesting & Zero Cliffs",
   description: "Get a taste of entrepreneurship with Shilll",
   viewport: "width=device-width,initial-scale=1"
 });
