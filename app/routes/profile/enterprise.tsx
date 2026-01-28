@@ -34,7 +34,7 @@ export default function Index() {
       <h2>Hire the world's best builders with <span>Shilll</span></h2>
         <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Right now you want to hire the world's best builders, and you're not afraid to pay top-tier compensation to make it happen.</Link>
+        <Link className="text" to="/profile/enterprise">Right now you want to hire builders who love making things, and you're not afraid to pay world-class compensation to make it happen.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. Everyone's stage in life matters. Are high-performance people setting goals? Or looking for more options.</Link>
         <br /><br /><br />

@@ -78,11 +78,11 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Build something you'll remember with ",
+        "Build a career with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
-          columnNumber: 48
+          columnNumber: 31
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
@@ -109,7 +109,7 @@ function Index() {
         lineNumber: 27,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire builders who love to build things. And they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire builders who love making things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 28,
         columnNumber: 9
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-JEXB3U5A.js.map
+//# sourceMappingURL=/build/routes/index-JI3HNJDI.js.map
