@@ -31,16 +31,16 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Hire world-class builders with <span>Shilll</span></h2>
+      <h2>Hire the world's best builders with <span>Shilll</span></h2>
         <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Right now you want to hire world-class builders, and you're not afraid to pay top-tier compensation to make it happen.</Link>
+        <Link className="text" to="/profile/enterprise">Right now you want to hire the world's best builders, and you're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life people are in. What their interests are. And the goals they set, or the plans they change.</Link>
+        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. People's stage in life matters. Are we setting goals. Or looking for more options.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">At Shilll we simplify compensation by giving builders a single number of total compensation you're willing to offer a builder to contribute to your company, project, or team. Builders can then mix your total compensation number between base salary, equity preferences, RSUs, and stock options to fit their goals.</Link>
+        <Link className="text" to="/profile/enterprise">At Shilll we align incentives that maximize careers. We help you assign one total number of compensation that potential hires can use to mix between cash, RSUs, and stock options.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Shilll is a perfect fit for enterprises who care about attracting the best builders in the world.</Link>      
+        <Link className="text" to="/profile/enterprise">Shilll is a perfect fit for enterprises who care about attracting the world's best builders.</Link>      
         </div>
     </div>
   );

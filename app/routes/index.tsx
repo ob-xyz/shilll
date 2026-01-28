@@ -23,13 +23,13 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Maximize your career with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
+        <Link className="text" to="/profile/personal">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
+        <Link className="text" to="/profile/personal">Right now companies want to hire the world's best builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set, or the plans that change.</Link>
+        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals. Or looking for more options.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals.</Link>
+        <Link className="text" to="/profile/personal">At Shilll we align incentives that maximize your career. Get one total number for your compensation and use sliders to mix between cash, RSUs, and stock options.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
@@ -37,7 +37,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Want more options?</span> You know what to do.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/profile/personal">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maximizing their career within and outside of startups and companies.</Link>      
         </div>
 
       <div className="inner-content255">
