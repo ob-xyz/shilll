@@ -33,7 +33,7 @@ export default function Footer() {
   </div>
     <div className="column">
     <h4>Profile</h4>
-    <Link to="/profile/builder">Builder</Link>
+    <Link to="/profile/personal">Personal</Link>
     <Link to="/profile/enterprise">Enterprise</Link>
     </div>
 </div>

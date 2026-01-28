@@ -1416,6 +1416,9 @@
 .adform-container a {
   font-family: kl;
 }
+.adform-container span, .adform-container .text span {
+  font-family: ku;
+}
 .adform-container .content {
   display: flex;
   flex-direction: row;
@@ -1426,6 +1429,9 @@
   margin-top: 3rem;
   margin-bottom: 3rem;
   margin-left: 5rem;
+}
+.adform-container .content .inner-content .text {
+  margin-left: 0;
 }
 .adform-container .content .inner-content .text h1 {
   font-size: 2rem;
@@ -1505,262 +1511,9 @@
   -webkit-text-fill-color: transparent;
   animation: shimmer 1.5s linear infinite;
 }
-.adform-container .inner-content2 p span {
+.adform-container .inner-content2 p span, .adform-container .inner-content2 .text span {
   font-size: 3.5rem;
-}
-@keyframes shimmer {
-  0% {
-    background-position: -100% 0;
-  }
-  100% {
-    background-position: 200% 0;
-  }
-}
-
-@media (min-width: 875px) and (max-width: 1264px) {
-  .adform-container h3 {
-    font-size: 2.75rem;
-  }
-  .adform-container .inner-content2 {
-    margin: 0 auto;
-    padding: 0 2.5rem;
-    padding-bottom: 5rem;
-    border-top-left-radius: 1.5rem;
-    border-top-right-radius: 1.5rem;
-  }
-  .adform-container .inner-content2 h2, .adform-container .inner-content2 h2 span {
-    padding-top: 3.5rem;
-    font-size: 3.5rem;
-  }
-  .adform-container .inner-content2 h2 span {
-    font-size: 4rem;
-  }
-  .adform-container .inner-content2 p {
-    margin-bottom: 3.5rem;
-    padding-top: 1rem;
-    width: 100%;
-  }
-}
-@media (min-width: 660px) and (max-width: 874px) {
-  .adform-container h3 {
-    font-size: 2.75rem;
-  }
-  .adform-container .content {
-    flex-direction: column;
-  }
-  .adform-container .content .inner-content {
-    margin-left: 2.5rem;
-    margin-bottom: 2.5rem;
-  }
-  .adform-container .content .inner-content form .input-wrapper {
-    width: 30rem;
-  }
-  .adform-container .inner-content2 {
-    padding: 0 2.5rem;
-    border-top-left-radius: 1.5rem;
-    border-top-right-radius: 1.5rem;
-    padding-bottom: 3rem;
-  }
-  .adform-container .inner-content2 h2 {
-    padding-top: 3.5rem;
-    font-size: 3rem;
-    width: 100%;
-  }
-  .adform-container .inner-content2 h2 span {
-    font-size: 3.5rem;
-  }
-  .adform-container .inner-content2 p, .adform-container .inner-content2 .text {
-    margin-bottom: 3.5rem;
-    padding-top: 1rem;
-    font-size: 2.25rem;
-    width: 100%;
-  }
-  .adform-container .inner-content2 p span, .adform-container .inner-content2 .text span {
-    font-size: 2.5rem;
-  }
-  .adform-container .floatimg img {
-    width: 65%;
-  }
-}
-@media (max-width: 659px) {
-  .adform-container h3 {
-    font-size: 2.25rem;
-  }
-  .adform-container h4 {
-    font-size: 1.15rem;
-  }
-  .adform-container .content {
-    flex-direction: column;
-  }
-  .adform-container .content .inner-content {
-    margin-left: 2.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 2rem;
-  }
-  .adform-container .content .inner-content .text h1 {
-    font-size: 1.75rem;
-    width: 70%;
-  }
-  .adform-container .content .inner-content form .input-wrapper {
-    width: 22rem;
-  }
-  .adform-container .inner-content2 {
-    margin-left: 0;
-    margin-right: 0;
-    padding: 0 2rem;
-    padding-bottom: 4rem;
-    border-top-left-radius: 1.5rem;
-    border-top-right-radius: 1.5rem;
-  }
-  .adform-container .inner-content2 h2, .adform-container .inner-content2 h2 span {
-    padding-top: 3.5rem;
-    font-size: 2.25rem;
-  }
-  .adform-container .inner-content2 h2 span {
-    font-size: 2.5rem;
-  }
-  .adform-container .inner-content2 p, .adform-container .inner-content2 .text {
-    margin-bottom: 3.5rem;
-    padding-top: 1rem;
-    font-size: 1.75rem;
-    width: 100%;
-  }
-  .adform-container .inner-content2 p span, .adform-container .inner-content2 .text span {
-    font-size: 2rem;
-  }
-}
-.adform-container {
-  display: flex;
-  flex-direction: column;
-}
-.adform-container b {
-  font-family: "bold";
-}
-.adform-container .logo {
-  background: none;
-  margin-top: 2rem;
-  width: 2.5rem;
-}
-.adform-container h1, .adform-container h2, .adform-container h3, .adform-container span {
-  font-style: normal;
-  text-align: left;
-  font-family: kl;
-  font-size: 4.5rem;
-}
-.adform-container h2 {
-  font-size: 4.5rem;
-  font-family: kl;
-}
-.adform-container h2 span {
-  font-size: 5rem;
   font-family: ku;
-}
-.adform-container h3 {
-  font-size: 2.75rem;
-}
-.adform-container h4 {
-  font-family: kl;
-  font-size: 1.2rem;
-  color: rgb(198, 4, 36);
-}
-.adform-container p, .adform-container .text {
-  font-family: kl;
-  font-size: 1.35rem;
-}
-.adform-container a {
-  font-family: kl;
-}
-.adform-container .content {
-  display: flex;
-  flex-direction: row;
-}
-.adform-container .content .inner-content {
-  display: flex;
-  flex-direction: column;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-  margin-left: 5rem;
-}
-.adform-container .content .inner-content .text h1 {
-  font-size: 2rem;
-  margin-left: 0;
-  font-family: ku;
-}
-.adform-container .content .inner-content form {
-  display: flex;
-  flex-direction: column;
-  margin-left: 0;
-}
-.adform-container .content .inner-content form .input-wrapper {
-  position: relative;
-  width: 29.5rem;
-}
-.adform-container .content .inner-content form input.email {
-  margin-top: 0.2rem;
-  width: 100%;
-  padding: 0.85rem 6rem 0.85rem 0.75rem;
-  font-family: Arial, sans-serif;
-  color: #000;
-  border: 0.15rem solid #02090A;
-  border-radius: 0.5rem;
-  font-size: 1.1rem;
-  box-sizing: border-box;
-}
-.adform-container .content .inner-content form input.email:focus {
-  outline: none;
-  box-shadow: 0 0 1px 1px #02090A;
-  border-color: #02090A;
-  caret-color: #02090A;
-}
-.adform-container .content .inner-content form button.submit {
-  margin-top: 0.3rem;
-  padding: 1rem 1.75rem;
-  background-color: #02090A;
-  color: #fafafa;
-  border: none;
-  border-radius: 0.5rem;
-  font-size: 1rem;
-  font-family: bold;
-}
-.adform-container .content .inner-content form button.submit:hover {
-  opacity: 0.85;
-  cursor: pointer;
-}
-.adform-container .inner-content2 {
-  background: #02090A;
-  border-top-left-radius: 2rem;
-  border-top-right-radius: 2rem;
-  padding: 0 5rem;
-  padding-bottom: 5rem;
-}
-.adform-container .inner-content2 h2, .adform-container .inner-content2 h2 span {
-  padding-top: 6rem;
-  margin-left: 0;
-  color: #fafafa;
-}
-.adform-container .inner-content2 p, .adform-container .inner-content2 .text {
-  width: 95%;
-  padding-top: 1.5rem;
-  font-size: 3rem;
-  margin-left: 0;
-  color: #7a7a7a;
-  background: #7a7a7a;
-  transition: all 0.5s ease-in-out;
-  background-image: linear-gradient(90deg, #ff6600, #ff0044);
-  background-size: 0% 100%;
-  background-repeat: no-repeat;
-  background-position: left;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  cursor: pointer;
-}
-.adform-container .inner-content2 p:hover, .adform-container .inner-content2 .text:hover {
-  background-size: 100% 100%;
-  -webkit-text-fill-color: transparent;
-  animation: shimmer 1.5s linear infinite;
-}
-.adform-container .inner-content2 p span {
-  font-size: 3.5rem;
 }
 @keyframes shimmer {
   0% {
@@ -1994,8 +1747,8 @@ altcha-widget {
   max-width: 200px;
   --altcha-max-width: 200px;
   --altcha-border-width: 0;
-  font-size: 1.1rem;
-  font-family: ku;
+  font-size: 1rem;
+  font-family: bold;
 }
 
 .footer {

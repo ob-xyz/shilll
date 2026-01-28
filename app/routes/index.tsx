@@ -17,7 +17,7 @@ export default function Index() {
             <p>Mix your compensation to fit your goals. <br />Immediate vesting. Zero cliffs.<br />Maximize your career.</p>
           </div>
         <div className="btn">
-              <Link className="pricebtn" to="/profile/builder">Create profile</Link>
+              <Link className="pricebtn" to="/profile/personal">Create profile</Link>
         </div>
         </div>
       </div>
@@ -25,19 +25,19 @@ export default function Index() {
       <h2>Maximize your career with <span>Shilll</span></h2>
         <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
+        <Link className="text" to="/profile/personal">Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set, or the plans that change.</Link>
+        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set, or the plans that change.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals.</Link>
+        <Link className="text" to="/profile/personal">At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder"><span>Saving for a down payment?</span> Go all cash.</Link>
+        <Link className="text" to="/profile/personal"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder"><span>Willing to bet on yourself?</span> Up the equity.</Link>
+        <Link className="text" to="/profile/personal"><span>Willing to bet on yourself?</span> Up the equity.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder"><span>Want more options?</span> You know what to do.</Link>
+        <Link className="text" to="/profile/personal"><span>Want more options?</span> You know what to do.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/builder">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options.</Link>      
+        <Link className="text" to="/profile/personal">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options.</Link>      
         </div>
 
       <div className="inner-content255">
@@ -67,9 +67,9 @@ export default function Index() {
        <div className="inner-content3">
       <div className="grid">
       <div className="box">
-        <h1>Builder</h1>
+        <h1>Personal</h1>
         <p>Create a profile with your preferred comp</p>
-          <Link className="text" to="/profile/builder">Builder →</Link>
+          <Link className="text" to="/profile/personal">Personal →</Link>
       </div>
       <div className="box">
         <h1>Enterprise</h1>
