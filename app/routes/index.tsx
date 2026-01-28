@@ -14,7 +14,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Don't waste the best years of your career</h1>
-            <p>Get world-class compensation for making things.<br />Enjoy immediate vesting with zero cliffs.<br />Mix compensation to fit your goals.</p>
+            <p>Build a mix of world-class compensation.<br />Get immediate vesting with zero cliffs.<br /> And make something wonderful.</p>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/profile/personal">Create profile</Link>
