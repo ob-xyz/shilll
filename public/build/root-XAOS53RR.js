@@ -213,7 +213,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll : Flex Comp, Immediate Vesting & Zero Cliffs",
-  description: "Build something you'll remember. Don't waste the best years of your career.",
+  description: "Build your career with Shilll.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -276,4 +276,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-5DDIRCVS.js.map
+//# sourceMappingURL=/build/root-XAOS53RR.js.map
