@@ -35,19 +35,19 @@ function Index() {
           columnNumber: 13
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: [
-          "Build something you'll remember. ",
+          "Get world-class compensation for making things.",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 17,
-            columnNumber: 49
+            columnNumber: 63
           }, this),
-          "Mix your compensation to fit your goals. ",
+          "Enjoy immediate vesting with zero cliffs.",
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("br", {}, void 0, false, {
             fileName: "app/routes/index.tsx",
             lineNumber: 17,
-            columnNumber: 96
+            columnNumber: 110
           }, this),
-          "Get immediate vesting. Zero cliffs."
+          "Mix compensation to fit your goals."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -109,7 +109,7 @@ function Index() {
         lineNumber: 27,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire builders who love making things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies are hiring real builders who love making things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 28,
         columnNumber: 9
@@ -149,7 +149,7 @@ function Index() {
         lineNumber: 31,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you build things you'll remember. Get one number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you build something you'll remember and get world-class compensation while doing it. Enjoy one single number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -250,7 +250,7 @@ function Index() {
         lineNumber: 39,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who care about spending the best years of their career building something people love while getting world-class compensation to do it." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who want to spend the best years of their career getting world-class compensation for making things people love." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 40,
         columnNumber: 9
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-AEUXVMAF.js.map
+//# sourceMappingURL=/build/routes/index-ZOFCMORH.js.map

@@ -143,7 +143,7 @@ function Index() {
         lineNumber: 36,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire builders who love making things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies want real builders who love making things, and they're not afraid to pay world-class compensation to hire them." }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 37,
         columnNumber: 9
@@ -303,4 +303,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/profile/personal-OIKDXFWB.js.map
+//# sourceMappingURL=/build/routes/profile/personal-UCTRDYBD.js.map

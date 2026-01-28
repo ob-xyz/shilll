@@ -14,7 +14,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Don't waste the best years of your career</h1>
-            <p>Build something you'll remember. <br />Mix your compensation to fit your goals. <br />Get immediate vesting. Zero cliffs.</p>
+            <p>Get world-class compensation for making things.<br />Enjoy immediate vesting with zero cliffs.<br />Mix compensation to fit your goals.</p>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/profile/personal">Create profile</Link>
@@ -25,11 +25,11 @@ export default function Index() {
       <h2>Build your career with <span>Shilll</span></h2>
         <Link className="text" to="/profile/personal">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">Right now companies want to hire builders who love making things, and they're not afraid to pay world-class compensation to make it happen.</Link>
+        <Link className="text" to="/profile/personal">Right now companies are hiring real builders who love making things, and they're not afraid to pay world-class compensation to make it happen.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals? Or looking for more options.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">At Shilll we help you build things you'll remember. Get one number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options.</Link>
+        <Link className="text" to="/profile/personal">At Shilll we help you build something you'll remember and get world-class compensation while doing it. Enjoy one single number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
@@ -37,7 +37,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Want more options?</span> You know what to do.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who care about spending the best years of their career building something people love while getting world-class compensation to do it.</Link>      
+        <Link className="text" to="/profile/personal">It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who want to spend the best years of their career getting world-class compensation for making things people love.</Link>      
         </div>
 
       <div className="inner-content255">
