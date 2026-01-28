@@ -54,7 +54,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2555">
-          <Link className="text" to="/about"><span className="gray">"</span> Shilll gives a taste of entrepreneurship without having to risk it all.</Link>
+          <Link className="text" to="/about"><span className="gray">"</span> Shilll gives you a taste of entrepreneurship without having to risk it all.</Link>
       <div className="tag">
       <p>
         CHRIS SIGNORE

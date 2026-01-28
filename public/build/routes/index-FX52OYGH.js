@@ -316,7 +316,7 @@ function Index() {
           lineNumber: 57,
           columnNumber: 46
         }, this),
-        " Shilll gives a taste of entrepreneurship without having to risk it all."
+        " Shilll gives you a taste of entrepreneurship without having to risk it all."
       ] }, void 0, true, {
         fileName: "app/routes/index.tsx",
         lineNumber: 57,
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-ZOFCMORH.js.map
+//# sourceMappingURL=/build/routes/index-FX52OYGH.js.map
