@@ -14,7 +14,7 @@ export default function Index() {
         <div className="inner-content">
           <div className="text">
             <h1>Don't waste the best years of your career</h1>
-            <p>Mix your compensation to fit your goals. <br />Immediate vesting. Zero cliffs.<br />Maximize your career.</p>
+            <p>Build something you'll remember. <br />Mix your compensation to fit your goals. <br />Get immediate vesting. Zero cliffs.</p>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/profile/personal">Create profile</Link>
@@ -22,14 +22,14 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Maximize your career with <span>Shilll</span></h2>
+      <h2>Build something you'll remember with <span>Shilll</span></h2>
         <Link className="text" to="/profile/personal">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">Right now companies want to hire the world's best builders, and they're not afraid to pay top-tier compensation to make it happen.</Link>
+        <Link className="text" to="/profile/personal">Right now companies want to hire builders who love to build things. And they're not afraid to pay world-class compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals. Or looking for more options.</Link>
+        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals? Or looking for more options.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">At Shilll we align incentives that maximize your career. Get one total number for your compensation and use sliders to mix between cash, RSUs, and stock options.</Link>
+        <Link className="text" to="/profile/personal">At Shilll we help you build things you'll remember. Get one number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
@@ -37,7 +37,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Want more options?</span> You know what to do.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maximizing their career within and outside of startups and companies.</Link>      
+        <Link className="text" to="/profile/personal">It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who care about spending the best years of their career building something people love while getting world-class compensation to do it.</Link>      
         </div>
 
       <div className="inner-content255">

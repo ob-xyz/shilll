@@ -36,9 +36,9 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/profile/enterprise">Right now you want to hire the world's best builders, and you're not afraid to pay top-tier compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. People's stage in life matters. Are we setting goals. Or looking for more options.</Link>
+        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. Everyone's stage in life matters. Are high-performance people setting goals? Or looking for more options.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">At Shilll we align incentives that maximize careers. We help you assign one total number of compensation that potential hires can use to mix between cash, RSUs, and stock options.</Link>
+        <Link className="text" to="/profile/enterprise">At Shilll we help you hire builders you'll remember. By giving you one number that representats the total compensation you set for a role and potential hires the ability to use sliders to mix between cash, RSUs, and stock options. Quickly becomes the #1 way to attract high-performance people who love to build things.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/enterprise">Shilll is a perfect fit for enterprises who care about attracting the world's best builders.</Link>      
         </div>

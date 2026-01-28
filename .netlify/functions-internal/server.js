@@ -286,7 +286,7 @@ var import_jsx_dev_runtime4 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "Shilll : Flex Comp with Immediate Vesting & Zero Cliffs",
+  title: "Shilll : Flex Comp, Immediate Vesting & Zero Cliffs",
   description: "Get a taste of entrepreneurship with Shilll",
   viewport: "width=device-width,initial-scale=1"
 });
@@ -454,11 +454,11 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("h2", { children: [
-        "Hire world-class builders with ",
+        "Hire the world's best builders with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("span", { children: "Shilll" }, void 0, !1, {
           fileName: "app/routes/profile/enterprise.tsx",
           lineNumber: 34,
-          columnNumber: 42
+          columnNumber: 47
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/profile/enterprise.tsx",
@@ -485,7 +485,7 @@ function Index() {
         lineNumber: 36,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "Right now you want to hire world-class builders, and you're not afraid to pay top-tier compensation to make it happen." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "Right now you want to hire the world's best builders, and you're not afraid to pay top-tier compensation to make it happen." }, void 0, !1, {
         fileName: "app/routes/profile/enterprise.tsx",
         lineNumber: 37,
         columnNumber: 9
@@ -505,7 +505,7 @@ function Index() {
         lineNumber: 38,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "But compensation is complex. Everyone wants wildly different things. It depends on what stage of life people are in. What their interests are. And the goals they set, or the plans they change." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "But compensation is complex. Everyone wants wildly different things. Everyone's stage in life matters. Are high-performance people setting goals? Or looking for more options." }, void 0, !1, {
         fileName: "app/routes/profile/enterprise.tsx",
         lineNumber: 39,
         columnNumber: 9
@@ -525,7 +525,7 @@ function Index() {
         lineNumber: 40,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "At Shilll we simplify compensation by giving builders a single number of total compensation you're willing to offer a builder to contribute to your company, project, or team. Builders can then mix your total compensation number between base salary, equity preferences, RSUs, and stock options to fit their goals." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "At Shilll we help you hire builders you'll remember. By giving you one number that representats the total compensation you set for a role and potential hires the ability to use sliders to mix between cash, RSUs, and stock options. Quickly becomes the #1 way to attract high-performance people who love to build things." }, void 0, !1, {
         fileName: "app/routes/profile/enterprise.tsx",
         lineNumber: 41,
         columnNumber: 9
@@ -545,7 +545,7 @@ function Index() {
         lineNumber: 42,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "Shilll is a perfect fit for enterprises who care about attracting the best builders in the world." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(import_react5.Link, { className: "text", to: "/profile/enterprise", children: "Shilll is a perfect fit for enterprises who care about attracting the world's best builders." }, void 0, !1, {
         fileName: "app/routes/profile/enterprise.tsx",
         lineNumber: 43,
         columnNumber: 9
@@ -1340,18 +1340,18 @@ function Index3() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("h2", { children: [
-        "Maximize your career with ",
+        "Build something you'll remember with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("span", { children: "Shilll" }, void 0, !1, {
           fileName: "app/routes/profile/personal.tsx",
           lineNumber: 34,
-          columnNumber: 37
+          columnNumber: 48
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 34,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is to give every builder a taste of entrepreneurship." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every builder a taste of entrepreneurship." }, void 0, !1, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 35,
         columnNumber: 9
@@ -1371,7 +1371,7 @@ function Index3() {
         lineNumber: 36,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire builders who love to build things. And they're not afraid to pay world-class compensation to make it happen." }, void 0, !1, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 37,
         columnNumber: 9
@@ -1391,7 +1391,7 @@ function Index3() {
         lineNumber: 38,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set, or the plans that change." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals? Or looking for more options." }, void 0, !1, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 39,
         columnNumber: 9
@@ -1411,7 +1411,7 @@ function Index3() {
         lineNumber: 40,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you build things you'll remember. Get one number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options." }, void 0, !1, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 41,
         columnNumber: 9
@@ -1512,7 +1512,7 @@ function Index3() {
         lineNumber: 48,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react6.Link, { className: "text", to: "/profile/personal", children: "It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who care about spending the best years of their career building something people love while getting world-class compensation to do it." }, void 0, !1, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 49,
         columnNumber: 9
@@ -1983,19 +1983,19 @@ function Index6() {
           columnNumber: 13
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("p", { children: [
+          "Build something you'll remember. ",
+          /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
+            fileName: "app/routes/index.tsx",
+            lineNumber: 17,
+            columnNumber: 49
+          }, this),
           "Mix your compensation to fit your goals. ",
           /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
             fileName: "app/routes/index.tsx",
             lineNumber: 17,
-            columnNumber: 57
+            columnNumber: 96
           }, this),
-          "Immediate vesting. Zero cliffs.",
-          /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 17,
-            columnNumber: 94
-          }, this),
-          "Maximize your career."
+          "Get immediate vesting. Zero cliffs."
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -2026,18 +2026,18 @@ function Index6() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("h2", { children: [
-        "Maximize your career with ",
+        "Build something you'll remember with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("span", { children: "Shilll" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
-          columnNumber: 37
+          columnNumber: 48
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/index.tsx",
         lineNumber: 25,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/enterprise", children: "Shilll's mission is to give every builder a taste of entrepreneurship." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every builder a taste of entrepreneurship." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 9
@@ -2057,7 +2057,7 @@ function Index6() {
         lineNumber: 27,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire world-class builders, and they're not afraid to pay top-tier compensation to make it happen." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "Right now companies want to hire builders who love to build things. And they're not afraid to pay world-class compensation to make it happen." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 28,
         columnNumber: 9
@@ -2077,7 +2077,7 @@ function Index6() {
         lineNumber: 29,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. It depends on what stage of life you're in. What your interests are. And the goals you set, or the plans that change." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals? Or looking for more options." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 30,
         columnNumber: 9
@@ -2097,7 +2097,7 @@ function Index6() {
         lineNumber: 31,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "At Shilll we align incentives that maximize your career. Get a single number of total compensation and sliders you can use to mix your compensation to fit your goals." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you build things you'll remember. Get one number that representats your total compensation and use sliders to mix between cash, RSUs, and stock options." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -2198,7 +2198,7 @@ function Index6() {
         lineNumber: 39,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "Shilll is a perfect fit for seasoned builders, solo entrepreneurs, and small teams who care about maxxing their base salary, equity preference, restricted stock units, and stock options." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react8.Link, { className: "text", to: "/profile/personal", children: "It's the pefect fit for seasoned builders, solo entrepreneurs, and small teams who care about spending the best years of their career building something people love while getting world-class compensation to do it." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 40,
         columnNumber: 9
@@ -2298,7 +2298,7 @@ function Index6() {
           lineNumber: 70,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("p", { children: "Create a profile with your preferred comp" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("p", { children: "Set your preferred comp" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 71,
           columnNumber: 9
@@ -2319,7 +2319,7 @@ function Index6() {
           lineNumber: 75,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("p", { children: "Create a profile to get access to builders" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("p", { children: "Get access to top talent" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 76,
           columnNumber: 9
@@ -2351,7 +2351,7 @@ function Index6() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-6TOG34UO.js", imports: ["/build/_shared/chunk-552RS725.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/about": { id: "routes/about", parentId: "root", path: "about", index: void 0, caseSensitive: void 0, module: "/build/routes/about-3EYX2CDU.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-XA2AVXUL.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/enterprise": { id: "routes/profile/enterprise", parentId: "root", path: "profile/enterprise", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/enterprise-FIYDNIKG.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/personal": { id: "routes/profile/personal", parentId: "root", path: "profile/personal", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/personal-WAVK346V.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "aeff9ec4", hmr: void 0, url: "/build/manifest-AEFF9EC4.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-2OYHGA4Z.js", imports: ["/build/_shared/chunk-552RS725.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/about": { id: "routes/about", parentId: "root", path: "about", index: void 0, caseSensitive: void 0, module: "/build/routes/about-3EYX2CDU.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-JEXB3U5A.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/enterprise": { id: "routes/profile/enterprise", parentId: "root", path: "profile/enterprise", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/enterprise-HNTADOPS.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/personal": { id: "routes/profile/personal", parentId: "root", path: "profile/personal", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/personal-6PEGHKVK.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "8cae6de2", hmr: void 0, url: "/build/manifest-8CAE6DE2.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
