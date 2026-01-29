@@ -212,7 +212,7 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Shilll : Flex Comp, Immediate Vesting & Zero Cliffs",
+  title: "Shilll : World-Class Compensation, Immediate Vesting & Zero Cliffs",
   description: "Build your career with Shilll.",
   viewport: "width=device-width,initial-scale=1"
 });
@@ -276,4 +276,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-XAOS53RR.js.map
+//# sourceMappingURL=/build/root-4OQWHSNR.js.map

@@ -47,7 +47,7 @@ function Index() {
             lineNumber: 17,
             columnNumber: 101
           }, this),
-          " And make something wonderful."
+          " And choose something wonderful."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -109,7 +109,7 @@ function Index() {
         lineNumber: 27,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies are hiring real builders who love making things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies are hiring builders, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 28,
         columnNumber: 9
@@ -129,7 +129,7 @@ function Index() {
         lineNumber: 29,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. Your stage in life matters. Are you setting goals? Or looking for more options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 30,
         columnNumber: 9
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-RVGA3OXT.js.map
+//# sourceMappingURL=/build/routes/index-UUVPNETG.js.map
