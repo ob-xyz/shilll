@@ -22,7 +22,7 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Make something memorable with <span>Shilll</span></h2>
+      <h2>Make something with <span>Shilll</span></h2>
         <Link className="text" to="/profile/personal">Shilll's mission is to give every person a taste of entrepreneurship.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal">Right now companies are hiring people who can build things, and they're not afraid to pay world-class compensation to make it happen.</Link>
