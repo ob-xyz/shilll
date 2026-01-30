@@ -34,13 +34,13 @@ export default function Index() {
       <h2>Hire the world's best builders with <span>Shilll</span></h2>
         <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Right now you want to hire builders who love making things, and you're not afraid to pay world-class compensation to make it happen.</Link>
+        <Link className="text" to="/profile/enterprise">Right now you want to hire people who can make things, and you're not afraid to pay world-class compensation to make it happen.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. Everyone's stage in life matters. Are high-performance people setting goals? Or looking for more options.</Link>
+        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. And often it depends what your latest interest and priorities are.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">At Shilll we help you hire builders you'll remember. By giving you one number that representats the total compensation you set for a role and potential hires the ability to use sliders to mix between cash, RSUs, and stock options. Quickly becomes the #1 way to attract high-performance people who love to build things.</Link>
+        <Link className="text" to="/profile/enterprise">At Shilll we help you hire world-class individual contributiors, individual engineers, solo entrepreneurs, and small teams who make things.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Shilll is a perfect fit for enterprises who care about attracting the world's best builders.</Link>      
+        <Link className="text" to="/profile/enterprise">Shilll is a perfect fit for enterprises who arn't afraid to pay world-class compensation to the best builders in the world.</Link>      
         </div>
     </div>
   );
