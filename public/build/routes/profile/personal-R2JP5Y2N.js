@@ -112,18 +112,18 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Make something with ",
+        "Own your upside with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/profile/personal.tsx",
           lineNumber: 34,
-          columnNumber: 31
+          columnNumber: 32
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 34,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every builder a taste of entrepreneurship." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every person a taste of entrepreneurship." }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 35,
         columnNumber: 9
@@ -143,7 +143,7 @@ function Index() {
         lineNumber: 36,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now companies are hiring people who can build things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Right now the market is starved for people who can actually build things. Companies now realize one 10X engineer is worth more than a dozen managers - and they're paying world-class compensation to prove it." }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 37,
         columnNumber: 9
@@ -163,7 +163,7 @@ function Index() {
         lineNumber: 38,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. And often it depends what your latest interest and priorities are." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. And your goals can change fast." }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 39,
         columnNumber: 9
@@ -183,7 +183,7 @@ function Index() {
         lineNumber: 40,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you make something memorable and get world-class compensation to do it. Get one single number that represents your total compensation with the flexibility to mix between cash, RSUs, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you control your own upside. We give you a single number of total compensation that you can divie up between cash, RSUs, and stock options." }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 41,
         columnNumber: 9
@@ -284,7 +284,7 @@ function Index() {
         lineNumber: 48,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "It's the pefect fit for individual contributors, individual engineers, solo entrepreneurs, and small teams who want to spend the best years of their career making something memorable." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "We're the pefect fit for individual contributors and engineers, solo entrepreneurs, and lean teams who know the best years of their career shouldn't be wasted managing work instead of owning it." }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 49,
         columnNumber: 9
@@ -303,4 +303,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/profile/personal-7TUWOGAZ.js.map
+//# sourceMappingURL=/build/routes/profile/personal-R2JP5Y2N.js.map

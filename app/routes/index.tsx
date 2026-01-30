@@ -23,7 +23,7 @@ export default function Index() {
       </div>
       <div className="inner-content2">
       <h2>Own your upside with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/personal">Shilll's mission is to give every person a taste of entrepreneurship by being a shareholder of their own work.</Link>
+        <Link className="text" to="/profile/personal">Shilll's mission is to give every person a taste of entrepreneurship.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal">Right now the market is starved for people who can actually build things. Companies now realize one 10X engineer is worth more than a dozen managers - and they're paying world-class compensation to prove it.</Link>
         <br /><br /><br />

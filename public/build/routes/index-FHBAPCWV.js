@@ -89,7 +89,7 @@ function Index() {
         lineNumber: 25,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every person a taste of entrepreneurship by being a shareholder of their own work." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every person a taste of entrepreneurship." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 9
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-RNNUADF5.js.map
+//# sourceMappingURL=/build/routes/index-FHBAPCWV.js.map
