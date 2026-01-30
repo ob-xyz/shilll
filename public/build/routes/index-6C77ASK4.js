@@ -47,7 +47,7 @@ function Index() {
             lineNumber: 17,
             columnNumber: 101
           }, this),
-          " And own your upside."
+          " And own the upside in your work."
         ] }, void 0, true, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-FHBAPCWV.js.map
+//# sourceMappingURL=/build/routes/index-6C77ASK4.js.map
