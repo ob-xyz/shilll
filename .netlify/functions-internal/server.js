@@ -287,7 +287,7 @@ var import_jsx_dev_runtime4 = require("react/jsx-dev-runtime"), links = () => [
 ], meta = () => ({
   charset: "utf-8",
   title: "Shilll : World-Class Compensation, Immediate Vesting & No Cliffs",
-  description: "We help builders make something wonderful.",
+  description: "Own your work and make world-class compensation with Shilll.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -2000,7 +2000,7 @@ __export(about_exports, {
 var import_react8 = require("@remix-run/react");
 
 // public/img/ja6.png
-var ja6_default = "/build/_assets/ja6-ADHMXP4W.png";
+var ja6_default = "/build/_assets/ja6-ZCHNZA2M.png";
 
 // app/routes/about.tsx
 var import_jsx_dev_runtime10 = require("react/jsx-dev-runtime");
@@ -2270,7 +2270,7 @@ function Index7() {
             lineNumber: 17,
             columnNumber: 101
           }, this),
-          " And make something memorable."
+          " And own your upside."
         ] }, void 0, !0, {
           fileName: "app/routes/index.tsx",
           lineNumber: 17,
@@ -2301,18 +2301,18 @@ function Index7() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)("h2", { children: [
-        "Make something with ",
+        "Own your upside with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)("span", { children: "Shilll" }, void 0, !1, {
           fileName: "app/routes/index.tsx",
           lineNumber: 25,
-          columnNumber: 31
+          columnNumber: 32
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/index.tsx",
         lineNumber: 25,
         columnNumber: 7
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every person a taste of entrepreneurship." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "Shilll's mission is to give every person a taste of entrepreneurship by being a shareholder of their own work." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 26,
         columnNumber: 9
@@ -2332,7 +2332,7 @@ function Index7() {
         lineNumber: 27,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "Right now companies are hiring people who can build things, and they're not afraid to pay world-class compensation to make it happen." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "Right now the market is starved for people who can actually build things. Companies now realize one 10X engineer is worth more than a dozen managers - and they're paying world-class compensation to prove it." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 28,
         columnNumber: 9
@@ -2352,7 +2352,7 @@ function Index7() {
         lineNumber: 29,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. And often it depends what your latest priorities and interests are." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "But compensation is complex. Everyone wants wildly different things. And your goals can change fast." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 30,
         columnNumber: 9
@@ -2372,7 +2372,7 @@ function Index7() {
         lineNumber: 31,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you make something memorable and get world-class compensation to do it. Get one single number that represents your total compensation with the flexibility to mix between cash, RSUs, and stock options." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you control your own upside. We give you a single number of total compensation that you can divie up between cash, RSUs, and stock options." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -2473,7 +2473,7 @@ function Index7() {
         lineNumber: 39,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "It's the pefect fit for individual contributors, individual engineers, solo entrepreneurs, and small teams who want to spend the best years of their career making something memorable." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)(import_react9.Link, { className: "text", to: "/profile/personal", children: "We're the pefect fit for individual contributors and engineers, solo entrepreneurs, and lean teams who know the best years of their career shouldn't be wasted managing work instead of owning it." }, void 0, !1, {
         fileName: "app/routes/index.tsx",
         lineNumber: 40,
         columnNumber: 9
@@ -2626,7 +2626,7 @@ function Index7() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-GO55M4D2.js", imports: ["/build/_shared/chunk-552RS725.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/about": { id: "routes/about", parentId: "root", path: "about", index: void 0, caseSensitive: void 0, module: "/build/routes/about-O6646XOT.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-SEC66N27.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index-alt": { id: "routes/index-alt", parentId: "root", path: "index-alt", index: void 0, caseSensitive: void 0, module: "/build/routes/index-alt-EY3BD2ZJ.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/enterprise": { id: "routes/profile/enterprise", parentId: "root", path: "profile/enterprise", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/enterprise-6GGQZRRG.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/personal": { id: "routes/profile/personal", parentId: "root", path: "profile/personal", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/personal-7TUWOGAZ.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "dbe75287", hmr: void 0, url: "/build/manifest-DBE75287.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-FYZ6FJQX.js", imports: ["/build/_shared/chunk-552RS725.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/about": { id: "routes/about", parentId: "root", path: "about", index: void 0, caseSensitive: void 0, module: "/build/routes/about-BV3LLZYC.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-RNNUADF5.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index-alt": { id: "routes/index-alt", parentId: "root", path: "index-alt", index: void 0, caseSensitive: void 0, module: "/build/routes/index-alt-EY3BD2ZJ.js", imports: ["/build/_shared/chunk-EJTSO6MN.js", "/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/enterprise": { id: "routes/profile/enterprise", parentId: "root", path: "profile/enterprise", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/enterprise-6GGQZRRG.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/personal": { id: "routes/profile/personal", parentId: "root", path: "profile/personal", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/personal-7TUWOGAZ.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "78ac6780", hmr: void 0, url: "/build/manifest-78AC6780.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
