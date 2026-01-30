@@ -213,7 +213,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll : World-Class Compensation, Immediate Vesting & No Cliffs",
-  description: "Own your work and make world-class compensation with Shilll.",
+  description: "Own the upside in your work with Shilll.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -276,4 +276,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-FYZ6FJQX.js.map
+//# sourceMappingURL=/build/root-K7I76IWX.js.map
