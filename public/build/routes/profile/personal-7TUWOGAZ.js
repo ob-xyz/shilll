@@ -112,11 +112,11 @@ function Index() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content2", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h2", { children: [
-        "Make something memorable with ",
+        "Make something with ",
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("span", { children: "Shilll" }, void 0, false, {
           fileName: "app/routes/profile/personal.tsx",
           lineNumber: 34,
-          columnNumber: 41
+          columnNumber: 31
         }, this)
       ] }, void 0, true, {
         fileName: "app/routes/profile/personal.tsx",
@@ -303,4 +303,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/profile/personal-WDPSYO2W.js.map
+//# sourceMappingURL=/build/routes/profile/personal-7TUWOGAZ.js.map
