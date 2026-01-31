@@ -149,7 +149,7 @@ function Index() {
         lineNumber: 31,
         columnNumber: 21
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you control your own upside. We give you a single number of total compensation that you can divie up between cash, RSUs, and stock options." }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "text", to: "/profile/personal", children: "At Shilll we help you own your upside by giving you a single number of total compensation that you can mix between cash, RSUs, and stock options." }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 32,
         columnNumber: 9
@@ -404,4 +404,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-6C77ASK4.js.map
+//# sourceMappingURL=/build/routes/index-BGS7PKUX.js.map

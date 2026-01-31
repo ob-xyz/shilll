@@ -29,7 +29,7 @@ export default function Index() {
         <br /><br /><br />
         <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. And your goals can change fast.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">At Shilll we help you control your own upside. We give you a single number of total compensation that you can divie up between cash, RSUs, and stock options.</Link>
+        <Link className="text" to="/profile/personal">At Shilll we help you own your upside by giving you a single number of total compensation that you can mix between cash, RSUs, and stock options.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
