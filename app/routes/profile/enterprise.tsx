@@ -31,16 +31,16 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Hire the world's best builders with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/enterprise">Shilll's mission is to give every builder a taste of entrepreneurship.</Link>
+      <h2>Empower individuals in your company to be the master of their own destiny with <span>Shilll</span></h2>
+        <Link className="text" to="/profile/personal">Shilll's mission is to empower individuals at world-class companies.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Right now you want to hire people who can make things, and you're not afraid to pay world-class compensation to make it happen.</Link>
+        <Link className="text" to="/profile/personal">When it comes to being an entrepreneur getting started is always the hardest part. At Shilll we're making it easy for you to give individuals a taste of entrepreneurship without having to risk it all.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">But compensation is complex. Everyone wants wildly different things. And often it depends what your latest interest and priorities are.</Link>
+        <Link className="text" to="/profile/personal">Right now you're not afraid to pay world-class compensation to hire individual engineers, builders, and contributors who can make things.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">At Shilll we help you hire world-class individual contributiors, individual engineers, solo entrepreneurs, and small teams who make things.</Link>
+        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. It makes hiring hard.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/enterprise">Shilll is a perfect fit for enterprises who arn't afraid to pay world-class compensation to the best builders in the world.</Link>      
+        <Link className="text" to="/profile/personal">At Shilll we make it easy for you to empower individuals to be the master of their own destiny by giving people a single number of total compensation that they can mix between cash, RSUs, and options.</Link>
         </div>
     </div>
   );
