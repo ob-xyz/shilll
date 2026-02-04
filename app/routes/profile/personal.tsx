@@ -31,22 +31,26 @@ export default function Index() {
         </div>
       </div>
       <div className="inner-content2">
-      <h2>Become the master of your own destiny with <span>Shilll</span></h2>
-        <Link className="text" to="/profile/personal">Shilll's mission is to empower individuals to be the masters of their own destiny.</Link>
+      <h2>Be the master of your own destiny with <span>Shilll</span></h2>
+        <Link className="text" to="/profile/personal">Life's definitely not static, so why should your compensation be?</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">When it comes to being an entrepreneur getting started is always the hardest part. At Shilll we're making it easy for you to get a taste of entrepreneurship without risking it all.</Link>
+        <Link className="text" to="/profile/personal">Every day your financial needs change. One quarter you might be saving for a home, the next, you're chasing more equity upside. Most companies trap you into a rigid compensation plan determined by your start date.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">Right now companies are not afraid to pay world-class compensation to hire individual engineers, builders, and contributors who can make things.</Link>
+        <Link className="text" to="/profile/personal">Shilll gives you access to <span>choice-based compensation</span> that allows you to adjust your rewards to match your life.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">But compensation is complex. Everyone wants wildly different things. And life is never simple.</Link>
+        <Link className="text" to="/profile/personal">Get dynamic allocation access with quarterly windows to rebalance your pay.</Link>
         <br /><br /><br />
-        <Link className="text" to="/profile/personal">At Shilll we make it simple for you to be the master of your own destiny by giving you a single number of total compensation that you can mix between cash, RSUs, and options.</Link>
+        <Link className="text" to="/profile/personal">Lock in immediate value by skipping the 1-year cliff and vesting as you work.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/profile/personal">Enjoy total transparency over how your choices affect your net worth with a real-time valuation of RSUs and options.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Saving for a down payment?</span> Go all cash.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Want to bet on yourself?</span> Up the equity.</Link>
         <br /><br /><br />
         <Link className="text" to="/profile/personal"><span>Need more options?</span> You're in control.</Link>
+        <br /><br /><br />
+        <Link className="text" to="/profile/personal">At Shilll we believe you deserve the same level of agency that the world's top founders get.</Link>
         </div>
     </div>
   );
