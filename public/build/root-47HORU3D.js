@@ -203,7 +203,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Designed in Canada.",
+  description: "Shilll is a Canadian company.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -266,4 +266,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-3ZUUCJIK.js.map
+//# sourceMappingURL=/build/root-47HORU3D.js.map
