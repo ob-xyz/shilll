@@ -29,8 +29,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll : Choice-Based Compensation, Immediate Vesting & No Cliffs",
-  description: "Be the master of your own destiny with Shilll.",
+  title: "Shilll",
+  description: "Designed in Canada.",
   viewport: "width=device-width,initial-scale=1"
 });
 

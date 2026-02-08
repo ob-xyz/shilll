@@ -39,7 +39,7 @@ function Footer() {
           lineNumber: 15,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Stay informed about Shilll \u2728" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Stay informed about Shilll \u{1F4AB}" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 11
@@ -202,8 +202,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Shilll : Choice-Based Compensation, Immediate Vesting & No Cliffs",
-  description: "Be the master of your own destiny with Shilll.",
+  title: "Shilll",
+  description: "Designed in Canada.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -266,4 +266,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-K5MNJJKZ.js.map
+//# sourceMappingURL=/build/root-3ZUUCJIK.js.map
