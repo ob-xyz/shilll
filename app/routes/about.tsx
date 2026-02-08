@@ -31,7 +31,7 @@ export default function Index() {
       <h2>Is it time to spill the beans?</h2>
           <Link className="text" to="/about">I'm best known for my newsletter Jeffamazon.</Link>
           <br /><br /><br />
-          <Link className="text" to="/about">But I'm actually just a solo entrepreneur who's bootstrapping small things that open the spectrum of entrepreneurship to everyone.</Link>
+          <Link className="text" to="/about">But I'm actually just a bootstrapped entrepreneur building all kinds of different things.</Link>
           <br /><br /><br />
           <Link className="text" to="/about">Wanna get in touch? the best way to reach me is <span>chris@shilll.com</span></Link>
       </div>

@@ -38,6 +38,7 @@
   background: none;
   margin-top: 2rem;
   width: 2.5rem;
+  margin-left: 50%;
 }
 .container h1, .container h2, .container h3, .container span {
   font-style: normal;
@@ -72,26 +73,13 @@
   font-family: kl;
 }
 .container .content {
-  display: flex;
-  justify-content: center;
-  text-align: center;
   margin-bottom: 10rem;
-  margin-top: 5rem;
-}
-.container .content .inner-content {
-  display: flex;
-  flex-direction: column;
+  margin-top: 10rem;
+  width: 100%;
 }
 .container .content .inner-content .text h1 {
   text-align: center;
   font-size: 4.5rem;
-  width: 60%;
-}
-.container .content .inner-content .text h1 span {
-  font-size: 5rem;
-}
-.container .content .inner-content .text p {
-  padding: 1rem 0rem 0.5rem 0;
 }
 .container .content .inner-content .btn {
   display: flex;
@@ -1442,21 +1430,20 @@
   display: flex;
   flex-direction: column;
   margin-left: 0;
+  margin-top: 0.45rem;
 }
 .adform-container .content .inner-content form .input-wrapper {
   position: relative;
-  width: 29.5rem;
+  width: 26.5rem;
 }
 .adform-container .content .inner-content form input.email {
-  margin-top: 0.2rem;
   width: 100%;
-  padding: 0.85rem 6rem 0.85rem 0.75rem;
-  font-family: Arial, sans-serif;
   color: #000;
   border: 0.15rem solid #02090A;
-  border-radius: 0.5rem;
+  border-radius: 5rem;
   font-size: 1.1rem;
   box-sizing: border-box;
+  padding: 1.25rem;
 }
 .adform-container .content .inner-content form input.email:focus {
   outline: none;
@@ -1464,15 +1451,21 @@
   border-color: #02090A;
   caret-color: #02090A;
 }
+.adform-container .content .inner-content form .mb {
+  margin-bottom: 0.35rem;
+}
 .adform-container .content .inner-content form button.submit {
-  margin-top: 0.3rem;
-  padding: 1rem 1.75rem;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 0 2rem;
+  margin: 0.35rem;
   background-color: #02090A;
   color: #fafafa;
   border: none;
-  border-radius: 0.5rem;
+  border-radius: 5rem;
   font-size: 1rem;
-  font-family: bold;
 }
 .adform-container .content .inner-content form button.submit:hover {
   opacity: 0.85;

@@ -13,7 +13,7 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-          <p>Build your career with Shilll 🚀</p>
+          <p>Stay informed about Shilll ✨</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
@@ -29,12 +29,10 @@ export default function Footer() {
   <div className="column">
     <h4>Shilll</h4>
     <Link to="/">Home</Link>
-    <Link to="/about">About</Link>
   </div>
     <div className="column">
-    <h4>Profile</h4>
-    <Link to="/profile/personal">Personal</Link>
-    <Link to="/profile/enterprise">Enterprise</Link>
+    <h4>Newsletter</h4>
+    <a title="Jeffamazon newsletter" href="https://jeffamazon.com">Jeffamazon</a>
     </div>
 </div>
 </div>
