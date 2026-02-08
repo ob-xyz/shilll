@@ -1,4 +1,3 @@
-import { Link } from "@remix-run/react";
 import Altcha from "../../components/altcha";
 
 import logo from "~/../public/img/ja1.png";
@@ -12,8 +11,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h4>STAY INFORMED</h4>
-            <h1>Start your profile ✨</h1>
+            <h1>Get in touch with Shilll 💫</h1>
           </div>
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
               <input className="email mb" type="text" name="firstName" required placeholder="First Name *" />

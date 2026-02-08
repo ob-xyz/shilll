@@ -13,7 +13,7 @@ export default function Footer() {
 <div className="footer-top">
   <div className="footer-signup">
     <h1>Screw it, let's do it.</h1>
-          <p>Stay informed about Shilll 💫</p>
+          <p>Get in touch with Shilll 💫</p>
     <form method="post" action="https://app.jeffamzn.com/subscription/form">
       <div className="input-wrapper">
         <input className="email" type="email" name="email" required placeholder="Email Address *" />
@@ -38,7 +38,6 @@ export default function Footer() {
 </div>
 
 <div className="footer-bottom">
-
   <div className="footer-meta">
     <Link to="/policies/privacy">Privacy Policy</Link>
   <a href="https://policies.google.com/terms?hl=en-US" target="_blank" rel="noopener noreferrer">

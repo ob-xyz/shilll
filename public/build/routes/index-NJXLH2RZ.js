@@ -25,7 +25,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Designed in Canada" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", {}, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 14,
         columnNumber: 13
@@ -34,7 +34,7 @@ function Index() {
         lineNumber: 13,
         columnNumber: 11
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "btn", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "pricebtn", to: "/profile/personal", children: "Stay informed" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "btn", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "pricebtn", to: "/profile/personal", children: "Get in touch" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 17,
         columnNumber: 15
@@ -61,4 +61,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-BB62HZS6.js.map
+//# sourceMappingURL=/build/routes/index-NJXLH2RZ.js.map

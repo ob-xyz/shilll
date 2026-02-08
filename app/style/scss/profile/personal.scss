@@ -48,14 +48,10 @@
       display: flex;
       flex-direction: column;
       margin-top:3rem;
-      margin-bottom: 3rem;
-      margin-left:5rem;
-
+      margin-bottom: 3rem;  
 .text{
-  margin-left: 0;
     h1{
       font-size:2rem;
-      margin-left:0;
       font-family: ku;
     }
 }
@@ -107,76 +103,12 @@ button.submit {
 }
   }
 }
-.inner-content2{
-  background:#02090A;
-  border-top-left-radius:2rem;
-  border-top-right-radius:2rem;
-  padding:0 5rem;
-  padding-bottom: 5rem;
-  h2, h2 span{
-      padding-top:6rem;
-      margin-left:0;
-      color:#fafafa;
-    }
-p, .text {
-  width:95%;
-  padding-top: 1.5rem;
-  font-size: 3rem;
-  margin-left: 0;
-  color: #7a7a7a; //fb
-  background:#7a7a7a;
-  transition: all 0.5s ease-in-out;
-  background-image: linear-gradient(90deg, #ff6600, #ff0044);
-  background-size: 0% 100%;
-  background-repeat: no-repeat;
-  background-position: left;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  cursor: pointer;
-  &:hover {
-      background-size: 100% 100%;
-      -webkit-text-fill-color: transparent;
-      animation: shimmer 1.5s linear infinite;
-  }
-}
-p span, .text span{
-  font-size:3.5rem;
-  font-family: ku;
-}
-@keyframes shimmer {
-  0% {
-      background-position: -100% 0;
-  }
-  100% {
-      background-position: 200% 0;
-  }
-}
-}
 }
 @media (min-width: 875px) and (max-width: 1264px) {
 .adform-container{
   h3{
       font-size:2.75rem;
   }
-.inner-content2{
-  margin: 0 auto;
-  padding:0 2.5rem;
-  padding-bottom:5rem;
-  border-top-left-radius:1.5rem;
-  border-top-right-radius:1.5rem;
-  h2, h2 span{
-    padding-top:3.5rem;
-    font-size:3.5rem;
-    }
-    h2 span{
-      font-size:4rem;
-    }
-  p {
-    margin-bottom: 3.5rem;
-    padding-top: 1rem;
-    width:100%;
-  }
-}
 }
 }
 @media (min-width: 660px) and (max-width: 874px) {
@@ -194,34 +126,6 @@ form {
   width: 30rem;
   }
     }
-  }
-}
-.inner-content2{
-  padding:0 2.5rem;
-  border-top-left-radius:1.5rem;
-  border-top-right-radius:1.5rem;
-  padding-bottom:3rem;
-  h2{
-    padding-top:3.5rem;
-    font-size:3rem;
-    width:100%;
-    }
-    h2 span{
-      font-size:3.5rem;
-    }
-  p, .text{
-    margin-bottom: 3.5rem;
-    padding-top: 1rem;
-    font-size:2.25rem;
-    width:100%;
-  }
-    p span, .text span{
-    font-size:2.5rem;
-  }
-}
-.floatimg{
-  img{
-    width: 65%;
   }
 }
 }
@@ -251,30 +155,6 @@ form {
   width: 22rem;
   }
     }
-  }
-}
-.inner-content2{
-  margin-left:0;
-  margin-right:0;
-  padding:0 2rem;
-  padding-bottom:4rem;
-  border-top-left-radius:1.5rem;
-  border-top-right-radius:1.5rem;
-  h2, h2 span{
-    padding-top:3.5rem;
-    font-size:2.25rem;
-    }
-    h2 span{
-      font-size:2.5rem;
-    }
-  p, .text{
-    margin-bottom: 3.5rem;
-    padding-top: 1rem;
-    font-size:1.75rem;
-    width:100%;
-  }
-  p span, .text span{
-    font-size:2rem;
   }
 }
 }

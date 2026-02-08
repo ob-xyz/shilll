@@ -39,7 +39,7 @@ function Footer() {
           lineNumber: 15,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Stay informed about Shilll \u{1F4AB}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Get in touch with Shilll \u{1F4AB}" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 11
@@ -133,41 +133,41 @@ function Footer() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-meta", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/policies/privacy", children: "Privacy Policy" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 43,
+          lineNumber: 42,
           columnNumber: 5
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://policies.google.com/terms?hl=en-US", target: "_blank", rel: "noopener noreferrer", children: "Terms of Service" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 44,
+          lineNumber: 43,
           columnNumber: 3
         }, this)
       ] }, void 0, true, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 42,
+        lineNumber: 41,
         columnNumber: 3
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-social", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://linkedin.com/company/signore", target: "_blank", rel: "noopener noreferrer", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: in_default, alt: "LinkedIn" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 50,
+          lineNumber: 49,
           columnNumber: 5
         }, this) }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 49,
+          lineNumber: 48,
           columnNumber: 3
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "mailto:chris@shilll.com", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: email_default, alt: "Email us" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 53,
+          lineNumber: 52,
           columnNumber: 5
         }, this) }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 52,
+          lineNumber: 51,
           columnNumber: 3
         }, this)
       ] }, void 0, true, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 48,
+        lineNumber: 47,
         columnNumber: 3
       }, this)
     ] }, void 0, true, {
@@ -183,7 +183,7 @@ function Footer() {
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-QDJTOGID.css";
+var global_default = "/build/_assets/global-RJJN6CS5.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -203,7 +203,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Shilll is a Canadian company.",
+  description: "Shilll is a small company.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -266,4 +266,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-47HORU3D.js.map
+//# sourceMappingURL=/build/root-QP37GMMO.js.map
