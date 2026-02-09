@@ -1,5 +1,4 @@
 import { Link } from "@remix-run/react";
-
 import logo from "~/../public/img/ja1.png";
 
 export default function Index() {
