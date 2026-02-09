@@ -39,7 +39,7 @@ function Footer() {
           lineNumber: 15,
           columnNumber: 5
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Get in touch with Shilll \u{1F4AB}" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Get in touch with Shilll" }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 11
@@ -266,4 +266,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-3QOBKVXM.js.map
+//# sourceMappingURL=/build/root-UP4LLAVO.js.map

@@ -25,7 +25,7 @@ function Index() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-content", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Get in touch with Shilll \u{1F4AB}" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "text", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Get in touch with Shilll" }, void 0, false, {
         fileName: "app/routes/profile/personal.tsx",
         lineNumber: 14,
         columnNumber: 13
@@ -109,4 +109,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/profile/personal-DXBKESJO.js.map
+//# sourceMappingURL=/build/routes/profile/personal-2YQWGUD2.js.map
