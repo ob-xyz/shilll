@@ -11,7 +11,7 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1></h1>
+            <h1>Designed in Canada</h1>
           </div>
         <div className="btn">
               <Link className="pricebtn" to="/profile/personal">Get in touch</Link>
