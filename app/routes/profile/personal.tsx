@@ -14,13 +14,13 @@ export default function Index() {
             <h1>Get in touch with Shilll</h1>
           </div>
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
-              <input className="email mb" type="text" name="firstName" required placeholder="First Name *" />
-              <input className="email mb" type="text" name="lastName" required placeholder="Last Name *" />
-              <input className="email mb" type="text" name="company" required placeholder="Company *" />
-              <input className="email mb" type="text" name="role" required placeholder="Job Title *" />
+              <input className="email mb" type="text" name="firstName" placeholder="First Name *" />
+              <input className="email mb" type="text" name="lastName" placeholder="Last Name *" />
+              <input className="email mb" type="text" name="company" placeholder="Company *" />
+              <input className="email mb" type="text" name="role" placeholder="Job Title *" />
             <div className="input-wrapper">
               <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
-              <button className="submit" type="submit">Let's do it</button>
+              <button className="submit" type="submit">Submit</button>
             </div>
             <Altcha />
               <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
