@@ -8,7 +8,7 @@ export default function Footer() {
   return (
 <footer className="footer">
 
-  <h1>Shilll</h1>
+  <h1>Shill</h1>
 
 <div className="footer-top">
   <div className="footer-signup">
@@ -26,7 +26,7 @@ export default function Footer() {
 
 <div className="footer-links">
   <div className="column">
-    <h4>Shilll</h4>
+    <h4>Shill</h4>
     <Link to="/">Home</Link>
   </div>
     <div className="column">
