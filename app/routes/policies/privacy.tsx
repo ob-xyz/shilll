@@ -3,13 +3,13 @@ export default function Index() {
 return (
     <div className="content-privacy">
       <div className="logo">
-        <img src={logo} alt="Shill Logo" />
+        <img src={logo} alt="Shilll Logo" />
       </div>
       <div className="content-privacy2">
         <h2><span>Privacy Policy.</span><br />Effective: September 1, 2025.</h2>
-        <p>Shill respects your privacy and values your trust. This Privacy Policy (“Policy”) describes how we collect and use your information and explains your rights and options. This Policy applies to these services (which we call the “Services” in this Policy):</p>
+        <p>Shilll respects your privacy and values your trust. This Privacy Policy (“Policy”) describes how we collect and use your information and explains your rights and options. This Policy applies to these services (which we call the “Services” in this Policy):</p>
         <ul>
-          <li>websites, the Shill Store, paid products</li>
+          <li>websites, the Shilll Store, paid products</li>
           <li>newsletters and other disseminated content</li>
           <li>merchandise, mobile apps and related social media pages</li>
           <li>anywhere else we gather information about you and refer to this Policy.</li>  
@@ -25,7 +25,7 @@ return (
         <p>We encourage you to read this Policy carefully. If you have questions, please contact us at <a href="mailto:privacyrequest@shilll.com">privacyrequest@shilll.com</a>.</p>
         <p>1. About This Policy And Us</p>
         <p>(a)Who we are</p>
-        <p>Shill, Inc. (“Shill,” “we”, “our” or “us”) operates the Services. This Policy supplements and is governed by our Terms of Service (“Terms”). Capitalized terms used but not defined in this Policy are defined in our Terms. The Terms describe how the Services work in general and its conditions and requirements of use.</p>
+        <p>Shilll, Inc. (“Shilll,” “we”, “our” or “us”) operates the Services. This Policy supplements and is governed by our Terms of Service (“Terms”). Capitalized terms used but not defined in this Policy are defined in our Terms. The Terms describe how the Services work in general and its conditions and requirements of use.</p>
         <p>(b) When this Policy applies</p>
         <p>This Policy applies when you use the Services, effective as of the Last Updated date above. By using or accessing the Services, you signify that you have read, understand and agree to be bound by this Policy and the Terms.</p>
         <p>Because the Services change often, this Policy may change over time. Anytime we modify the Policy, we will post a revised version on the Services and update the Last Updated date above. If you have given us your contact information, we will notify you before any material changes take effect, so you have time to review them.</p>
@@ -63,7 +63,7 @@ return (
         <p>(b) Information collected when you use the Services</p>
         <p>As you use the Services, cookies and other technology we use will generate technical data about which features you use, how you use them and the devices you use to access our services. This information may include:</p>
         <ul>
-          <li>“Commercial Information” about your orders of Offerings or other products or services from us and interactions with Shill Store products.</li>
+          <li>“Commercial Information” about your orders of Offerings or other products or services from us and interactions with Shilll Store products.</li>
           <li>“Device Information” related to the device you use to interact with the Services, such as your device’s IP address, advertising IDs (resettable, random numbers, such as the device’s Apple IDFA or Android Advertising ID), its browser and operating system, its internet service provider, and its configuration.</li>
           <li>“Internet Activity” related to your use of the Services, such as the pages you visit, the sites you use before or after visiting ours, your actions within the Services, the content or advertisements you interact with, general geolocation information, time stamps and performance logs and reports.</li>
           <li><i>MANAGING COOKIES AND SIMILAR TECHNOLOGIES: WHEN YOU FIRST VISIT OUR SERVICES, AND PERIODICALLY THEREAFTER, YOU WILL BE PRESENTED WITH A COOKIE BANNER PROVIDING YOU WITH INFORMATION ABOUT THE COOKIES AND SIMILAR TRACKING TECHNOLOGIES WE USE. FOR COOKIES THAT ARE NOT STRICTLY NECESSARY FOR THE FUNCTIONING OF OUR SERVICES, WE WILL REQUEST YOUR EXPLICIT CONSENT BEFORE PLACING THEM ON YOUR DEVICE. OUR COOKIE BANNER ALLOWS YOU TO:</i></li>

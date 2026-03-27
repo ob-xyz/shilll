@@ -6,12 +6,12 @@ export default function Index() {
   return (
     <div className="adform-container">
       <div className="logo">
-        <img src={logo} alt="Shill Logo" />
+        <img src={logo} alt="Shilll Logo" />
       </div>
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Get in touch with Shill</h1>
+            <h1>Get in touch with Shilll</h1>
           </div>
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
               <input className="email mb" type="text" name="firstName" placeholder="First Name *" />
