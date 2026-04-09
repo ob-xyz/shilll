@@ -24,8 +24,9 @@ export default function Footer() {
     {/* <Link to="/">Log in</Link> */}
   </div>
     <div className="column">
-    <h4>Contact</h4>
-    <a title="email us" href="mailto:chris@shilll.com">Get in touch</a>
+    <h4>Newsletters</h4>
+      <a title="email us" href="https://jeffamazon.com">Jeffamazon</a>
+      <a title="email us" href="https://thepoast.com">The Poast</a>
     </div>
 </div>
 </div>
