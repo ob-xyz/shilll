@@ -36,8 +36,10 @@
 }
 .container .logo {
   background: none;
-  margin-top: 2rem;
-  width: 2.5rem;
+  display: flex;
+  width: 4rem;
+  margin-top: 3rem;
+  margin-left: 5rem;
 }
 .container h1, .container h2, .container h3, .container span {
   font-style: normal;
@@ -72,15 +74,29 @@
   font-family: ku;
 }
 .container .content .inner-content {
-  margin-top: 15rem;
-  margin-bottom: 10rem;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5rem;
+  margin-top: 1rem;
 }
 .container .content .inner-content h1 {
-  margin-bottom: 0.75rem;
-  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-family: bold;
+  color: #FA7A34;
+  background-image: linear-gradient(80deg, #0aa6df 43%, #f171c4 20%, #e62891 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.container .content .inner-content img {
+  margin-bottom: 2rem;
+  width: 40%;
 }
 .container .content .inner-content .btn {
   display: flex;
+  margin-top: 11rem;
+  margin-bottom: 10rem;
 }
 .container .content .inner-content .btn .pricebtn {
   padding: 1rem 1.75rem;
@@ -153,8 +169,8 @@
 .adform-container .content .inner-content {
   display: flex;
   flex-direction: column;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+  margin-top: 4.5rem;
+  margin-bottom: 6rem;
 }
 .adform-container .content .inner-content .text h1 {
   font-size: 2rem;
@@ -370,7 +386,7 @@ altcha-widget {
   box-sizing: border-box;
 }
 .footer h1 {
-  font-size: 11.2rem;
+  font-size: 8.25rem;
   font-family: ku;
 }
 .footer p {
@@ -399,46 +415,17 @@ altcha-widget {
   font-family: "ku";
   font-size: 2.5rem;
 }
-.footer .footer-top .footer-signup form {
-  display: flex;
-  flex-direction: column;
+.footer .footer-top .footer-signup .newacc {
   margin-left: 0;
-  margin-top: 0.45rem;
-}
-.footer .footer-top .footer-signup form .input-wrapper {
-  position: relative;
-  width: 25rem;
-}
-.footer .footer-top .footer-signup form input.email {
-  width: 100%;
-  padding: 0.85rem 6rem 0.85rem 0.75rem;
-  color: #000;
-  border: 0.15rem solid #02090A;
-  border-radius: 5rem;
-  font-size: 1.1rem;
-  box-sizing: border-box;
-  padding: 1.25rem;
-}
-.footer .footer-top .footer-signup form input.email:focus {
-  outline: none;
-  box-shadow: 0 0 1px 1px #02090A;
-  border-color: #02090A;
-  caret-color: #02090A;
-}
-.footer .footer-top .footer-signup form button.submit {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  padding: 0 2rem;
-  margin: 0.35rem;
+  padding: 1rem 1.75rem;
   background-color: #02090A;
   color: #fafafa;
   border: none;
   border-radius: 5rem;
   font-size: 1rem;
+  font-family: bold;
 }
-.footer .footer-top .footer-signup form button.submit:hover {
+.footer .footer-top .footer-signup .newacc:hover {
   opacity: 0.85;
   cursor: pointer;
 }

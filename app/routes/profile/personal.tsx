@@ -11,15 +11,13 @@ export default function Index() {
       <div className="content">
         <div className="inner-content">
           <div className="text">
-            <h1>Get in touch with Shilll</h1>
+            <h1>Create your profile</h1>
           </div>
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
               <input className="email mb" type="text" name="firstName" placeholder="First Name *" />
               <input className="email mb" type="text" name="lastName" placeholder="Last Name *" />
-              <input className="email mb" type="text" name="company" placeholder="Company *" />
-              <input className="email mb" type="text" name="role" placeholder="Job Title *" />
             <div className="input-wrapper">
-              <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
+              <input className="email" type="email" name="email" required placeholder="Email Address *" />
               <button className="submit" type="submit">Submit</button>
             </div>
             <Altcha />

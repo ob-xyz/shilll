@@ -2,6 +2,7 @@ import { Link } from "@remix-run/react";
 import Altcha from "./altcha";
 
 import linkedin from "~/../public/img/in.png";
+import x from "~/../public/img/x.png";
 import email from "~/../public/img/email.png";
 
 export default function Footer() {
@@ -12,26 +13,19 @@ export default function Footer() {
 
 <div className="footer-top">
   <div className="footer-signup">
-    <h1>Screw it, let's do it.</h1>
-    <form method="post" action="https://app.jeffamzn.com/subscription/form">
-      <div className="input-wrapper">
-        <input className="email" type="email" name="email" required placeholder="Email Address *" />
-        <button className="submit" type="submit">Let's do it</button>
-      </div>
-        <Altcha />
-      <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
-      <input type="hidden" name="nonce" />
-    </form>
+    <h1>see what's new.</h1>
+     <Link className="newacc" to="/profile/personal">Let's see</Link>
   </div>
 
 <div className="footer-links">
   <div className="column">
-    <h4>Shill</h4>
+    <h4>Shilll</h4>
     <Link to="/">Home</Link>
+    {/* <Link to="/">Log in</Link> */}
   </div>
     <div className="column">
-    <h4>Newsletter</h4>
-    <a title="Jeffamazon newsletter" href="https://jeffamazon.com">Jeffamazon</a>
+    <h4>Contact</h4>
+    <a title="email us" href="mailto:chris@shilll.com">Get in touch</a>
     </div>
 </div>
 </div>
@@ -44,6 +38,9 @@ export default function Footer() {
   </a>
   </div>
   <div className="footer-social">
+  <a href="https://x.com/shilllapp" target="_blank" rel="noopener noreferrer">
+    <img src={x} alt="LinkedIn" />
+  </a>
   <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
     <img src={linkedin} alt="LinkedIn" />
   </a>
