@@ -39,12 +39,6 @@ export default function Footer() {
   </a>
   </div>
   <div className="footer-social">
-  <a href="https://x.com/shilllapp" target="_blank" rel="noopener noreferrer">
-    <img src={x} alt="LinkedIn" />
-  </a>
-  <a href="https://linkedin.com/company/signore" target="_blank" rel="noopener noreferrer">
-    <img src={linkedin} alt="LinkedIn" />
-  </a>
   <a href="mailto:chris@shilll.com">
     <img src={email} alt="Email us" />
   </a>
