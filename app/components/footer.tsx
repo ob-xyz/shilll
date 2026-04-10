@@ -13,7 +13,7 @@ export default function Footer() {
 
 <div className="footer-top">
   <div className="footer-signup">
-    <h1>How can I help?</h1>
+    <h1>Building tomorrow.</h1>
      <Link className="newacc" to="/profile/personal">Get in touch</Link>
   </div>
 

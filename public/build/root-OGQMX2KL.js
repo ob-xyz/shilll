@@ -28,7 +28,7 @@ function Footer() {
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-top", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-signup", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "How can I help?" }, void 0, false, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Building tomorrow." }, void 0, false, {
           fileName: "app/components/footer.tsx",
           lineNumber: 16,
           columnNumber: 5
@@ -154,7 +154,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll : Shilll",
-  description: "How can I help?",
+  description: "Building tomorrow.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -217,4 +217,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-VDDIYAKA.js.map
+//# sourceMappingURL=/build/root-OGQMX2KL.js.map
