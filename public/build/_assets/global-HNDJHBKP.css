@@ -418,13 +418,6 @@ altcha-widget {
   flex-direction: column;
   margin: 0;
 }
-.footer .footer-top .footer-signup h1 {
-  margin: 0;
-  padding-top: 2rem;
-  padding-bottom: .5rem;
-  font-family: ku;
-  font-size: 2.5rem;
-}
 .footer .footer-top .footer-signup .newacc {
   margin-left: 0;
   padding: 1rem 1.75rem;

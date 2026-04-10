@@ -23,118 +23,111 @@ function Footer() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("footer", { className: "footer", children: [
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Shilll" }, void 0, false, {
       fileName: "app/components/footer.tsx",
-      lineNumber: 12,
+      lineNumber: 7,
       columnNumber: 3
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-top", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-signup", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h1", { children: "Building tomorrow." }, void 0, false, {
-          fileName: "app/components/footer.tsx",
-          lineNumber: 16,
-          columnNumber: 5
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "newacc", to: "/profile/personal", children: "Get in touch" }, void 0, false, {
-          fileName: "app/components/footer.tsx",
-          lineNumber: 17,
-          columnNumber: 6
-        }, this)
-      ] }, void 0, true, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-signup", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "newacc", to: "/profile/personal", children: "Get in touch" }, void 0, false, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 15,
+        lineNumber: 10,
+        columnNumber: 6
+      }, this) }, void 0, false, {
+        fileName: "app/components/footer.tsx",
+        lineNumber: 9,
         columnNumber: 3
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-links", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "column", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Shilll" }, void 0, false, {
             fileName: "app/components/footer.tsx",
-            lineNumber: 22,
+            lineNumber: 15,
             columnNumber: 5
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/", children: "Home" }, void 0, false, {
             fileName: "app/components/footer.tsx",
-            lineNumber: 23,
+            lineNumber: 16,
             columnNumber: 5
           }, this)
         ] }, void 0, true, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 21,
+          lineNumber: 14,
           columnNumber: 3
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "column", children: [
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("h4", { children: "Newsletters" }, void 0, false, {
             fileName: "app/components/footer.tsx",
-            lineNumber: 27,
+            lineNumber: 20,
             columnNumber: 5
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "email us", href: "https://jeffamazon.com", children: "Jeffamazon" }, void 0, false, {
             fileName: "app/components/footer.tsx",
-            lineNumber: 28,
+            lineNumber: 21,
             columnNumber: 7
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { title: "email us", href: "https://thepoast.com", children: "The Poast" }, void 0, false, {
             fileName: "app/components/footer.tsx",
-            lineNumber: 29,
+            lineNumber: 22,
             columnNumber: 7
           }, this)
         ] }, void 0, true, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 26,
+          lineNumber: 19,
           columnNumber: 5
         }, this)
       ] }, void 0, true, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 20,
+        lineNumber: 13,
         columnNumber: 1
       }, this)
     ] }, void 0, true, {
       fileName: "app/components/footer.tsx",
-      lineNumber: 14,
+      lineNumber: 8,
       columnNumber: 1
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-bottom", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-meta", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/policies/privacy", children: "Privacy Policy" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 36,
+          lineNumber: 29,
           columnNumber: 5
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "https://policies.google.com/terms?hl=en-US", target: "_blank", rel: "noopener noreferrer", children: "Terms of Service" }, void 0, false, {
           fileName: "app/components/footer.tsx",
-          lineNumber: 37,
+          lineNumber: 30,
           columnNumber: 3
         }, this)
       ] }, void 0, true, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 35,
+        lineNumber: 28,
         columnNumber: 3
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "footer-social", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("a", { href: "mailto:chris@shilll.com", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: email_default, alt: "Email us" }, void 0, false, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 43,
+        lineNumber: 36,
         columnNumber: 5
       }, this) }, void 0, false, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 42,
+        lineNumber: 35,
         columnNumber: 3
       }, this) }, void 0, false, {
         fileName: "app/components/footer.tsx",
-        lineNumber: 41,
+        lineNumber: 34,
         columnNumber: 3
       }, this)
     ] }, void 0, true, {
       fileName: "app/components/footer.tsx",
-      lineNumber: 34,
+      lineNumber: 27,
       columnNumber: 1
     }, this)
   ] }, void 0, true, {
     fileName: "app/components/footer.tsx",
-    lineNumber: 10,
+    lineNumber: 6,
     columnNumber: 1
   }, this);
 }
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-U4TFHSD5.css";
+var global_default = "/build/_assets/global-HNDJHBKP.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = __toESM(require_jsx_dev_runtime());
@@ -154,7 +147,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll : Shilll",
-  description: "Building tomorrow.",
+  description: "We're a growing company.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -217,4 +210,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-OGQMX2KL.js.map
+//# sourceMappingURL=/build/root-2VHTD7UM.js.map

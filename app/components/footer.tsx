@@ -1,19 +1,12 @@
 import { Link } from "@remix-run/react";
-import Altcha from "./altcha";
-
-import linkedin from "~/../public/img/in.png";
-import x from "~/../public/img/x.png";
 import email from "~/../public/img/email.png";
 
 export default function Footer() {
   return (
 <footer className="footer">
-
   <h1>Shilll</h1>
-
 <div className="footer-top">
   <div className="footer-signup">
-    <h1>Building tomorrow.</h1>
      <Link className="newacc" to="/profile/personal">Get in touch</Link>
   </div>
 
