@@ -5,11 +5,10 @@
         font-family:'bold';
     }
     .logo{
+        display: flex;
         background:none;
-        display:flex;
         width: 4rem;
         margin-top:3rem;
-        margin-left: 5rem;
     }
     h1, h2, h3, span{
         font-style: normal;
@@ -44,11 +43,16 @@
       font-family: ku;
     }
 .content{
+  display:flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 .inner-content{
-   display: flex;
-   flex-direction: column;
-   margin-bottom:5rem;
-   margin-top:1.5rem;
+      display: flex;
+      flex-direction: column;
+      margin-top:4rem;
+      margin-bottom: 6rem;  
    h1{
     margin-bottom:1rem;
     font-size:2rem;
@@ -86,14 +90,10 @@
 }
 @media (max-width: 659px) {
 .container{
-      .logo{
-        margin-top:.5rem;
-        margin-left: .5rem;
-    }
 .content{
 .inner-content{
-     margin-top: 12.5rem;
-   margin-bottom:15rem;
+        margin-top: 4rem;
+     margin-bottom:15rem;
   }
 }
 }

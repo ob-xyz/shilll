@@ -35,11 +35,10 @@
   font-family: "bold";
 }
 .container .logo {
-  background: none;
   display: flex;
+  background: none;
   width: 4rem;
   margin-top: 3rem;
-  margin-left: 5rem;
 }
 .container h1, .container h2, .container h3, .container span {
   font-style: normal;
@@ -73,11 +72,18 @@
 .container span, .container .text span {
   font-family: ku;
 }
+.container .content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
 .container .content .inner-content {
   display: flex;
   flex-direction: column;
-  margin-bottom: 5rem;
-  margin-top: 1.5rem;
+  margin-top: 4rem;
+  margin-bottom: 6rem;
 }
 .container .content .inner-content h1 {
   margin-bottom: 1rem;
@@ -113,12 +119,8 @@
 }
 
 @media (max-width: 659px) {
-  .container .logo {
-    margin-top: 0.5rem;
-    margin-left: 0.5rem;
-  }
   .container .content .inner-content {
-    margin-top: 12.5rem;
+    margin-top: 4rem;
     margin-bottom: 15rem;
   }
 }
@@ -130,9 +132,10 @@
   font-family: "bold";
 }
 .adform-container .logo {
+  display: flex;
   background: none;
-  margin-top: 2rem;
-  width: 2.5rem;
+  width: 4rem;
+  margin-top: 3rem;
 }
 .adform-container h1, .adform-container h2, .adform-container h3, .adform-container span {
   font-style: normal;
@@ -169,11 +172,14 @@
 .adform-container .content {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 .adform-container .content .inner-content {
   display: flex;
   flex-direction: column;
-  margin-top: 4.5rem;
+  margin-top: 6rem;
   margin-bottom: 6rem;
 }
 .adform-container .content .inner-content .text h1 {
@@ -253,17 +259,11 @@
   .adform-container h4 {
     font-size: 1.15rem;
   }
-  .adform-container .content {
-    flex-direction: column;
-  }
   .adform-container .content .inner-content {
-    margin-left: 2.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 2rem;
+    margin-top: 4rem;
   }
   .adform-container .content .inner-content .text h1 {
     font-size: 1.75rem;
-    width: 70%;
   }
   .adform-container .content .inner-content form .input-wrapper {
     width: 22rem;
