@@ -21,7 +21,7 @@ export default function Index() {
               <button className="submit" type="submit">Submit</button>
             </div>
             <Altcha />
-              <input id="6d48f" type="hidden" name="l" value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
+              <input id="82687" type="hidden" name="l" value="82687238-ae68-46c7-98ad-183fbf4cfea0" />
             <input type="hidden" name="nonce" />
           </form>
         </div>
