@@ -14,16 +14,17 @@ export default function Index() {
             <h1>Get in touch</h1>
           </div>
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
-              <input className="email mb" type="text" name="firstName" placeholder="First Name *" />
-              <input className="email mb" type="text" name="lastName" placeholder="Last Name *" />
-            <div className="input-wrapper">
-              <input className="email" type="email" name="email" required placeholder="Email Address *" />
-              <button className="submit" type="submit">Submit</button>
-            </div>
-            <Altcha />
-              <input id="82687" type="hidden" name="l" value="82687238-ae68-46c7-98ad-183fbf4cfea0" />
-            <input type="hidden" name="nonce" />
-          </form>
+              <div className="input-wrapper1">
+                <input className="email" type="text" name="firstName" placeholder="Your Name *" />
+              </div>
+              <div className="input-wrapper">
+                <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
+                <button className="submit" type="submit">Submit</button>
+              </div>
+              <Altcha />
+              <input id="82687" type="hidden" name="l" checked value="82687238-ae68-46c7-98ad-183fbf4cfea0" />
+              <input type="hidden" name="nonce" />
+            </form>
         </div>
       </div>
     </div>
