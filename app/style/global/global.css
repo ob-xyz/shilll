@@ -192,9 +192,13 @@
   margin-left: 0;
   margin-top: 0.45rem;
 }
-.adform-container .content .inner-content form .input-wrapper {
+.adform-container .content .inner-content form .input-wrapper,
+.adform-container .content .inner-content form .input-wrapper1 {
   position: relative;
-  width: 26.5rem;
+  width: 25rem;
+}
+.adform-container .content .inner-content form .input-wrapper1 {
+  margin-bottom: 0.15rem;
 }
 .adform-container .content .inner-content form input.email {
   width: 100%;
@@ -265,7 +269,8 @@
   .adform-container .content .inner-content .text h1 {
     font-size: 1.75rem;
   }
-  .adform-container .content .inner-content form .input-wrapper {
+  .adform-container .content .inner-content form .input-wrapper,
+  .adform-container .content .inner-content form .input-wrapper1 {
     width: 22rem;
   }
 }

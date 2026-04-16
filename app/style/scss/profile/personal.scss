@@ -64,9 +64,13 @@
   flex-direction: column;
   margin-left: 0;
   margin-top:.45rem;
-.input-wrapper {
+.input-wrapper,
+.input-wrapper1 {
   position: relative;
-  width: 26.5rem;
+  width: 25rem;
+}
+.input-wrapper1{
+  margin-bottom: .15rem;
 }
 input.email {
   width: 100%;
@@ -151,7 +155,8 @@ form {
       }
     }
 form {
-.input-wrapper {
+.input-wrapper,
+.input-wrapper1 {
   width: 22rem;
   }
     }

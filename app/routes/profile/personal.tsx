@@ -14,7 +14,7 @@ export default function Index() {
             <h1>Get in touch</h1>
           </div>
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
-              <div className="input-wrapper">
+              <div className="input-wrapper1">
                 <input className="email" type="text" name="firstName" placeholder="Your Name *" />
               </div>
               <div className="input-wrapper">
