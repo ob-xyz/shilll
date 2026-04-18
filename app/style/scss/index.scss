@@ -1,14 +1,20 @@
 .container{
     display:flex;
     flex-direction: column;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    background-color: #000;
     b{
         font-family:'bold';
     }
     .logo{
         display: flex;
+        justify-content: center;
+        margin:auto auto;
         background:none;
-        width: 4rem;
-        margin-top:3rem;
+        width: 7.5rem;
     }
     h1, h2, h3, span{
         font-style: normal;
@@ -42,51 +48,6 @@
     span, .text span{
       font-family: ku;
     }
-.content{
-  display:flex;
-  flex-direction:row;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-.inner-content{
-      display: flex;
-      flex-direction: column;
-      margin-top:4rem;
-      margin-bottom: 6rem;  
-   h1{
-    margin-bottom:1rem;
-    font-size:2rem;
-    font-family: bold;
-    color: #FA7A34;
-    background-image: linear-gradient(80deg, #0aa6df 43%, #f171c4 20%, #e62891 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-   }
-   img{
-    margin-bottom:2rem;
-    width:40%;
-   }
-.btn { 
-  display: flex;
-  margin-top:11rem;
-  margin-bottom:10rem;
-  .pricebtn {
-    padding: 1rem 1.75rem;
-    background-color: #02090A;
-    color: #fafafa;
-    border: none;
-    border-radius: 5rem;
-    font-size: 1rem;
-    font-family: bold;
-  &:hover {
-    opacity: .85;
-    cursor: pointer;
-  }
-  }
-}
-}
-}
 }
 @media (max-width: 659px) {
 .container{

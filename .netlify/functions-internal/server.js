@@ -180,7 +180,7 @@ function Footer() {
 var import_react3 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-OMA6MGTA.css";
+var global_default = "/build/_assets/global-PUVVT3R6.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime3 = require("react/jsx-dev-runtime"), links = () => [
@@ -196,7 +196,7 @@ var import_jsx_dev_runtime3 = require("react/jsx-dev-runtime"), links = () => [
 ], meta = () => ({
   charset: "utf-8",
   title: "Shilll : Shilll",
-  description: "We design and build things.",
+  description: "We make intelligence more personal.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -1244,37 +1244,17 @@ var routes_exports = {};
 __export(routes_exports, {
   default: () => Index4
 });
-var import_react5 = require("@remix-run/react");
 var import_jsx_dev_runtime8 = require("react/jsx-dev-runtime");
 function Index4() {
-  return /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "container", children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "logo", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("img", { src: ja1_default, alt: "Shilll Logo" }, void 0, !1, {
-      fileName: "app/routes/index.tsx",
-      lineNumber: 9,
-      columnNumber: 9
-    }, this) }, void 0, !1, {
-      fileName: "app/routes/index.tsx",
-      lineNumber: 8,
-      columnNumber: 7
-    }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "inner-content", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "btn", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)(import_react5.Link, { className: "pricebtn", to: "/profile/personal", children: "Get in touch" }, void 0, !1, {
-      fileName: "app/routes/index.tsx",
-      lineNumber: 16,
-      columnNumber: 15
-    }, this) }, void 0, !1, {
-      fileName: "app/routes/index.tsx",
-      lineNumber: 15,
-      columnNumber: 9
-    }, this) }, void 0, !1, {
-      fileName: "app/routes/index.tsx",
-      lineNumber: 12,
-      columnNumber: 9
-    }, this) }, void 0, !1, {
-      fileName: "app/routes/index.tsx",
-      lineNumber: 11,
-      columnNumber: 7
-    }, this)
-  ] }, void 0, !0, {
+  return /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "logo", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("img", { src: ja1_default, alt: "Shilll Logo" }, void 0, !1, {
+    fileName: "app/routes/index.tsx",
+    lineNumber: 9,
+    columnNumber: 9
+  }, this) }, void 0, !1, {
+    fileName: "app/routes/index.tsx",
+    lineNumber: 8,
+    columnNumber: 7
+  }, this) }, void 0, !1, {
     fileName: "app/routes/index.tsx",
     lineNumber: 7,
     columnNumber: 5
@@ -1282,7 +1262,7 @@ function Index4() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-JG65I2C2.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-2IH7P4WM.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/personal": { id: "routes/profile/personal", parentId: "root", path: "profile/personal", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/personal-WFVCLOJA.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "27e342fa", hmr: void 0, url: "/build/manifest-27E342FA.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-7VPN2UI5.js", imports: ["/build/_shared/chunk-4RXSKUQF.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-T6ZYJO5I.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-VSPYLQMJ.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-P2ANN5G6.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-YUU3Q6ML.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/profile/personal": { id: "routes/profile/personal", parentId: "root", path: "profile/personal", index: void 0, caseSensitive: void 0, module: "/build/routes/profile/personal-WFVCLOJA.js", imports: ["/build/_shared/chunk-H74JKBWY.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "39b4f437", hmr: void 0, url: "/build/manifest-39B4F437.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
