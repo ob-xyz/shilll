@@ -30,7 +30,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "This is not a company.",
+  description: "We love to make software.",
   viewport: "width=device-width,initial-scale=1"
 });
 export default function App() {
