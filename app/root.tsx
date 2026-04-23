@@ -29,13 +29,12 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll — Scaling Intelligence",
-  description: "Just a collective of researchers and engineers building the future of intelligence.",
+  title: "Shilll — Scaling Software",
+  description: "We love to make software.",
   viewport: "width=device-width,initial-scale=1"
 });
 export default function App() {
 
-  
   return (
     <html lang="en">
       <head>
