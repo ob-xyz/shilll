@@ -6,6 +6,9 @@ export default function Index() {
       <div className="logo">
         <img src={logo} alt="Shilll Logo" />
       </div>
+        <div className="err">
+            <h1>404 | This page could not be found.</h1>
+        </div>
     </div>
   );
 }

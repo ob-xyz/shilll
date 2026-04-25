@@ -44,7 +44,7 @@
   justify-content: center;
   margin: auto auto;
   background: none;
-  width: 7.5rem;
+  width: 6rem;
 }
 .container h1, .container h2, .container h3, .container span {
   font-style: normal;
@@ -77,6 +77,21 @@
 }
 .container span, .container .text span {
   font-family: ku;
+}
+.container .err {
+  position: absolute;
+  top: 37.5rem;
+  z-index: 111111;
+  background: #000;
+  padding: 1rem 2rem;
+  border-radius: 0.75rem;
+}
+.container .err h1 {
+  font-family: kl;
+  font-weight: 700;
+  font-size: 1.5rem !important;
+  width: 100%;
+  color: #fff;
 }
 
 @media (max-width: 659px) {
