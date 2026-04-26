@@ -11,13 +11,8 @@ export default function Footer() {
   </div>
 
 <div className="footer-links">
-  <div className="column">
-    <h4>Shilll</h4>
-    <Link to="/">Home</Link>
-    {/* <Link to="/">Log in</Link> */}
-  </div>
     <div className="column">
-    <h4>Newsletters</h4>
+    <h4>News feeds</h4>
       <a title="email us" href="https://jeffamazon.com">Jeffamazon</a>
       <a title="email us" href="https://thepoast.com">The Poast</a>
     </div>
@@ -27,9 +22,6 @@ export default function Footer() {
 <div className="footer-bottom">
   <div className="footer-meta">
     <Link to="/policies/privacy">Privacy Policy</Link>
-  <a href="https://policies.google.com/terms?hl=en-US" target="_blank" rel="noopener noreferrer">
-    Terms of Service
-  </a>
   </div>
   <div className="footer-social">
   <a href="mailto:chris@shilll.com">
