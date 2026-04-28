@@ -12,8 +12,7 @@ export default function Footer() {
 
 <div className="footer-links">
     <div className="column">
-    <h4>News feeds</h4>
-      <a title="email us" href="https://jeffamazon.com">Jeffamazon</a>
+    <h4>News feed</h4>
       <a title="email us" href="https://thepoast.com">The Poast</a>
     </div>
 </div>
