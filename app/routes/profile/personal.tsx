@@ -16,7 +16,6 @@ export default function Index() {
             <form method="post" action="https://app.jeffamzn.com/subscription/form">
               <div className="input-wrapper1">
               <input className="email" type="text" name="firstName" placeholder="First Name *" />
-              <input className="email" type="text" name="lastName" placeholder="Last Name *" />
               </div>
               <div className="input-wrapper">
                 <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
