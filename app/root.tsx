@@ -30,7 +30,7 @@ export const links: LinksFunction = () => {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Chris Signore's Shilll is an internet media company building iconic brands like Jeffamazon and The Poast",
+  description: "Chris Signore's Shilll is a company that scales iconic internet brands.",
   viewport: "width=device-width,initial-scale=1"
 });
 export default function App() {
