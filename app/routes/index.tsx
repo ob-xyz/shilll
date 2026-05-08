@@ -1,10 +1,108 @@
-import logo from "~/../public/img/ja1.png";
+import { useState, useEffect } from "react";
+import { Link, Form, useNavigation, useActionData } from "@remix-run/react";
+import { json, type ActionFunctionArgs } from "@remix-run/node";
+import Altcha from "../components/altcha";
+
+import jeff from "~/../public/img/social/jeffamazon.png";
+import tp from "~/../public/img/social/poast.png";
+import info from "~/../public/img/social/info.png";
+import j from "~/../public/img/ja7.png";
+import logo from "~/../public/img/ja.png";
+
+export async function action({ request }: ActionFunctionArgs) {
+  const formData = await request.formData();
+  const email = formData.get("email");
+  // Logic for your Poast-specific mailing list here
+  console.log("New Poast Subscriber:", email);
+  return json({ success: true });
+}
 
 export default function Index() {
+  const [showModal, setShowModal] = useState(false);
+  const navigation = useNavigation();
+  const actionData = useActionData<typeof action>();
+
+  useEffect(() => {
+    // Unique keys for The Poast tracking
+    const isSubscribed = localStorage.getItem("thepoast_subscribed");
+    const hasSeenThisSession = sessionStorage.getItem("thepoast_seen_session");
+
+    // Only trigger if they haven't subscribed AND haven't seen it in this tab session
+    if (!isSubscribed && !hasSeenThisSession) {
+      const timer = setTimeout(() => {
+        setShowModal(true);
+        // Mark as seen immediately so it doesn't re-trigger during navigation
+        sessionStorage.setItem("thepoast_seen_session", "true");
+      }, 1000);
+      return () => clearTimeout(timer);
+    }
+  }, []);
+
+  useEffect(() => {
+    const handleEsc = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setShowModal(false);
+    };
+    window.addEventListener("keydown", handleEsc);
+    return () => window.removeEventListener("keydown", handleEsc);
+  }, []);
+
+  useEffect(() => {
+    if (actionData?.success) {
+      localStorage.setItem("thepoast_subscribed", "true");
+      setShowModal(false);
+    }
+  }, [actionData]);
+
   return (
     <div className="container">
-      <div className="logo">
-        <img src={logo} alt="Shilll Logo" />
+      {/* POPUP MODAL */}
+      {showModal && (
+        <div className="modal-overlay" onClick={() => setShowModal(false)}>
+          <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+            <img className="logo" src={logo} alt="Shilll Logo" />
+            <p>Subscribe to Shilll's free newsletter</p>
+            <p>Get today's sports news, plus one killer podcast, and exclusive subscriber-only insights</p>
+            <form method="post" action="https://app.shilll.com/subscription/form">
+              <div className="input-wrapper">
+                <input className="email" type="email" name="email" required placeholder="Email Address *" />
+                <button className="submit" type="submit">
+                  {navigation.state === "submitting" ? "..." : "Subscribe"}
+                </button>
+              </div>
+              <Altcha />
+              <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
+              <input type="hidden" name="nonce" />
+            </form>
+
+            <p className="dismiss-text" onClick={() => setShowModal(false)}>
+              No thanks! I'm already subscribed
+            </p>
+          </div>
+        </div>
+      )}
+
+      {/* HEADER SECTION */}
+      <div className="header">
+        <img className="logo" src={logo} alt="The Poast Logo" />
+        <div className="outer-header">
+          <div className="inner-header">
+            <div className="social">
+              <Link className="x" to="/thepoast">
+                <img src={tp} alt="The Poast" />
+              </Link>
+              <Link className="li" to="/jeffamazon">
+                <img src={jeff} alt="Jeffamazon" />
+              </Link>
+              <Link className="info" to="/info">
+                <img src={info} alt="More Info" />
+              </Link>
+            </div>
+          </div>
+          <div className="inner-header2">
+            <Link to="/subscribe">Subscribe</Link>
+          </div>
+        </div>
+        <img className="headerimg" src={j} alt="The Poast" />
       </div>
     </div>
   );

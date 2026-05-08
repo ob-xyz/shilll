@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .footer h1 {
-  font-size: 8.25rem;
+  font-size: 12.25rem;
   font-family: ku;
 }
 .footer p {
@@ -17,7 +17,7 @@
   flex-wrap: nowrap;
   justify-content: space-between;
   border-bottom: 1px solid #333;
-  padding-bottom: 4rem;
+  padding-bottom: 4.5rem;
   margin-bottom: 2rem;
 }
 .footer .footer-top .footer-signup {
@@ -26,17 +26,53 @@
   flex-direction: column;
   margin: 0;
 }
-.footer .footer-top .footer-signup .newacc {
+.footer .footer-top .footer-signup h1 {
+  margin: 0;
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+  font-family: "ku";
+  font-size: 2.5rem;
+}
+.footer .footer-top .footer-signup form {
+  display: flex;
+  flex-direction: column;
   margin-left: 0;
-  padding: 1rem 1.75rem;
+  margin-top: 0.45rem;
+}
+.footer .footer-top .footer-signup form .input-wrapper {
+  position: relative;
+  width: 25rem;
+}
+.footer .footer-top .footer-signup form input.email {
+  width: 100%;
+  padding: 0.85rem 6rem 0.85rem 0.75rem;
+  color: #000;
+  border: 0.15rem solid #02090A;
+  border-radius: 5rem;
+  font-size: 1.1rem;
+  box-sizing: border-box;
+  padding: 1.25rem;
+}
+.footer .footer-top .footer-signup form input.email:focus {
+  outline: none;
+  box-shadow: 0 0 1px 1px #02090A;
+  border-color: #02090A;
+  caret-color: #02090A;
+}
+.footer .footer-top .footer-signup form button.submit {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 0 2rem;
+  margin: 0.35rem;
   background-color: #02090A;
   color: #fafafa;
   border: none;
   border-radius: 5rem;
   font-size: 1rem;
-  font-family: bold;
 }
-.footer .footer-top .footer-signup .newacc:hover {
+.footer .footer-top .footer-signup form button.submit:hover {
   opacity: 0.85;
   cursor: pointer;
 }
@@ -98,7 +134,7 @@
   padding-right: 0;
 }
 .footer .footer-bottom .footer-social img {
-  width: 1.5rem;
+  width: 1.15rem;
   border-radius: 0;
   margin-left: 0;
 }
