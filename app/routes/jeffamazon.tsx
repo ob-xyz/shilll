@@ -5,11 +5,12 @@ import jeff from "~/../public/img/social/jeffamazon.png";
 import tp from "~/../public/img/social/poast.png";
 import info from "~/../public/img/social/info.png";
 import j from "~/../public/img/ja6.png";
+import logo from "~/../public/img/ja.png";
 export default function Index() {
   return (
     <div className="subscribe-container">
       <div className="header">
-        <img className="logo" src={jeff} alt="The Poast Logo" />
+        <img className="logo" src={logo} alt="The Poast Logo" />
         <p>Keep up with the markets in just one minute</p>
         <div className="outer-header">
           <div className="inner-header">
