@@ -78,7 +78,7 @@ function Index() {
         lineNumber: 63,
         columnNumber: 13
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Get today's sports news, plus one killer podcast, and exclusive subscriber-only insights" }, void 0, false, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Get today's news, plus one killer podcast, and exclusive subscriber-only insights" }, void 0, false, {
         fileName: "app/routes/index.tsx",
         lineNumber: 64,
         columnNumber: 13
@@ -211,4 +211,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-UP24BKA5.js.map
+//# sourceMappingURL=/build/routes/index-BQQUAM5B.js.map
