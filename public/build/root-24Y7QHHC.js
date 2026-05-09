@@ -14,7 +14,7 @@ import {
 } from "/build/_shared/chunk-IU43IUTG.js";
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-OYPFVG2U.css";
+var global_default = "/build/_assets/global-ZAW75BRQ.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
@@ -34,7 +34,7 @@ var links = () => {
 var meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "The pioneer of internet media.",
+  description: "Making sense of the daily news.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -92,4 +92,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-AAQIHBX7.js.map
+//# sourceMappingURL=/build/root-24Y7QHHC.js.map
