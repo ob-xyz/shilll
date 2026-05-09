@@ -27,7 +27,7 @@ import {
 } from "/build/_shared/chunk-IU43IUTG.js";
 
 // public/img/tpbg.png
-var tpbg_default = "/build/_assets/tpbg-HQ6MSLLZ.png";
+var tpbg_default = "/build/_assets/tpbg-4R7HFLPI.png";
 
 // public/img/cs.jpg
 var cs_default = "/build/_assets/cs-3THKTAXS.jpg";
@@ -240,4 +240,4 @@ export {
   Index as default,
   links
 };
-//# sourceMappingURL=/build/routes/info-MZ5RP25O.js.map
+//# sourceMappingURL=/build/routes/info-NA5OJSSX.js.map

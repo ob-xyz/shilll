@@ -1,6 +1,6 @@
 import {
   ja7_default
-} from "/build/_shared/chunk-NPV7MO4L.js";
+} from "/build/_shared/chunk-SE4O4Z6A.js";
 import {
   ja_default
 } from "/build/_shared/chunk-DAFTH56S.js";
@@ -22,134 +22,124 @@ import {
   __toESM
 } from "/build/_shared/chunk-IU43IUTG.js";
 
-// app/routes/advertise-with-us.tsx
+// app/routes/subscribe.tsx
 var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
 function Index() {
-  return /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "ads-container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "header", children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { className: "logo", src: ja_default, alt: "The Poast Logo" }, void 0, false, {
-      fileName: "app/routes/advertise-with-us.tsx",
+  return /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "subscribe-container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "header", children: [
+    /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { className: "logo", src: ja_default, alt: "Shilll Logo" }, void 0, false, {
+      fileName: "app/routes/subscribe.tsx",
       lineNumber: 13,
-      columnNumber: 9
-    }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Interested in advertising with Shilll?" }, void 0, false, {
-      fileName: "app/routes/advertise-with-us.tsx",
-      lineNumber: 14,
-      columnNumber: 9
-    }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("p", { children: "Contact us for information on setting up a campaign that helps you grow your business!" }, void 0, false, {
-      fileName: "app/routes/advertise-with-us.tsx",
-      lineNumber: 15,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "outer-header", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "social", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "x", to: "/thepoast", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: poast_default, alt: "The Poast" }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 20,
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 18,
           columnNumber: 17
         }, this) }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 19,
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 17,
           columnNumber: 15
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "li", to: "/jeffamazon", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: jeffamazon_default, alt: "Jeffamazon" }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 23,
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 21,
           columnNumber: 17
         }, this) }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 22,
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 20,
           columnNumber: 15
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 26,
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 24,
           columnNumber: 17
         }, this) }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 25,
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 23,
           columnNumber: 15
         }, this)
       ] }, void 0, true, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 18,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 16,
         columnNumber: 13
       }, this) }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 17,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 15,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(Link, { to: "/", children: "Home" }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 31,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 29,
         columnNumber: 14
       }, this) }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 30,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 28,
         columnNumber: 11
       }, this)
     ] }, void 0, true, {
-      fileName: "app/routes/advertise-with-us.tsx",
-      lineNumber: 16,
+      fileName: "app/routes/subscribe.tsx",
+      lineNumber: 14,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("form", { method: "post", action: "https://app.shilll.com/subscription/form", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "input-wrapper", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { className: "email", type: "text", name: "firstName", placeholder: "Your Name *" }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 36,
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "input-wrapper", children: /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { className: "email", type: "text", name: "firstName", placeholder: "First Name *" }, void 0, false, {
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 34,
         columnNumber: 13
       }, this) }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 35,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 33,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("div", { className: "input-wrapper", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { className: "email", type: "email", name: "email", required: true, placeholder: "Business Email Address *" }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 39,
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { className: "email", type: "email", name: "email", required: true, placeholder: "Email Address *" }, void 0, false, {
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 37,
           columnNumber: 13
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("button", { className: "submit", type: "submit", children: "Submit" }, void 0, false, {
-          fileName: "app/routes/advertise-with-us.tsx",
-          lineNumber: 40,
+        /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("button", { className: "submit", type: "submit", children: "Subscribe" }, void 0, false, {
+          fileName: "app/routes/subscribe.tsx",
+          lineNumber: 38,
           columnNumber: 13
         }, this)
       ] }, void 0, true, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 38,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 36,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)(AltchaWrapper, {}, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 42,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 40,
         columnNumber: 11
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { id: "bcd05", type: "hidden", name: "l", checked: true, value: "bcd05274-b4b9-4a90-a8b5-1fdee92637fa" }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 43,
+      /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { id: "6d48f", type: "hidden", name: "l", checked: true, value: "6d48fffe-7d37-4c14-b317-3e4cda33a647" }, void 0, false, {
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 41,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, false, {
-        fileName: "app/routes/advertise-with-us.tsx",
-        lineNumber: 44,
+        fileName: "app/routes/subscribe.tsx",
+        lineNumber: 42,
         columnNumber: 11
       }, this)
     ] }, void 0, true, {
-      fileName: "app/routes/advertise-with-us.tsx",
-      lineNumber: 34,
+      fileName: "app/routes/subscribe.tsx",
+      lineNumber: 32,
       columnNumber: 11
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime.jsxDEV)("img", { className: "headerimg", src: ja7_default, alt: "Instagram" }, void 0, false, {
-      fileName: "app/routes/advertise-with-us.tsx",
-      lineNumber: 46,
+      fileName: "app/routes/subscribe.tsx",
+      lineNumber: 44,
       columnNumber: 11
     }, this)
   ] }, void 0, true, {
-    fileName: "app/routes/advertise-with-us.tsx",
+    fileName: "app/routes/subscribe.tsx",
     lineNumber: 12,
     columnNumber: 7
   }, this) }, void 0, false, {
-    fileName: "app/routes/advertise-with-us.tsx",
+    fileName: "app/routes/subscribe.tsx",
     lineNumber: 11,
     columnNumber: 5
   }, this);
@@ -157,4 +147,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/advertise-with-us-FDC5NW6X.js.map
+//# sourceMappingURL=/build/routes/subscribe-HQ6G2WYD.js.map

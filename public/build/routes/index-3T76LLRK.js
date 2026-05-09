@@ -1,6 +1,6 @@
 import {
   ja7_default
-} from "/build/_shared/chunk-NPV7MO4L.js";
+} from "/build/_shared/chunk-SE4O4Z6A.js";
 import {
   ja_default
 } from "/build/_shared/chunk-DAFTH56S.js";
@@ -211,4 +211,4 @@ function Index() {
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/index-BQQUAM5B.js.map
+//# sourceMappingURL=/build/routes/index-3T76LLRK.js.map

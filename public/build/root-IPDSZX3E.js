@@ -33,8 +33,8 @@ var links = () => {
 };
 var meta = () => ({
   charset: "utf-8",
-  title: "Shilll",
-  description: "Making sense of the daily news.",
+  title: "Shilll \u2014 Today's News",
+  description: "Making sense of today's news.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -92,4 +92,4 @@ export {
   links,
   meta
 };
-//# sourceMappingURL=/build/root-BGHPQAK6.js.map
+//# sourceMappingURL=/build/root-IPDSZX3E.js.map
