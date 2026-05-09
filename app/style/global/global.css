@@ -241,8 +241,6 @@ body {
 .container .header .outer-header .inner-header .social {
   display: flex;
   gap: 0.75rem;
-  margin-right: auto;
-  margin-right: 0;
 }
 .container .header .outer-header .inner-header .social a {
   display: flex;
@@ -467,8 +465,6 @@ body {
 .subscribe-container .header .outer-header .inner-header .social {
   display: flex;
   gap: 0.75rem;
-  margin-right: auto;
-  margin-right: 0;
 }
 .subscribe-container .header .outer-header .inner-header .social a {
   display: flex;
@@ -691,8 +687,6 @@ body {
 .moreinfo-container .header .outer-header .inner-header .social {
   display: flex;
   gap: 0.75rem;
-  margin-right: auto;
-  margin-right: 0;
 }
 .moreinfo-container .header .outer-header .inner-header .social a {
   display: flex;

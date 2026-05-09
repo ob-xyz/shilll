@@ -1,27 +1,25 @@
 import { Link } from "@remix-run/react";
 
-import li from "~/../public/img/social/linkedin.png";
-import x from "~/../public/img/social/x.png";
+import jeff from "~/../public/img/social/jeffamazon.png";
+import tp from "~/../public/img/social/poast.png";
 import info from "~/../public/img/social/info.png";
 import j from "~/../public/img/ja7.png";
-import tp from "~/../public/img/ja.png";
+import logo from "~/../public/img/ja.png";
 
 export default function Index() {
   return (
     <div className="container">
       <div className="header">
-        <img className="logo" src={tp} alt="The Poast Logo" />
-        <p>Keep up with sports in just one minute</p>
-        <p>Join 12,000 readers for <a href="/today">one daily email</a></p>        
+        <img className="logo" src={logo} alt="Shilll Logo" />
         <div className="outer-header">
           <div className="inner-header">
             <div className="social">
-              <a className="x" href="https://x.com/shilllsports" target="_blank" rel="noopener noreferrer">
-                <img src={x} alt="X (Twitter)" />
-              </a>
-              <a className="li" href="https://linkedin.com/company/shilllsports" target="_blank" rel="noopener noreferrer">
-                <img src={li} alt="LinkedIn" />
-              </a>
+              <Link className="x" to="/thepoast">
+                <img src={tp} alt="The Poast" />
+              </Link>
+              <Link className="li" to="/jeffamazon">
+                <img src={jeff} alt="Jeffamazon" />
+              </Link>
               <Link className="info" to="/info">
                 <img src={info} alt="More Info" />
               </Link>
