@@ -63,7 +63,7 @@ __export(root_exports, {
 var import_react2 = require("@remix-run/react");
 
 // app/style/global/global.css
-var global_default = "/build/_assets/global-A23KUBYG.css";
+var global_default = "/build/_assets/global-3YBZGAW6.css";
 
 // app/root.tsx
 var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
@@ -78,8 +78,8 @@ var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "Shilll \u2014 Today's News",
-  description: "Making sense of today's news.",
+  title: "Shilll \u2014 gotta minute?",
+  description: "Subscribe to our free, one minute news feeds.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -178,7 +178,7 @@ var poast_default = "/build/_assets/poast-THKZBTWP.png";
 var info_default = "/build/_assets/info-FQKLT5OI.png";
 
 // public/img/ja7.png
-var ja7_default = "/build/_assets/ja7-E4YLFCQD.png";
+var ja7_default = "/build/_assets/ja7-SMO23N7D.png";
 
 // public/img/ja.png
 var ja_default = "/build/_assets/ja-HE6EAVYE.png";
@@ -1694,126 +1694,126 @@ var ja6_default = "/build/_assets/ja6-UPP7LGKB.png";
 var import_jsx_dev_runtime7 = require("react/jsx-dev-runtime");
 function Index4() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "subscribe-container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "header", children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { className: "logo", src: jeffamazon_default, alt: "The Poast Logo" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { className: "logo", src: ja_default, alt: "The Poast Logo" }, void 0, !1, {
       fileName: "app/routes/jeffamazon.tsx",
-      lineNumber: 12,
+      lineNumber: 13,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("p", { children: "Keep up with the markets in just one minute" }, void 0, !1, {
       fileName: "app/routes/jeffamazon.tsx",
-      lineNumber: 13,
+      lineNumber: 14,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "outer-header", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "social", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react5.Link, { className: "x", to: "/thepoast", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { src: poast_default, alt: "The Poast" }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 18,
+          lineNumber: 19,
           columnNumber: 17
         }, this) }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 17,
+          lineNumber: 18,
           columnNumber: 15
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react5.Link, { className: "li", to: "/jeffamazon", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { src: jeffamazon_default, alt: "Jeffamazon" }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 21,
+          lineNumber: 22,
           columnNumber: 17
         }, this) }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 20,
+          lineNumber: 21,
           columnNumber: 15
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react5.Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 24,
+          lineNumber: 25,
           columnNumber: 17
         }, this) }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 23,
+          lineNumber: 24,
           columnNumber: 15
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 16,
+        lineNumber: 17,
         columnNumber: 13
       }, this) }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 15,
+        lineNumber: 16,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react5.Link, { to: "/", children: "Home" }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 29,
+        lineNumber: 30,
         columnNumber: 14
       }, this) }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 28,
+        lineNumber: 29,
         columnNumber: 11
       }, this)
     ] }, void 0, !0, {
       fileName: "app/routes/jeffamazon.tsx",
-      lineNumber: 14,
+      lineNumber: 15,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("form", { method: "post", action: "https://app.shilll.com/subscription/form", children: [
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "input-wrapper", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("input", { className: "email", type: "text", name: "firstName", placeholder: "First Name *" }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 34,
+        lineNumber: 35,
         columnNumber: 13
       }, this) }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 33,
+        lineNumber: 34,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "input-wrapper", children: [
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("input", { className: "email", type: "email", name: "email", required: !0, placeholder: "Email Address *" }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 37,
+          lineNumber: 38,
           columnNumber: 13
         }, this),
         /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("button", { className: "submit", type: "submit", children: "Subscribe" }, void 0, !1, {
           fileName: "app/routes/jeffamazon.tsx",
-          lineNumber: 38,
+          lineNumber: 39,
           columnNumber: 13
         }, this)
       ] }, void 0, !0, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 36,
+        lineNumber: 37,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(AltchaWrapper, {}, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 40,
+        lineNumber: 41,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("input", { id: "6d48f", type: "hidden", name: "l", checked: !0, value: "6d48fffe-7d37-4c14-b317-3e4cda33a647" }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 41,
+        lineNumber: 42,
         columnNumber: 11
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, !1, {
         fileName: "app/routes/jeffamazon.tsx",
-        lineNumber: 42,
+        lineNumber: 43,
         columnNumber: 11
       }, this)
     ] }, void 0, !0, {
       fileName: "app/routes/jeffamazon.tsx",
-      lineNumber: 32,
+      lineNumber: 33,
       columnNumber: 11
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { className: "headerimg", src: ja6_default, alt: "Instagram" }, void 0, !1, {
       fileName: "app/routes/jeffamazon.tsx",
-      lineNumber: 44,
+      lineNumber: 45,
       columnNumber: 11
     }, this)
   ] }, void 0, !0, {
     fileName: "app/routes/jeffamazon.tsx",
-    lineNumber: 11,
+    lineNumber: 12,
     columnNumber: 7
   }, this) }, void 0, !1, {
     fileName: "app/routes/jeffamazon.tsx",
-    lineNumber: 10,
+    lineNumber: 11,
     columnNumber: 5
   }, this);
 }
@@ -1956,14 +1956,11 @@ var import_react7 = require("@remix-run/react");
 // public/img/ja5.png
 var ja5_default = "/build/_assets/ja5-QIBBJVB3.png";
 
-// public/img/social/poast2.png
-var poast2_default = "/build/_assets/poast2-HKOOICAY.png";
-
 // app/routes/thepoast.tsx
 var import_jsx_dev_runtime9 = require("react/jsx-dev-runtime");
 function Index6() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("div", { className: "subscribe-container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("div", { className: "header", children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("img", { className: "logo", src: poast2_default, alt: "The Poast Logo" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("img", { className: "logo", src: ja_default, alt: "The Poast Logo" }, void 0, !1, {
       fileName: "app/routes/thepoast.tsx",
       lineNumber: 13,
       columnNumber: 9
@@ -2268,7 +2265,7 @@ __export(info_exports, {
 var import_react10 = require("@remix-run/react");
 
 // public/img/tpbg.png
-var tpbg_default = "/build/_assets/tpbg-4R7HFLPI.png";
+var tpbg_default = "/build/_assets/tpbg-AEGMF75M.png";
 
 // public/img/cs.jpg
 var cs_default = "/build/_assets/cs-3THKTAXS.jpg";
@@ -2575,7 +2572,7 @@ function Index9() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-NBTJ7FAB.js", imports: ["/build/_shared/chunk-ROHSLC5J.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-SYE7DVQM.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-YXP74ZYC.js", imports: ["/build/_shared/chunk-SE4O4Z6A.js", "/build/_shared/chunk-DAFTH56S.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/advertise-with-us": { id: "routes/advertise-with-us", parentId: "root", path: "advertise-with-us", index: void 0, caseSensitive: void 0, module: "/build/routes/advertise-with-us-RINDBKQL.js", imports: ["/build/_shared/chunk-SE4O4Z6A.js", "/build/_shared/chunk-DAFTH56S.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-OEEULEVI.js", imports: ["/build/_shared/chunk-SE4O4Z6A.js", "/build/_shared/chunk-DAFTH56S.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !0, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/info": { id: "routes/info", parentId: "root", path: "info", index: void 0, caseSensitive: void 0, module: "/build/routes/info-5BNNS2IC.js", imports: ["/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-DAFTH56S.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/jeffamazon": { id: "routes/jeffamazon", parentId: "root", path: "jeffamazon", index: void 0, caseSensitive: void 0, module: "/build/routes/jeffamazon-QQHIG5TK.js", imports: ["/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-7RZMERFR.js", imports: ["/build/_shared/chunk-3DN6PRUP.js", "/build/_shared/chunk-MG3UHPBD.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-A7DVPLTR.js", imports: ["/build/_shared/chunk-3DN6PRUP.js", "/build/_shared/chunk-MG3UHPBD.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/subscribe": { id: "routes/subscribe", parentId: "root", path: "subscribe", index: void 0, caseSensitive: void 0, module: "/build/routes/subscribe-HMKW2WT3.js", imports: ["/build/_shared/chunk-SE4O4Z6A.js", "/build/_shared/chunk-DAFTH56S.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/thepoast": { id: "routes/thepoast", parentId: "root", path: "thepoast", index: void 0, caseSensitive: void 0, module: "/build/routes/thepoast-CH2SYBBS.js", imports: ["/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-VTLNF36Q.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "e924858a", hmr: void 0, url: "/build/manifest-E924858A.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-NBTJ7FAB.js", imports: ["/build/_shared/chunk-ROHSLC5J.js", "/build/_shared/chunk-S4ZNHW4H.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-VGYD5AYH.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-YFKY5P35.js", imports: ["/build/_shared/chunk-4EEY5CGA.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/advertise-with-us": { id: "routes/advertise-with-us", parentId: "root", path: "advertise-with-us", index: void 0, caseSensitive: void 0, module: "/build/routes/advertise-with-us-Q3ZAXJVK.js", imports: ["/build/_shared/chunk-4EEY5CGA.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-423EMVVL.js", imports: ["/build/_shared/chunk-4EEY5CGA.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !0, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/info": { id: "routes/info", parentId: "root", path: "info", index: void 0, caseSensitive: void 0, module: "/build/routes/info-O5LKXWSE.js", imports: ["/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/jeffamazon": { id: "routes/jeffamazon", parentId: "root", path: "jeffamazon", index: void 0, caseSensitive: void 0, module: "/build/routes/jeffamazon-AIROSQWO.js", imports: ["/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-7RZMERFR.js", imports: ["/build/_shared/chunk-3DN6PRUP.js", "/build/_shared/chunk-MG3UHPBD.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-A7DVPLTR.js", imports: ["/build/_shared/chunk-3DN6PRUP.js", "/build/_shared/chunk-MG3UHPBD.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/subscribe": { id: "routes/subscribe", parentId: "root", path: "subscribe", index: void 0, caseSensitive: void 0, module: "/build/routes/subscribe-5IHILGTJ.js", imports: ["/build/_shared/chunk-4EEY5CGA.js", "/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/thepoast": { id: "routes/thepoast", parentId: "root", path: "thepoast", index: void 0, caseSensitive: void 0, module: "/build/routes/thepoast-I63SPL4B.js", imports: ["/build/_shared/chunk-552RS725.js", "/build/_shared/chunk-5RCMC3Z4.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "1e493b92", hmr: void 0, url: "/build/manifest-1E493B92.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
