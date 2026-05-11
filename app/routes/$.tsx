@@ -26,7 +26,7 @@ export default function Index() {
             </div>
           </div>
           <div className="inner-header2">
-            <Link to="/subscribe">Subscribe</Link>
+            <Link to="/advertise">Advertise</Link>
           </div>
         </div>
         <img className="headerimg" src={j} alt="The Poast" />

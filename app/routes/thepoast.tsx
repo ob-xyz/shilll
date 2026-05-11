@@ -11,7 +11,6 @@ export default function Index() {
     <div className="subscribe-container">
       <div className="header">
         <img className="logo" src={logo} alt="The Poast Logo" />
-        <p>Keep up with tech in just one minute</p>
         <div className="outer-header">
           <div className="inner-header">
             <div className="social">
