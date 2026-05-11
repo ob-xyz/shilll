@@ -61,7 +61,7 @@ export default function Index() {
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
             <img className="logo" src={logo} alt="Shilll Logo" />
             <p>Advertise with us</p>
-            <p>Every day the smartest founders, operators, and builders across finance and technology read our one minute news feeds</p>
+            <p>Every day the smartest founders, operators, and builders read our one minute news feeds to keep up in finance and technology</p>
             <form method="post" action="https://app.shilll.com/subscription/form">
               <div className="input-wrapper">
                 <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
