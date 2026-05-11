@@ -60,13 +60,13 @@ export default function Index() {
         <div className="modal-overlay" onClick={() => setShowModal(false)}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
             <img className="logo" src={logo} alt="Shilll Logo" />
-            <p>Subscribe to Shilll's free newsletter</p>
-            <p>Get today's news, plus one killer podcast, and exclusive subscriber-only insights</p>
+            <p>Advertise with us</p>
+            <p>Every day the smartest founders, operators, and builders across finance and technology read our one minute news feeds</p>
             <form method="post" action="https://app.shilll.com/subscription/form">
               <div className="input-wrapper">
-                <input className="email" type="email" name="email" required placeholder="Email Address *" />
+                <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
                 <button className="submit" type="submit">
-                  {navigation.state === "submitting" ? "..." : "Subscribe"}
+                  {navigation.state === "submitting" ? "..." : "Submit"}
                 </button>
               </div>
               <Altcha />
@@ -75,7 +75,7 @@ export default function Index() {
             </form>
 
             <p className="dismiss-text" onClick={() => setShowModal(false)}>
-              No thanks! I'm already subscribed
+              No thanks! I'm just popping by
             </p>
           </div>
         </div>
@@ -99,7 +99,7 @@ export default function Index() {
             </div>
           </div>
           <div className="inner-header2">
-            <Link to="/subscribe">Subscribe</Link>
+            <Link to="/subscribe">Advertise</Link>
           </div>
         </div>
         <img className="headerimg" src={j} alt="The Poast" />
