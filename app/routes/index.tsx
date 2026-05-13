@@ -90,8 +90,8 @@ export default function Index() {
               <Link className="x" to="/thepoast">
                 <img src={tp} alt="The Poast" />
               </Link>
-              <Link className="li" to="/jeffamazon">
-                <img src={jeff} alt="Jeffamazon" />
+              <Link className="cp" to="/canadapoast">
+                <img src={tp} alt="Canada Poast" />
               </Link>
               <Link className="info" to="/info">
                 <img src={info} alt="More Info" />

@@ -269,6 +269,12 @@ body {
 .container .header .outer-header .inner-header .social .x:hover img {
   filter: invert(1);
 }
+.container .header .outer-header .inner-header .social .cp:hover {
+  background: #D52329;
+}
+.container .header .outer-header .inner-header .social .cp:hover img {
+  filter: invert(1);
+}
 .container .header .outer-header .inner-header .social .li:hover {
   background: #FFDFAE;
 }
@@ -493,6 +499,12 @@ body {
 .subscribe-container .header .outer-header .inner-header .social .x:hover img {
   filter: invert(1);
 }
+.subscribe-container .header .outer-header .inner-header .social .cp:hover {
+  background: #D52329;
+}
+.subscribe-container .header .outer-header .inner-header .social .cp:hover img {
+  filter: invert(1);
+}
 .subscribe-container .header .outer-header .inner-header .social .li:hover {
   background: #FFDFAE;
 }
@@ -713,6 +725,12 @@ body {
   background: #000000;
 }
 .moreinfo-container .header .outer-header .inner-header .social .x:hover img {
+  filter: invert(1);
+}
+.moreinfo-container .header .outer-header .inner-header .social .cp:hover {
+  background: #D52329;
+}
+.moreinfo-container .header .outer-header .inner-header .social .cp:hover img {
   filter: invert(1);
 }
 .moreinfo-container .header .outer-header .inner-header .social .li:hover {
@@ -995,267 +1013,6 @@ body {
     font-size: 1.25rem;
   }
   .moreinfo-container .inner-container .profile-outside .subscribe .logo-grid form button.submit {
-    padding: 0 1rem;
-    font-size: 1.25rem;
-  }
-}
-body {
-  overflow-y: hidden;
-}
-
-.ads-container {
-  display: flex;
-  flex-direction: column;
-}
-.ads-container b {
-  font-family: "bold";
-}
-.ads-container h1, .ads-container h2, .ads-container h3, .ads-container span {
-  font-style: normal;
-  text-align: left;
-  font-family: ku;
-  font-size: 4.5rem;
-}
-.ads-container h2 {
-  font-size: 2.5rem;
-  color: #fff;
-  font-family: kl;
-}
-.ads-container h2 span {
-  font-size: 4.5rem;
-  font-family: ku;
-}
-.ads-container h3 {
-  font-size: 2.75rem;
-}
-.ads-container h4 {
-  font-family: kl;
-  font-size: 1.35rem;
-  color: #670000;
-}
-.ads-container p, .ads-container .text {
-  font-family: kl;
-  font-size: 1.25rem;
-}
-.ads-container a {
-  font-family: kl;
-}
-.ads-container .header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background: linear-gradient(180deg, rgb(0, 0, 0) 21%, rgb(91, 91, 91) 120%);
-  width: 100%;
-  height: 100vh;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-  -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
-  mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
-}
-.ads-container .header .logo {
-  width: 4rem;
-  margin: 0;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
-}
-.ads-container .header p {
-  margin-top: 0.15rem;
-  font-size: 2rem;
-  font-weight: 100;
-  font-family: ku;
-  text-align: center;
-}
-.ads-container .header p:nth-child(3) {
-  font-size: 1.75rem;
-}
-.ads-container .header p a {
-  font-family: kl;
-  text-decoration: underline !important;
-  color: #000;
-  font-size: 1.75rem;
-}
-.ads-container .header .headerimg {
-  margin: 0 auto;
-  width: 47.5%;
-  margin-top: 2.25rem;
-}
-.ads-container .header .outer-header {
-  display: flex;
-  position: sticky;
-  margin-top: 2rem;
-}
-.ads-container .header .outer-header .inner-header {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  background: linear-gradient(180deg, #3a3d45 0%, #000000 100%);
-  border: 1px solid #444;
-  border-radius: 0.75rem;
-  padding: 0.75rem 1.5rem 0.75rem 1.5rem;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-  justify-content: space-between;
-}
-.ads-container .header .outer-header .inner-header h2 {
-  color: #fff;
-  font-size: 2.5rem;
-  font-weight: 100;
-  font-family: ku;
-  margin: 0;
-  flex-shrink: 0;
-}
-.ads-container .header .outer-header .inner-header .social {
-  display: flex;
-  gap: 0.75rem;
-}
-.ads-container .header .outer-header .inner-header .social a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 4rem;
-  height: 4rem;
-  border-radius: 0.75rem;
-  transition: all 0.3s ease;
-  background: linear-gradient(0deg, rgb(163, 163, 163) 21%, rgb(255, 255, 255) 100%);
-}
-.ads-container .header .outer-header .inner-header .social a img {
-  width: 3rem;
-  transition: filter 0.3s ease;
-  filter: invert(1);
-}
-.ads-container .header .outer-header .inner-header .social a:hover {
-  background: #000000;
-}
-.ads-container .header .outer-header .inner-header .social a:hover img {
-  filter: invert(0);
-}
-.ads-container .header .outer-header .inner-header .social .x:hover {
-  background: #000000;
-}
-.ads-container .header .outer-header .inner-header .social .li:hover {
-  background: #1E66C2;
-}
-.ads-container .header .outer-header .inner-header .social .info:hover {
-  background: #FF0034;
-}
-.ads-container .header .outer-header .inner-header .social .ig:hover {
-  background: radial-gradient(circle at 30% 107%, #ffdc80 0%, #ffa72b 5%, #ff9603 20%, #f56040 40%, #fd1d1d 50%, #e1306c 60%, #c13584 70%, #833ab4 85%, #405de6 100%);
-}
-.ads-container .header .outer-header .inner-header2 {
-  display: flex;
-  margin-left: 1.5rem;
-}
-.ads-container .header .outer-header .inner-header2 a {
-  border-radius: 0.75rem;
-  padding: 1.2rem 6rem;
-  font-size: 2.5rem;
-  font-family: ku;
-  font-weight: 100;
-  color: #fff;
-  transition: all 0.3s ease;
-  background: linear-gradient(0deg, #000 21%, rgb(255, 255, 255) 100%);
-}
-.ads-container .header .outer-header .inner-header2 a:hover {
-  transform: none;
-  box-shadow: 0 0 20px 8px rgb(255, 113, 113);
-}
-.ads-container .header form {
-  margin-top: 0.5rem;
-}
-.ads-container .header form .input-wrapper {
-  position: relative;
-  width: 38rem;
-  margin-bottom: 0.25rem;
-}
-.ads-container .header form input.email {
-  width: 100%;
-  border: 0.175rem solid #212121;
-  border-radius: 0.75rem;
-  font-size: 1.5rem;
-  box-sizing: border-box;
-  padding: 1.5rem;
-  font-family: ku;
-  font-weight: 100;
-  background: linear-gradient(0deg, #fff 21%, rgb(255, 255, 255) 100%);
-  color: #000;
-}
-.ads-container .header form input.email:focus {
-  outline: none;
-  box-shadow: 0 0 2px 2px #ff7171;
-  border-color: #02090A;
-  caret-color: #02090A;
-}
-.ads-container .header form altcha-widget {
-  color: #fff;
-  --altcha-color-base: linear-gradient(0deg,#000 21%, rgba(255, 255, 255, 1) 100%);
-  --altcha-border-radius: .75rem;
-  --altcha-caret-color: #000;
-}
-.ads-container .header form button.submit {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  padding: 0 2.65rem;
-  margin: 0.35rem;
-  color: #fff;
-  border: none;
-  border-radius: 0.75rem;
-  font-size: 1.5rem;
-  font-family: ku;
-  font-weight: 100;
-  transition: all 0.3s ease;
-  background: linear-gradient(0deg, #000 21%, rgb(255, 255, 255) 100%);
-  cursor: pointer;
-}
-.ads-container .header form button.submit:hover {
-  transform: none;
-  box-shadow: 0 0 20px 8px rgb(255, 113, 113);
-}
-
-@media (max-width: 720px) {
-  .subscribe-container .header .logo {
-    width: 3.25rem;
-    margin-bottom: 0.35rem;
-    margin-top: 0.75rem;
-  }
-  .subscribe-container .header p {
-    font-size: 1.1rem;
-  }
-  .subscribe-container .header p:nth-child(3) {
-    font-size: 1rem;
-  }
-  .subscribe-container .header p a {
-    font-size: 1rem;
-  }
-  .subscribe-container .header .headerimg {
-    width: 100%;
-    margin-top: 1rem;
-  }
-  .subscribe-container .header .outer-header {
-    flex-direction: column;
-  }
-  .subscribe-container .header .outer-header .inner-header .social {
-    margin-right: auto;
-    margin-right: auto;
-  }
-  .subscribe-container .header .outer-header .inner-header2 {
-    margin-left: auto;
-    margin-top: 0.75rem;
-  }
-  .subscribe-container .header .outer-header .inner-header2 a {
-    padding: 1.2rem 7rem;
-  }
-  .subscribe-container .header form {
-    margin-top: 0.75rem;
-  }
-  .subscribe-container .header form .input-wrapper {
-    position: relative;
-    width: 22rem;
-  }
-  .subscribe-container .header form input.email {
-    font-size: 1.25rem;
-  }
-  .subscribe-container .header form button.submit {
     padding: 0 1rem;
     font-size: 1.25rem;
   }

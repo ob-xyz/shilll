@@ -138,6 +138,14 @@ a {
     }
   }
 }
+.cp{
+&:hover {
+  background: #D52329; 
+img{
+  filter: invert(1);
+}
+}
+}
 .li{
   &:hover {
     background: #FFDFAE; 
