@@ -58,7 +58,7 @@ export default function Index() {
                 </a>
             </div>
             <div className="subscribe">
-                <h1>Get Shilll</h1>
+                <h1>Advertise with us</h1>
                 <div className="logo-grid">
                     <form method="post" action="https://app.shilll.com/subscription/form">
                     <div className="input-wrapper">
@@ -69,7 +69,7 @@ export default function Index() {
                         <button className="submit" type="submit">Subscribe</button>
                     </div>
                     <Altcha />
-                    <input id="6d48f" type="hidden" name="l" checked value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
+                    <input id="36b8c" type="hidden" name="l" checked value="36b8c160-7d12-4103-aaba-8e3cd90d9d64" />
                     <input type="hidden" name="nonce" />
                     </form>
                 </div>
