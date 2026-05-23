@@ -189,9 +189,9 @@ body {
   mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
 }
 .container .header .logo {
-  width: 4rem;
+  width: 8rem;
   margin: 0;
-  margin-top: 2rem;
+  margin-top: 16rem;
   margin-bottom: 0.5rem;
 }
 .container .header p {
@@ -217,7 +217,7 @@ body {
 .container .header .outer-header {
   display: flex;
   position: sticky;
-  margin-top: 2.75rem;
+  margin-top: 9rem;
 }
 .container .header .outer-header .inner-header {
   display: flex;
@@ -331,11 +331,6 @@ body {
     padding: 0 1rem;
     font-size: 1.25rem;
   }
-  .container .header .logo {
-    width: 3.25rem;
-    margin-bottom: 0.35rem;
-    margin-top: 0.75rem;
-  }
   .container .header p {
     font-size: 1.1rem;
   }
@@ -447,7 +442,7 @@ body {
 .subscribe-container .header .outer-header {
   display: flex;
   position: sticky;
-  margin-top: 2rem;
+  margin-top: 9rem;
 }
 .subscribe-container .header .outer-header .inner-header {
   display: flex;
@@ -533,7 +528,7 @@ body {
   box-shadow: 0 0 20px 8px rgb(255, 113, 113);
 }
 .subscribe-container .header form {
-  margin-top: 0.5rem;
+  margin-top: -10rem;
 }
 .subscribe-container .header form .input-wrapper {
   position: relative;

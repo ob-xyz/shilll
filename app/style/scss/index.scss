@@ -170,9 +170,9 @@ body{
   -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
   mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
   .logo {
-    width: 4rem;
+    width: 8rem;
     margin: 0;
-    margin-top:2rem;
+    margin-top:16rem;
     margin-bottom: .5rem;
   }
   p {
@@ -198,7 +198,7 @@ body{
 .outer-header{
   display: flex; 
   position: sticky;
-  margin-top:2.75rem; 
+  margin-top:9rem; 
 
   .inner-header {
     display: flex;
@@ -333,11 +333,11 @@ margin-left: 1.5rem;
 }
 }
     .header{
-      .logo {
-        width:3.25rem;
-        margin-bottom:.35rem;
-        margin-top: .75rem;
-      }      
+      // .logo {
+      //   width:3.25rem;
+      //   margin-bottom:.35rem;
+      //   margin-top: .75rem;
+      // }      
       p {
         font-size: 1.1rem;
         &:nth-child(3){

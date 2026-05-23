@@ -29,7 +29,6 @@ export default function Index() {
             <Link to="/advertise">Advertise</Link>
           </div>
         </div>
-        <img className="headerimg" src={j} alt="The Poast" />
                 <div className="err">
             <h1>404 | This page could not be found.</h1>
         </div>
