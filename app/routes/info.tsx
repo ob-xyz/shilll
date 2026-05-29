@@ -29,7 +29,7 @@ export default function Index() {
               <Link className="li" to="/jeffamazon">
                 <img src={jeff} alt="Jeffamazon" />
               </Link>
-              <Link className="info" to="/info">
+              <Link className="infoactive" to="/info">
                 <img src={info} alt="More Info" />
               </Link>
             </div>

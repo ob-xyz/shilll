@@ -14,7 +14,7 @@ export default function Index() {
         <div className="outer-header">
           <div className="inner-header">
             <div className="social">
-              <Link className="x" to="/thepoast">
+              <Link className="xactive" to="/thepoast">
                 <img src={tp} alt="The Poast" />
               </Link>
               <Link className="li" to="/jeffamazon">
@@ -41,7 +41,6 @@ export default function Index() {
           <input id="6d48f" type="hidden" name="l" checked value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
           <input type="hidden" name="nonce" />
         </form>
-          <img className="headerimg" src={j} alt="Instagram" />
       </div>
     </div>
   );

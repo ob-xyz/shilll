@@ -138,10 +138,19 @@ a {
     }
   }
 }
+.xactive{
+      background: #000000; 
+    img{
+      filter: invert(1);
+    }
+}
 .li{
   &:hover {
     background: #FFDFAE; 
   }
+}
+.liactive{
+background: #FFDFAE !important; 
 }
 .info{
   img{
