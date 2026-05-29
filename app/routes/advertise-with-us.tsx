@@ -8,9 +8,11 @@ import j from "~/../public/img/ja7.png";
 import logo from "~/../public/img/ja.png";
 export default function Index() {
   return (
-    <div className="subscribe-container">
+    <div className="ads-container">
       <div className="header">
-        <img className="logo" src={logo} alt="Shilll Logo" />
+        <img className="logo" src={logo} alt="The Poast Logo" />
+        <p>Interested in advertising with Shilll?</p>
+        <p>Contact us for information on setting up a campaign that helps you grow your business!</p>        
         <div className="outer-header">
           <div className="inner-header">
             <div className="social">
@@ -31,16 +33,21 @@ export default function Index() {
         </div>
           <form method="post" action="https://app.shilll.com/subscription/form">
           <div className="input-wrapper">
-            <input className="email" type="text" name="firstName" placeholder="First Name *" />
+            <input className="email" type="text" name="firstName" placeholder="Your Name *" />
           </div>
           <div className="input-wrapper">
             <input className="email" type="email" name="email" required placeholder="Business Email Address *" />
             <button className="submit" type="submit">Submit</button>
           </div>
           <Altcha />
-          <input id="36b8c" type="hidden" name="l" checked value="36b8c160-7d12-4103-aaba-8e3cd90d9d64" />
+<<<<<<< HEAD:app/routes/canadapoast.tsx
+              <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
+=======
+          <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
+>>>>>>> parent of e2cced1e (11221122):app/routes/advertise-with-us.tsx
           <input type="hidden" name="nonce" />
         </form>
+          <img className="headerimg" src={j} alt="Instagram" />
       </div>
     </div>
   );

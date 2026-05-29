@@ -8,7 +8,7 @@ body{
     overflow-y:hidden;
 }
 
-.subscribe-container{
+.ads-container{
     display:flex;
     flex-direction: column;
     b{
@@ -22,7 +22,7 @@ body{
     }
     h2 {
         font-size:2.5rem;
-        color:#000;
+        color:#fff;
         font-family: kl;
     }
     h2 span{
@@ -75,8 +75,10 @@ body{
       p a {          
           font-family: kl;
           text-decoration: underline !important;
+          color: #000;
           font-size:1.75rem;
       }
+
       .headerimg{
         margin: 0 auto;
         width: 47.5%;
@@ -85,7 +87,7 @@ body{
     .outer-header{
       display: flex; 
       position: sticky;
-      margin-top:9rem; 
+      margin-top:2rem;
       .inner-header {
         display: flex;
         align-items: center;
@@ -121,7 +123,7 @@ a {
   img {
     width: 3rem;
     transition: filter 0.3s ease;
-    filter: invert(0);
+    filter: invert(1);
   }
   &:hover {
     background: #000000; 
@@ -132,25 +134,24 @@ a {
 }
 .x{
   &:hover {
-      background: #000000; 
-    img{
-      filter: invert(1);
-    }
+    background: #000000; 
   }
 }
 .li{
   &:hover {
-    background: #FFDFAE; 
+    background: #1E66C2; 
   }
 }
 .info{
-  img{
-  filter: invert(1);
-  }
   &:hover {
     background: #FF0034; 
   }
 }
+.ig{
+  &:hover { 
+background: radial-gradient(circle at 30% 107%, #ffdc80 0%, #ffa72b 5%, #ff9603 20%, #f56040 40%, #fd1d1d 50%, #e1306c 60%, #c13584 70%, #833ab4 85%, #405de6 100%);
+}
+} 
 }
 }
 
@@ -175,7 +176,7 @@ a {
 }
 }
   form {
-  margin-top:-10rem;
+  margin-top:.5rem;
   .input-wrapper {
     position: relative;
     width: 38rem;

@@ -1,9 +1,10 @@
 import { Link } from "@remix-run/react";
 import Altcha from "../components/altcha";
 
+import jeff from "~/../public/img/social/jeffamazon.png";
 import tp from "~/../public/img/social/poast.png";
 import info from "~/../public/img/social/info.png";
-import j from "~/../public/img/ja4.png";
+import j from "~/../public/img/ja6.png";
 import logo from "~/../public/img/ja.png";
 export default function Index() {
   return (
@@ -16,8 +17,8 @@ export default function Index() {
               <Link className="x" to="/thepoast">
                 <img src={tp} alt="The Poast" />
               </Link>
-              <Link className="cp" to="/canadapoast">
-                <img src={tp} alt="Canada Poast" />
+              <Link className="li" to="/jeffamazon">
+                <img src={jeff} alt="Jeffamazon" />
               </Link>
               <Link className="info" to="/info">
                 <img src={info} alt="More Info" />
@@ -37,7 +38,7 @@ export default function Index() {
             <button className="submit" type="submit">Subscribe</button>
           </div>
           <Altcha />
-              <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
+          <input id="6d48f" type="hidden" name="l" checked value="6d48fffe-7d37-4c14-b317-3e4cda33a647" />
           <input type="hidden" name="nonce" />
         </form>
           <img className="headerimg" src={j} alt="Instagram" />
