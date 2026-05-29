@@ -40,11 +40,15 @@ export default function Index() {
             <button className="submit" type="submit">Submit</button>
           </div>
           <Altcha />
+<<<<<<< HEAD
 <<<<<<< HEAD:app/routes/canadapoast.tsx
               <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
 =======
           <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
 >>>>>>> parent of e2cced1e (11221122):app/routes/advertise-with-us.tsx
+=======
+          <input id="bcd05" type="hidden" name="l" checked value="bcd05274-b4b9-4a90-a8b5-1fdee92637fa" />
+>>>>>>> parent of e2cced1e (11221122)
           <input type="hidden" name="nonce" />
         </form>
           <img className="headerimg" src={j} alt="Instagram" />
