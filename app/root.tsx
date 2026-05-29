@@ -29,7 +29,7 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll",
+  title: "Shilll — gotta minute?",
   description: "Subscribe to our free, one minute news feeds.",
   viewport: "width=device-width,initial-scale=1"
 });
