@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../app/routes/index.tsx"],
-  "sourcesContent": ["import logo from \"~/../public/img/ja.png\";\n\n\nexport default function Index() {\n  return (\n    <div className=\"container\">\n      <div className=\"header\">\n        <img className=\"logo\" src={logo} alt=\"The Poast Logo\" />\n      </div>\n    </div>\n  );\n}"],
-  "mappings": ";;;;;;;;;;;AAOQ;AAJO,SAAR,QAAyB;AAC9B,SACE,mDAAC,SAAI,WAAU,aACb,6DAAC,SAAI,WAAU,UACb,6DAAC,SAAI,WAAU,QAAO,KAAK,YAAM,KAAI,oBAArC;AAAA;AAAA;AAAA;AAAA,SAAsD,KADxD;AAAA;AAAA;AAAA;AAAA,SAEA,KAHF;AAAA;AAAA;AAAA;AAAA,SAIA;AAEJ;",
-  "names": []
-}
