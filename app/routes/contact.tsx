@@ -1,8 +1,6 @@
 import { Link } from "@remix-run/react";
 import Altcha from "../components/altcha";
 
-import jeff from "~/../public/img/social/jeffamazon.png";
-import tp from "~/../public/img/social/poast.png";
 import info from "~/../public/img/social/info.png";
 import j from "~/../public/img/ja7.png";
 import logo from "~/../public/img/ja.png";
@@ -14,12 +12,6 @@ export default function Index() {
         <div className="outer-header">
           <div className="inner-header">
             <div className="social">
-              <Link className="x" to="/thepoast">
-                <img src={tp} alt="The Poast" />
-              </Link>
-              <Link className="li" to="/jeffamazon">
-                <img src={jeff} alt="Jeffamazon" />
-              </Link>
               <Link className="info" to="/info">
                 <img src={info} alt="More Info" />
               </Link>

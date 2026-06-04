@@ -3,7 +3,6 @@ import type { LinksFunction } from "@remix-run/node";
 import Altcha from "../components/altcha";
 import scroll from "~/style/scss/components/showscroll.css";
 
-import bg from "~/../public/img/tpbg.png";
 import cs from "~/../public/img/cs.jpg";
 import li from "~/../public/img/social/linkedin.png";
 import x from "~/../public/img/social/x.png";
@@ -23,12 +22,6 @@ export default function Index() {
         <div className="outer-header">
           <div className="inner-header">
             <div className="social">
-              <Link className="x" to="/thepoast">
-                <img src={tp} alt="The Poast" />
-              </Link>
-              <Link className="li" to="/jeffamazon">
-                <img src={jeff} alt="Jeffamazon" />
-              </Link>
               <Link className="infoactive" to="/info">
                 <img src={info} alt="More Info" />
               </Link>
@@ -40,7 +33,6 @@ export default function Index() {
         </div>
       </div>
         <div className="inner-container">
-            <img className="headerimg" src={bg} alt="Jeffamazon Background" />
             <div className="profile-outside">
             <div className="profile">
                 <a href="https://linkedin.com/in/chrissignore" target="_blank" rel="noopener noreferrer">
@@ -59,7 +51,7 @@ export default function Index() {
                 </a>
             </div>
             <div className="subscribe">
-                <h1>Advertise with us</h1>
+                <h1>Contact Shilll</h1>
                 <div className="logo-grid">
                     <form method="post" action="https://app.shilll.com/subscription/form">
                     <div className="input-wrapper">
