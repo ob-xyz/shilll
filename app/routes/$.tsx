@@ -12,21 +12,8 @@ export default function Index() {
       <div className="header">
         <img className="logo" src={logo} alt="Shilll Logo" />
         <div className="outer-header">
-          <div className="inner-header">
-            <div className="social">
-              <Link className="x" to="/thepoast">
-                <img src={tp} alt="The Poast" />
-              </Link>
-              <Link className="li" to="/jeffamazon">
-                <img src={jeff} alt="Jeffamazon" />
-              </Link>
-              <Link className="info" to="/info">
-                <img src={info} alt="More Info" />
-              </Link>
-            </div>
-          </div>
           <div className="inner-header2">
-            <Link to="/advertise">Advertise</Link>
+            <Link to="/contact">Contact</Link>
           </div>
         </div>
                 <div className="err">

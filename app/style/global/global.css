@@ -436,7 +436,7 @@ body {
 .subscribe-container .header .outer-header {
   display: flex;
   position: sticky;
-  margin-top: 9rem;
+  margin-top: 2.5rem;
 }
 .subscribe-container .header .outer-header .inner-header {
   display: flex;
@@ -525,7 +525,7 @@ body {
   box-shadow: 0 0 20px 8px rgb(255, 113, 113);
 }
 .subscribe-container .header form {
-  margin-top: -10rem;
+  margin-top: 2.5rem;
 }
 .subscribe-container .header form .input-wrapper {
   position: relative;
@@ -579,11 +579,6 @@ body {
 }
 
 @media (max-width: 720px) {
-  .subscribe-container .header .logo {
-    width: 3.25rem;
-    margin-bottom: 0.35rem;
-    margin-top: 0.75rem;
-  }
   .subscribe-container .header p {
     font-size: 1.1rem;
   }
@@ -944,11 +939,6 @@ body {
   }
 }
 @media (max-width: 750px) {
-  .moreinfo-container .header .logo {
-    width: 3.25rem;
-    margin-bottom: 0.35rem;
-    margin-top: 0.75rem;
-  }
   .moreinfo-container .header h1 {
     font-size: 3rem;
   }
