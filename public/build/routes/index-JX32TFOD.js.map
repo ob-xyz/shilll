@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../app/routes/index.tsx"],
-  "sourcesContent": ["import logo from \"~/../public/img/ja.png\";\nimport { Link } from \"@remix-run/react\";\n\nimport j from \"~/../public/img/ja7.png\";\n\nexport default function Index() {\n  return (\n    <div className=\"container\">\n      <div className=\"header\">\n        <img className=\"logo\" src={logo} alt=\"Shilll Logo\" />\n        <div className=\"outer-header\">\n          <div className=\"inner-header2\">\n            <Link to=\"/contact\">Contact</Link>\n          </div>\n        </div>\n        <img className=\"headerimg\" src={j} alt=\"Shilll\" />\n      </div>\n    </div>\n  );\n}"],
-  "mappings": ";;;;;;;;;;;;;;;AASQ;AAJO,SAAR,QAAyB;AAC9B,SACE,mDAAC,SAAI,WAAU,aACb,6DAAC,SAAI,WAAU,UACb;AAAA,uDAAC,SAAI,WAAU,QAAO,KAAK,YAAM,KAAI,iBAArC;AAAA;AAAA;AAAA;AAAA,WAAmD;AAAA,IACnD,mDAAC,SAAI,WAAU,gBACb,6DAAC,SAAI,WAAU,iBACb,6DAAC,QAAK,IAAG,YAAW,uBAApB;AAAA;AAAA;AAAA;AAAA,WAA2B,KAD7B;AAAA;AAAA;AAAA;AAAA,WAEA,KAHF;AAAA;AAAA;AAAA;AAAA,WAIA;AAAA,IACA,mDAAC,SAAI,WAAU,aAAY,KAAK,aAAG,KAAI,YAAvC;AAAA;AAAA;AAAA;AAAA,WAAgD;AAAA,OAPlD;AAAA;AAAA;AAAA;AAAA,SAQA,KATF;AAAA;AAAA;AAAA;AAAA,SAUA;AAEJ;",
-  "names": []
-}
