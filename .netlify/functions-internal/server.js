@@ -79,7 +79,7 @@ var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
 ], meta = () => ({
   charset: "utf-8",
   title: "Shilll",
-  description: "Designed in Canada.",
+  description: "To the moon.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -543,41 +543,22 @@ function Index4() {
       lineNumber: 11,
       columnNumber: 9
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "outer-header", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "social", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react7.Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 16,
-        columnNumber: 17
-      }, this) }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 15,
-        columnNumber: 15
-      }, this) }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 14,
-        columnNumber: 13
-      }, this) }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 13,
-        columnNumber: 11
-      }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react7.Link, { to: "/contact", children: "Contact" }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 21,
-        columnNumber: 13
-      }, this) }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 20,
-        columnNumber: 11
-      }, this)
-    ] }, void 0, !0, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react7.Link, { to: "/contact", children: "Contact" }, void 0, !1, {
+      fileName: "app/routes/index.tsx",
+      lineNumber: 14,
+      columnNumber: 13
+    }, this) }, void 0, !1, {
+      fileName: "app/routes/index.tsx",
+      lineNumber: 13,
+      columnNumber: 11
+    }, this) }, void 0, !1, {
       fileName: "app/routes/index.tsx",
       lineNumber: 12,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { className: "headerimg", src: ja7_default, alt: "The Poast" }, void 0, !1, {
       fileName: "app/routes/index.tsx",
-      lineNumber: 24,
+      lineNumber: 17,
       columnNumber: 9
     }, this)
   ] }, void 0, !0, {
@@ -875,7 +856,7 @@ function Index6() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-N55ZE3O2.js", imports: ["/build/_shared/chunk-4FC7QMFT.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-7ZNWGVOD.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-4CBSV6OV.js", imports: ["/build/_shared/chunk-YUL2NAKO.js", "/build/_shared/chunk-DWXSRISM.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/contact": { id: "routes/contact", parentId: "root", path: "contact", index: void 0, caseSensitive: void 0, module: "/build/routes/contact-LR6CXNE4.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-DWXSRISM.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-EJZL4ALE.js", imports: ["/build/_shared/chunk-DWXSRISM.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/info": { id: "routes/info", parentId: "root", path: "info", index: void 0, caseSensitive: void 0, module: "/build/routes/info-BC6NCYJB.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-DWXSRISM.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/jeffamazon": { id: "routes/jeffamazon", parentId: "root", path: "jeffamazon", index: void 0, caseSensitive: void 0, module: "/build/routes/jeffamazon-IVWYSS2P.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-YUL2NAKO.js", "/build/_shared/chunk-DWXSRISM.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/thepoast": { id: "routes/thepoast", parentId: "root", path: "thepoast", index: void 0, caseSensitive: void 0, module: "/build/routes/thepoast-UXIXX44D.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-YUL2NAKO.js", "/build/_shared/chunk-DWXSRISM.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "2044297e", hmr: void 0, url: "/build/manifest-2044297E.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-N55ZE3O2.js", imports: ["/build/_shared/chunk-4FC7QMFT.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-B7VICHSK.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-TEDYMSRE.js", imports: ["/build/_shared/chunk-YUL2NAKO.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/contact": { id: "routes/contact", parentId: "root", path: "contact", index: void 0, caseSensitive: void 0, module: "/build/routes/contact-3MHL3UHS.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-3VDQX4YH.js", imports: ["/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/info": { id: "routes/info", parentId: "root", path: "info", index: void 0, caseSensitive: void 0, module: "/build/routes/info-ULG6FBPH.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/jeffamazon": { id: "routes/jeffamazon", parentId: "root", path: "jeffamazon", index: void 0, caseSensitive: void 0, module: "/build/routes/jeffamazon-XGNUSYDV.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-YUL2NAKO.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/thepoast": { id: "routes/thepoast", parentId: "root", path: "thepoast", index: void 0, caseSensitive: void 0, module: "/build/routes/thepoast-AG2QC3KH.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-YUL2NAKO.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "c480e5dc", hmr: void 0, url: "/build/manifest-C480E5DC.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
