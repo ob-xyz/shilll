@@ -6,8 +6,6 @@ import scroll from "~/style/scss/components/showscroll.css";
 import cs from "~/../public/img/cs.jpg";
 import li from "~/../public/img/social/linkedin.png";
 import x from "~/../public/img/social/x.png";
-import jeff from "~/../public/img/social/jeffamazon.png";
-import tp from "~/../public/img/social/poast.png";
 import info from "~/../public/img/social/info.png";
 import logo from "~/../public/img/ja.png";
 
@@ -18,21 +16,21 @@ export default function Index() {
   return (
     <div className="moreinfo-container">
       <div className="header">
-        <img className="logo" src={logo} alt="Shilll Logo" />
+        <div className="nav">
+        <img className="logo" src={logo} alt="The Poast Logo" />
+        <Link className="info" to="/info">
+            <img src={info} alt="More Info" />
+        </Link>
+        </div>
         <div className="outer-header">
-          <div className="inner-header">
-            <div className="social">
-              <Link className="infoactive" to="/info">
-                <img src={info} alt="More Info" />
-              </Link>
-            </div>
-          </div>
           <div className="inner-header2">
              <Link to="/">Home</Link>
           </div>
         </div>
       </div>
+      
         <div className="inner-container">
+          
             <div className="profile-outside">
             <div className="profile">
                 <a href="https://linkedin.com/in/chrissignore" target="_blank" rel="noopener noreferrer">

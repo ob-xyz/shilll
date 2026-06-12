@@ -56,27 +56,30 @@ body{
       padding-right:1.5rem;
       -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
       mask-image: linear-gradient(to bottom, black 85%, transparent 100%);
+    .nav {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      position: relative; 
+      width: 100%;
+      margin: 0; 
+      margin-bottom: 2rem;
+      padding-top:3rem;
       .logo {
         width: 4rem;
-        margin: 0;
-        margin-top:2rem;        
-        margin-bottom: .5rem;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%); 
       }
-      p {
-        margin-top:.15rem;
-        font-size: 2rem;
-        font-weight: 100;
-        font-family: ku;
-        text-align: center;
-        &:nth-child(3){
-          font-size:1.75rem;
+
+      .info {
+        width: 2rem;
+        margin-right:0;
+        &:hover {
+          transform: rotate(180deg);
         }
       }
-      p a {          
-          font-family: kl;
-          text-decoration: underline !important;
-          font-size:1.75rem;
-      }
+    }
       .headerimg{
         margin: 0 auto;
         width: 47.5%;

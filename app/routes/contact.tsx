@@ -8,15 +8,13 @@ export default function Index() {
   return (
     <div className="subscribe-container">
       <div className="header">
-        <img className="logo" src={logo} alt="Shilll Logo" />
+        <div className="nav">
+        <img className="logo" src={logo} alt="The Poast Logo" />
+        <Link className="info" to="/info">
+            <img src={info} alt="More Info" />
+        </Link>
+        </div>
         <div className="outer-header">
-          <div className="inner-header">
-            <div className="social">
-              <Link className="info" to="/info">
-                <img src={info} alt="More Info" />
-              </Link>
-            </div>
-          </div>
           <div className="inner-header2">
              <Link to="/">Home</Link>
           </div>
