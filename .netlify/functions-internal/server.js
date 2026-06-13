@@ -326,152 +326,57 @@ function Index2() {
 // app/routes/index.tsx
 var routes_exports = {};
 __export(routes_exports, {
-  action: () => action,
   default: () => Index3
 });
-var import_react6 = require("react"), import_react7 = require("@remix-run/react"), import_node = require("@remix-run/node");
-
-// public/img/ja1.png
-var ja1_default = "/build/_assets/ja1-HUT5AP3Y.png";
-
-// app/routes/index.tsx
+var import_react6 = require("@remix-run/react");
 var import_jsx_dev_runtime6 = require("react/jsx-dev-runtime");
-async function action({ request }) {
-  let email = (await request.formData()).get("email");
-  return console.log("New Poast Subscriber:", email), (0, import_node.json)({ success: !0 });
-}
 function Index3() {
-  let [showModal, setShowModal] = (0, import_react6.useState)(!1), navigation = (0, import_react7.useNavigation)(), actionData = (0, import_react7.useActionData)();
-  return (0, import_react6.useEffect)(() => {
-    let isSubscribed = localStorage.getItem("thepoast_subscribed"), hasSeenThisSession = sessionStorage.getItem("thepoast_seen_session");
-    if (!isSubscribed && !hasSeenThisSession) {
-      let timer = setTimeout(() => {
-        setShowModal(!0), sessionStorage.setItem("thepoast_seen_session", "true");
-      }, 1e3);
-      return () => clearTimeout(timer);
-    }
-  }, []), (0, import_react6.useEffect)(() => {
-    let handleEsc = (event) => {
-      event.key === "Escape" && setShowModal(!1);
-    };
-    return window.addEventListener("keydown", handleEsc), () => window.removeEventListener("keydown", handleEsc);
-  }, []), (0, import_react6.useEffect)(() => {
-    actionData != null && actionData.success && (localStorage.setItem("thepoast_subscribed", "true"), setShowModal(!1));
-  }, [actionData]), /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "container", children: [
-    showModal && /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "modal-overlay", onClick: () => setShowModal(!1), children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "modal-content", onClick: (e) => e.stopPropagation(), children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { className: "logo", src: ja1_default, alt: "Canada Poast Logo" }, void 0, !1, {
+  return /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "header", children: [
+    /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "nav", children: [
+      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { className: "logo", src: ja_default, alt: "The Poast Logo" }, void 0, !1, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 61,
-        columnNumber: 13
+        lineNumber: 12,
+        columnNumber: 9
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("p", { children: "Subscribe to Canada Poast's free newsletter" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)(import_react6.Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, !1, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 62,
+        lineNumber: 14,
         columnNumber: 13
-      }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("p", { children: "Get today's news, plus one trending podcast, and exclusive subscriber-only insights" }, void 0, !1, {
+      }, this) }, void 0, !1, {
         fileName: "app/routes/index.tsx",
-        lineNumber: 63,
-        columnNumber: 13
-      }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("form", { method: "post", action: "https://app.canadapoast.com/subscription/form", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "input-wrapper", children: [
-          /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("input", { className: "email", type: "email", name: "email", required: !0, placeholder: "Email Address *" }, void 0, !1, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 66,
-            columnNumber: 17
-          }, this),
-          /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("button", { className: "submit", type: "submit", children: navigation.state === "submitting" ? "..." : "Subscribe" }, void 0, !1, {
-            fileName: "app/routes/index.tsx",
-            lineNumber: 67,
-            columnNumber: 17
-          }, this)
-        ] }, void 0, !0, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 65,
-          columnNumber: 15
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)(AltchaWrapper, {}, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 71,
-          columnNumber: 15
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("input", { id: "bcd05", type: "hidden", name: "l", checked: !0, value: "bcd05274-b4b9-4a90-a8b5-1fdee92637fa" }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 72,
-          columnNumber: 15
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("input", { type: "hidden", name: "nonce" }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 73,
-          columnNumber: 15
-        }, this)
-      ] }, void 0, !0, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 64,
-        columnNumber: 13
-      }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("p", { className: "dismiss-text", onClick: () => setShowModal(!1), children: "No thanks! I'm already subscribed" }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 76,
-        columnNumber: 13
+        lineNumber: 13,
+        columnNumber: 9
       }, this)
     ] }, void 0, !0, {
       fileName: "app/routes/index.tsx",
-      lineNumber: 60,
+      lineNumber: 11,
+      columnNumber: 9
+    }, this),
+    /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)(import_react6.Link, { to: "/contact", children: "Contact" }, void 0, !1, {
+      fileName: "app/routes/index.tsx",
+      lineNumber: 19,
+      columnNumber: 13
+    }, this) }, void 0, !1, {
+      fileName: "app/routes/index.tsx",
+      lineNumber: 18,
       columnNumber: 11
     }, this) }, void 0, !1, {
       fileName: "app/routes/index.tsx",
-      lineNumber: 59,
-      columnNumber: 9
+      lineNumber: 17,
+      columnNumber: 11
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "header", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "nav", children: [
-        /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { className: "logo", src: ja_default, alt: "The Poast Logo" }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 86,
-          columnNumber: 9
-        }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)(import_react7.Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 88,
-          columnNumber: 13
-        }, this) }, void 0, !1, {
-          fileName: "app/routes/index.tsx",
-          lineNumber: 87,
-          columnNumber: 9
-        }, this)
-      ] }, void 0, !0, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 85,
-        columnNumber: 9
-      }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)(import_react7.Link, { to: "/contact", children: "Contact" }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 93,
-        columnNumber: 13
-      }, this) }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 92,
-        columnNumber: 11
-      }, this) }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 91,
-        columnNumber: 11
-      }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { className: "headerimg", src: ja7_default, alt: "Shilll" }, void 0, !1, {
-        fileName: "app/routes/index.tsx",
-        lineNumber: 96,
-        columnNumber: 9
-      }, this)
-    ] }, void 0, !0, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime6.jsxDEV)("img", { className: "headerimg", src: ja7_default, alt: "Shilll" }, void 0, !1, {
       fileName: "app/routes/index.tsx",
-      lineNumber: 84,
-      columnNumber: 7
+      lineNumber: 22,
+      columnNumber: 9
     }, this)
   ] }, void 0, !0, {
     fileName: "app/routes/index.tsx",
-    lineNumber: 56,
+    lineNumber: 10,
+    columnNumber: 7
+  }, this) }, void 0, !1, {
+    fileName: "app/routes/index.tsx",
+    lineNumber: 9,
     columnNumber: 5
   }, this);
 }
@@ -482,7 +387,7 @@ __export(info_exports, {
   default: () => Index4,
   links: () => links2
 });
-var import_react8 = require("@remix-run/react");
+var import_react7 = require("@remix-run/react");
 
 // app/style/scss/components/showscroll.css
 var showscroll_default = "/build/_assets/showscroll-FNF7IES6.css";
@@ -509,7 +414,7 @@ function Index4() {
           lineNumber: 20,
           columnNumber: 9
         }, this),
-        /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react8.Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react7.Link, { className: "info", to: "/info", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("img", { src: info_default, alt: "More Info" }, void 0, !1, {
           fileName: "app/routes/info.tsx",
           lineNumber: 22,
           columnNumber: 13
@@ -523,7 +428,7 @@ function Index4() {
         lineNumber: 19,
         columnNumber: 9
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react8.Link, { to: "/", children: "Home" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime7.jsxDEV)(import_react7.Link, { to: "/", children: "Home" }, void 0, !1, {
         fileName: "app/routes/info.tsx",
         lineNumber: 27,
         columnNumber: 14
@@ -674,7 +579,7 @@ var __exports = {};
 __export(__exports, {
   default: () => Index5
 });
-var import_react9 = require("@remix-run/react");
+var import_react8 = require("@remix-run/react");
 var import_jsx_dev_runtime8 = require("react/jsx-dev-runtime");
 function Index5() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "header", children: [
@@ -683,7 +588,7 @@ function Index5() {
       lineNumber: 13,
       columnNumber: 9
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)(import_react9.Link, { to: "/contact", children: "Contact" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "outer-header", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("div", { className: "inner-header2", children: /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)(import_react8.Link, { to: "/contact", children: "Contact" }, void 0, !1, {
       fileName: "app/routes/$.tsx",
       lineNumber: 16,
       columnNumber: 13
@@ -717,7 +622,7 @@ function Index5() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-776IHDJE.js", imports: ["/build/_shared/chunk-AVNBQUPV.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-P3DXOTOZ.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-256LLVOC.js", imports: ["/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/contact": { id: "routes/contact", parentId: "root", path: "contact", index: void 0, caseSensitive: void 0, module: "/build/routes/contact-HEJ3Q6L5.js", imports: ["/build/_shared/chunk-JVLWWGMQ.js", "/build/_shared/chunk-ERMIYI7Z.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index copy": { id: "routes/index copy", parentId: "root", path: "index copy", index: void 0, caseSensitive: void 0, module: "/build/routes/index copy-ZA3ZC25W.js", imports: ["/build/_shared/chunk-JVLWWGMQ.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-ZVKHPEVR.js", imports: ["/build/_shared/chunk-JVLWWGMQ.js", "/build/_shared/chunk-ERMIYI7Z.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !0, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/info": { id: "routes/info", parentId: "root", path: "info", index: void 0, caseSensitive: void 0, module: "/build/routes/info-G6I524EY.js", imports: ["/build/_shared/chunk-ERMIYI7Z.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "b11c7321", hmr: void 0, url: "/build/manifest-B11C7321.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-N55ZE3O2.js", imports: ["/build/_shared/chunk-4FC7QMFT.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-6ILAR75H.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-3XZPMMTT.js", imports: ["/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/contact": { id: "routes/contact", parentId: "root", path: "contact", index: void 0, caseSensitive: void 0, module: "/build/routes/contact-FEI6BIHR.js", imports: ["/build/_shared/chunk-JVLWWGMQ.js", "/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index copy": { id: "routes/index copy", parentId: "root", path: "index copy", index: void 0, caseSensitive: void 0, module: "/build/routes/index copy-77IO4IVL.js", imports: ["/build/_shared/chunk-JVLWWGMQ.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-H4QJSINM.js", imports: ["/build/_shared/chunk-JVLWWGMQ.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/info": { id: "routes/info", parentId: "root", path: "info", index: void 0, caseSensitive: void 0, module: "/build/routes/info-YISCFWWD.js", imports: ["/build/_shared/chunk-4H3VHOXK.js", "/build/_shared/chunk-JOIKWTUL.js", "/build/_shared/chunk-DAFTH56S.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "af4f7282", hmr: void 0, url: "/build/manifest-AF4F7282.js" };
 
 // server-entry-module:@remix-run/dev/server-build
 var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
