@@ -1,9 +1,5 @@
 import { Link } from "@remix-run/react";
 
-import jeff from "~/../public/img/social/jeffamazon.png";
-import tp from "~/../public/img/social/poast.png";
-import info from "~/../public/img/social/info.png";
-import j from "~/../public/img/ja7.png";
 import logo from "~/../public/img/ja.png";
 
 export default function Index() {
