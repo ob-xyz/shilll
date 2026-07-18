@@ -75,123 +75,23 @@ body{
   width: 100%;
   margin: 0; 
   margin-bottom: 1.5rem;
-  padding-top:3rem;
+  padding-top:4rem;
   .logo {
-    width: 4rem;
+    width: 5.5rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%); 
   }
-
-  .info {
-    width: 2rem;
-    margin-right:0;
-    &:hover {
-      transform: rotate(180deg);
-    }
-  }
 }
-      p {
-        padding:0;
-        margin:0;
-        font-size: 2rem;
-        font-weight: 100;
-        font-family: ku;
-        text-align: center;
-        &:nth-child(3),
-        &:nth-child(4){
-          font-size:1.75rem;
-        }
-      }
-      p a {          
-          font-family: kl;
-          text-decoration: underline !important;
-          color: #000;
-          font-size:1.75rem;
-      }
 
-      .headerimg{
-        margin: 0;
-        width: 47.5%;
-        margin-top: 3.75rem;
-      }
-    .outer-header{
+ .outer-header{
       display: flex; 
       position: sticky;
       margin-top:2.75rem; 
 
-      .inner-header {
-        display: flex;
-        align-items: center;
-        width: 100%;
-        background: $dock-bg;
-        border: 1px solid #444;
-        border-radius: .75rem;
-        padding: .75rem 1.5rem .75rem 1.5rem;
-        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-        justify-content: space-between;
-    h2 {
-      color: #fff;
-      font-size: 2.5rem;
-      font-weight: 100;
-      font-family: ku;
-      margin: 0;
-      flex-shrink: 0;
-    }
-    
-.social {
-  display: flex;
-  gap: .75rem;
-  margin-right: auto; 
-  margin-right: 0;
-a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 4rem;
-  height: 4rem;
-  border-radius: .75rem;
-  transition: all 0.3s ease;
-  background: linear-gradient(0deg, rgb(163, 163, 163) 21%, rgba(255, 255, 255, 1) 100%);
-
-  img {
-    width: 3rem;
-    transition: filter 0.3s ease;
-    filter: invert(1);
-  }
-  &:hover {
-    background: #000000; 
-    img {
-      filter: invert(0);
-    }
-  }
-}
-.x{
-  &:hover {
-    background: #000000; 
-  }
-}
-.li{
-  &:hover {
-    background: #1E66C2; 
-  }
-}
-.yt{
-  &:hover {
-    background: #FF0034; 
-  }
-}
-.ig{
-  &:hover { 
-background: radial-gradient(circle at 30% 107%, #ffdc80 0%, #ffa72b 5%, #ff9603 20%, #f56040 40%, #fd1d1d 50%, #e1306c 60%, #c13584 70%, #833ab4 85%, #405de6 100%);
-}
-} 
-}
-}
-
   .inner-header2{
     display:flex;
-    margin-left: 1.5rem;
+    margin-top:8rem;
       a {
       border-radius: .75rem;
       padding: 1.2rem 3rem;

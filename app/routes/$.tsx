@@ -9,7 +9,7 @@ export default function Index() {
         <img className="logo" src={logo} alt="Shilll Logo" />
         <div className="outer-header">
           <div className="inner-header2">
-            <Link to="/contact">Contact</Link>
+            <Link to="/access">Get access</Link>
           </div>
         </div>
                 <div className="err">
