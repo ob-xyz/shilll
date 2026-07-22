@@ -86,9 +86,18 @@ body{
 
  .outer-header{
       display: flex; 
+      flex-direction: column;
       position: sticky;
       margin-top:2.75rem; 
-
+      .priv{
+        text-align: center;
+        width:37.5%;
+        font-size: 1rem;
+        margin-top:.5rem;
+        a{
+          color:red;
+        }
+      }
   .inner-header2{
     display:flex;
     flex-direction: column;
@@ -194,6 +203,9 @@ body{
     .outer-header{
       flex-direction: column;
       margin-top: 2.25rem;
+      .priv{
+        width:75%;
+      }
       .inner-header {
         .social {
           margin-right: auto; 

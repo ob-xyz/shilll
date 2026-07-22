@@ -113,8 +113,18 @@ body {
 }
 .container .header .outer-header {
   display: flex;
+  flex-direction: column;
   position: sticky;
   margin-top: 2.75rem;
+}
+.container .header .outer-header .priv {
+  text-align: center;
+  width: 37.5%;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+.container .header .outer-header .priv a {
+  color: red;
 }
 .container .header .outer-header .inner-header2 {
   display: flex;
@@ -205,6 +215,9 @@ body {
   .container .header .outer-header {
     flex-direction: column;
     margin-top: 2.25rem;
+  }
+  .container .header .outer-header .priv {
+    width: 75%;
   }
   .container .header .outer-header .inner-header .social {
     margin-right: auto;
