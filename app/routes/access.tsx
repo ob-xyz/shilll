@@ -31,6 +31,8 @@ export default function Index() {
           <input id="36b8c" type="hidden" name="l" checked value="36b8c160-7d12-4103-aaba-8e3cd90d9d64" />
           <input type="hidden" name="nonce" />
         </form>
+            <p>By creating an account, you agree to our <Link to="/policies/privacy">Privacy Policy</Link> and to receive account-related emails including verification, security alerts, and service notifications.</p>
+
           <img className="headerimg" src={j} alt="Shilll" />
       </div>
     </div>
