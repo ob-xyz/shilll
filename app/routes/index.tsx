@@ -11,8 +11,8 @@ export default function Index() {
         </div>
           <div className="outer-header">
           <div className="inner-header2">
-            <p>Shilll makes it easy to connect your AI to Salesforce</p>
-            <Link to="/access">Get Access</Link>
+            <p>Something new.</p>
+            <Link to="/access">Sign Up</Link>
           </div>
         <p className="priv">By creating an account, you agree to our <Link to="/policies/privacy">Privacy Policy</Link> and to receive account-related emails including verification, security alerts, and service notifications.</p>
         </div>
