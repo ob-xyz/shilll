@@ -7,9 +7,9 @@ export const links: LinksFunction = () => [
 ];
 
 export const meta: MetaFunction = () => ({
-  title: "Terms and Conditions : The Poast",
+  title: "Terms and Conditions : shilll",
   description:
-    "The terms that govern your use of The Poast websites, newsletters, and products.",
+    "The terms that govern your use of shilll websites, newsletters, and products.",
 });
 
 const toc = [
@@ -22,13 +22,13 @@ export default function Terms() {
   return (
     <LegalPage title="Terms and Conditions" effective="April 5, 2025" toc={toc}>
       <p>
-        The Poast respects your privacy and values your trust. This Privacy
+        shilll respects your privacy and values your trust. This Privacy
         Policy (“Policy”) describes how we collect and use your information and
         explains your rights and options. This Policy applies to these services
         (which we call the “Services” in this Policy):
       </p>
       <ul>
-        <li>websites, The Poast Store, paid products</li>
+        <li>websites, shilll Store, paid products</li>
         <li>newsletters and other disseminated content</li>
         <li>merchandise, mobile apps and related social media pages</li>
         <li>anywhere else we gather information about you and refer to this Policy.</li>
@@ -46,7 +46,7 @@ export default function Terms() {
       <p>
         We encourage you to read this Policy carefully. If you have questions,
         please contact us at{" "}
-        <a href="mailto:privacyrequest@thepoast.com">privacyrequest@thepoast.com</a>.
+        <a href="mailto:privacyrequest@shilll.com">privacyrequest@shilll.com</a>.
       </p>
 
       {/* ------------------------------ 1. ABOUT ------------------------------ */}
@@ -54,7 +54,7 @@ export default function Terms() {
 
       <h4 className="sub-title">(a) Who we are</h4>
       <p>
-        The Poast, Inc. (“The Poast,” “we”, “our” or “us”) operates the
+        shilll, Inc. (“shilll,” “we”, “our” or “us”) operates the
         Services. This Policy supplements and is governed by our Terms of
         Service (“Terms”). Capitalized terms used but not defined in this Policy
         are defined in our Terms. The Terms describe how the Services work in
@@ -86,7 +86,7 @@ export default function Terms() {
           If you are a current or former employee or contractor of ours, this
           Policy does not apply to you. You may contact us about your privacy
           practices and rights at{" "}
-          <a href="mailto:privacyrequest@thepoast.com">privacyrequest@thepoast.com</a>.
+          <a href="mailto:privacyrequest@shilll.com">privacyrequest@shilll.com</a>.
         </li>
         <li>If we receive your information in our role as a service provider to another business, our agreement with that business governs our use of your information. We will refer any questions or concerns of yours to that business.</li>
       </ul>
@@ -117,7 +117,7 @@ export default function Terms() {
       <p>
         If those sections apply to you, they override any contrary descriptions
         elsewhere in the Policy as they relate to you. Please contact us at{" "}
-        <a href="mailto:privacyrequest@thepoast.com">privacyrequest@thepoast.com</a>{" "}
+        <a href="mailto:privacyrequest@shilll.com">privacyrequest@shilll.com</a>{" "}
         if you have questions about your rights under other data privacy laws.
       </p>
 
@@ -158,7 +158,7 @@ export default function Terms() {
         include:
       </p>
       <ul>
-        <li>“Commercial Information” about your orders of Offerings or other products or services from us and interactions with The Poast Store products.</li>
+        <li>“Commercial Information” about your orders of Offerings or other products or services from us and interactions with shilll Store products.</li>
         <li>“Device Information” related to the device you use to interact with the Services, such as your device’s IP address, advertising IDs (resettable, random numbers, such as the device’s Apple IDFA or Android Advertising ID), its browser and operating system, its internet service provider, and its configuration.</li>
         <li>“Internet Activity” related to your use of the Services, such as the pages you visit, the sites you use before or after visiting ours, your actions within the Services, the content or advertisements you interact with, general geolocation information, time stamps and performance logs and reports.</li>
       </ul>
@@ -282,13 +282,13 @@ export default function Terms() {
           information we send you on a consent basis (such as clicking
           ‘unsubscribe’ in any email we send you). You may always withdraw your
           consent at any time – just contact us at{" "}
-          <a href="mailto:privacyrequest@thepoast.com">privacyrequest@thepoast.com</a>.
+          <a href="mailto:privacyrequest@shilll.com">privacyrequest@shilll.com</a>.
         </li>
       </ul>
 
       <p>
         Questions about these terms? Contact us at{" "}
-        <a href="mailto:privacyrequest@thepoast.com">privacyrequest@thepoast.com</a>.
+        <a href="mailto:privacyrequest@shilll.com">privacyrequest@shilll.com</a>.
       </p>
     </LegalPage>
   );

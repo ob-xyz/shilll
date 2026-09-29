@@ -9,7 +9,7 @@ export const links: LinksFunction = () => [
 ];
 
 export const meta: MetaFunction = () => ({
-  title: "Subscribe : The Poast",
+  title: "Subscribe : shilll",
   description:
     "Get the daily conversations that matter to you.",
 });
@@ -18,8 +18,8 @@ export default function Subscribe() {
   return (
     <div className="subscribe-page">
       <main className="subscribe-card">
-        <Link to="/" className="subscribe-logo" aria-label="The Poast home">
-          <img src={logo} alt="The Poast" />
+        <Link to="/" className="subscribe-logo" aria-label="shilll home">
+          <img src={logo} alt="shilll" />
         </Link>
 
         <h1 className="subscribe-title">Sign up for free</h1>

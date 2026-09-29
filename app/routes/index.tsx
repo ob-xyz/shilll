@@ -331,7 +331,7 @@ export default function Index() {
         <Link className="feed-mark" to="/">
           <img
             src="/img/ja.png"
-            alt="The Poast"
+            alt="shilll"
             loading="eager"
             decoding="async"
           />
@@ -356,7 +356,7 @@ export default function Index() {
           action="https://app.thepoast.com/subscription/form"
           className="feed-subscribe-form"
         >
-          <p className="feed-subscribe-heading">Get The Poast for free</p>
+          <p className="feed-subscribe-heading">Get shilll for free</p>
 
           <div className="feed-input-bar">
             <input
