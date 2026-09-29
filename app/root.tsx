@@ -28,8 +28,8 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "shilll : you're all caught up",
-  description: "Get all caught up on the conversations that matter to you.",
+  title: "shilll : You're all caught up",
+  description: "Get the daily conversations that matter to you.",
   viewport: "width=device-width,initial-scale=1"
 });
 

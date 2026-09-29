@@ -345,7 +345,7 @@ export default function Index() {
         </Link>
 
         <a href="#subscribe" className="feed-subscribe">
-          Subscribe
+          Sign Up
         </a>
       </header>
 

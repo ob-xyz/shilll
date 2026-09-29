@@ -11,7 +11,7 @@ export const links: LinksFunction = () => [
 export const meta: MetaFunction = () => ({
   title: "Subscribe : The Poast",
   description:
-    "Get The Poast for free. Powerful people, and posts. Plus, a side of snarky comments, every day.",
+    "Get the daily conversations that matter to you.",
 });
 
 export default function Subscribe() {
@@ -22,10 +22,9 @@ export default function Subscribe() {
           <img src={logo} alt="The Poast" />
         </Link>
 
-        <h1 className="subscribe-title">Get The Poast for free</h1>
+        <h1 className="subscribe-title">Sign up for free</h1>
         <p className="subscribe-sub">
-          Powerful people and posts. Plus, a side of snarky
-          comments, every day.
+          Get the daily conversations that matter to you.
         </p>
 
         <form
@@ -48,7 +47,7 @@ export default function Subscribe() {
               placeholder="Email Address *"
             />
             <button className="subscribe-submit" type="submit">
-              Subscribe
+              Sign Up
             </button>
           </div>
 

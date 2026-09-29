@@ -338,7 +338,7 @@ export default function Index() {
         </Link>
 
         <a href="#subscribe" className="feed-subscribe">
-          Subscribe
+          Sign Up
         </a>
       </header>
 
@@ -367,7 +367,7 @@ export default function Index() {
               placeholder="Email Address *"
             />
             <button className="feed-submit" type="submit">
-              Subscribe
+              Sign Up
             </button>
           </div>
 

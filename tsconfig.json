@@ -1,20 +1,22 @@
 {
   "include": ["remix.env.d.ts", "**/*.ts", "**/*.tsx"],
   "compilerOptions": {
-    "target": "ES2019",
     "lib": ["DOM", "DOM.Iterable", "ES2019"],
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
     "moduleResolution": "node",
     "resolveJsonModule": true,
-    "esModuleInterop": true,
-    "isolatedModules": true,
-    "jsx": "react-jsx",
+    "target": "ES2019",
     "strict": true,
     "allowJs": true,
-    "noEmit": true,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": ".",                             // This lets paths resolve from the project root
+    "baseUrl": ".",
     "paths": {
-      "~/*": ["app/*"]                          // This allows ~ to point to the `app` directory
-    }
-}
+      "~/*": ["./app/*"]
+    },
+
+    // Remix takes care of building everything in `remix build`.
+    "noEmit": true
+  }
 }

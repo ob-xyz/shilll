@@ -36,7 +36,7 @@ export default function LegalPage({
           <img src={logo} alt="The Poast" loading="lazy" decoding="async" />
         </Link>
         <Link to="/subscribe" className="sticky-subscribe">
-          Subscribe
+          Sign Up
         </Link>
       </div>
 
