@@ -1,6 +1,5 @@
 import type { MetaFunction } from "@remix-run/node";
 import type { LinksFunction } from "@remix-run/node";
-import Footer from "./components/footer";
 
 import {
   Links,
@@ -29,16 +28,27 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "Shilll",
-  description: "Something new.",
+  title: "shilll : you're all caught up",
+  description: "Get all caught up on the conversations that matter to you.",
   viewport: "width=device-width,initial-scale=1"
 });
-export default function App() {
 
+export default function App() {
   return (
     <html lang="en">
       <head>
         <Meta />
+        <meta name="color-scheme" content="light dark" />
+        <meta
+          name="theme-color"
+          content="#ffffff"
+          media="(prefers-color-scheme: light)"
+        />
+        <meta
+          name="theme-color"
+          content="#050505"
+          media="(prefers-color-scheme: dark)"
+        />
         <Links />
       </head>
       <body>
@@ -47,7 +57,6 @@ export default function App() {
         <Scripts />
         <LiveReload />
       </body>
-      <Footer />
     </html>
   );
 }

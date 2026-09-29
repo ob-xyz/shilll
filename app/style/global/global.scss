@@ -2,22 +2,23 @@
 '../global/Colors.scss',
 '../global/Buttons.scss',
 '../scss/index.scss',
-'../scss/contact.scss',
-'../scss/info.scss',
+'../scss/subscribe.scss',
 '../scss/policies/privacy.scss',
-'../scss/components/footer.scss',
 '../scss/components/altcha.scss';
 
 * {
   box-sizing: border-box;
   margin:auto;
 } 
+html {
+  scroll-behavior: smooth;
+}
 html,
 body {
   margin: auto;
   width:100%;
   height: 100vh;
-  background-color: #fff7ed;
+  background-color: #fff;
 }
 body {
   overflow-x: hidden;
@@ -25,7 +26,7 @@ body {
 main{
   padding:0;
   margin:0 auto;
-  background:#fff7ed;
+  // background:#fff7ed;
 }
 img {
   display: block;
@@ -37,7 +38,6 @@ img {
 a {
   text-decoration: none;
   font-family: 'book';
-  color:#fff;
 }
 
 h1 {
@@ -47,7 +47,6 @@ h1 {
   color: $black;
   text-decoration: none;
   line-height: normal;
-  color:#fff;
 }
 h2 {
   font-size: 0.8rem;
@@ -56,7 +55,6 @@ h2 {
   color: $black;
   text-decoration: none;
   line-height: normal;
-  color:#fff;
 }
 h3,
 h4,
@@ -65,14 +63,12 @@ h6 {
   font-family: 'medium';
   color: $black;
   line-height: normal;
-  color:#fff;
 }
 p {
   font-family: 'book';
   font-size: 1.1rem;
   color: $black;
   line-height: normal;
-  color:#fff;
 }
 li {
   font-family: 'book';
