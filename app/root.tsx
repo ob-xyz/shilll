@@ -28,12 +28,22 @@ export const links: LinksFunction = () => {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "shilll : You're all caught up",
-  description: "Get the daily conversations that matter to you.",
+  title: "Shilll",
+  description: "Get caught up right here, right now. Find out what's happening, then get back to it. That's The Poast.",
   viewport: "width=device-width,initial-scale=1"
 });
 
 export default function App() {
+  const schemaData = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "The Poast",
+    "alternateName": ["ThePoast", "The Poast Newsletter", "thepoast.com", "the poast feed"],
+    "url": "https://thepoast.com",
+    "logo": "https://thepoast.com/favicon.ico",
+    "description": "Get caught up right here, right now. Find out what's happening, then get back to it. That's The Poast"
+  };
+
   return (
     <html lang="en">
       <head>
@@ -50,6 +60,12 @@ export default function App() {
           media="(prefers-color-scheme: dark)"
         />
         <Links />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(schemaData),
+          }}
+        />
       </head>
       <body>
         <Outlet />

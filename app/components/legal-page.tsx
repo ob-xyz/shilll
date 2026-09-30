@@ -1,6 +1,6 @@
 import { Link } from "@remix-run/react";
 import { useEffect, useState, type ReactNode } from "react";
-import logo from "~/../public/img/ja.png";
+import logo from "~/../public/img/tp.png";
 
 type TocItem = { id: string; label: string };
 
@@ -36,7 +36,7 @@ export default function LegalPage({
           <img src={logo} alt="The Poast" loading="lazy" decoding="async" />
         </Link>
         <Link to="/subscribe" className="sticky-subscribe">
-          Sign Up
+          Subscribe
         </Link>
       </div>
 
