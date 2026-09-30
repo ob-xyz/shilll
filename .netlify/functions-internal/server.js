@@ -78,8 +78,8 @@ var import_jsx_dev_runtime2 = require("react/jsx-dev-runtime"), links = () => [
   }
 ], meta = () => ({
   charset: "utf-8",
-  title: "Shilll",
-  description: "Get caught up right here, right now. Find out what's happening, then get back to it. That's The Poast.",
+  title: "shilll",
+  description: "Always something new.",
   viewport: "width=device-width,initial-scale=1"
 });
 function App() {
@@ -140,11 +140,11 @@ function App() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              name: "The Poast",
-              alternateName: ["ThePoast", "The Poast Newsletter", "thepoast.com", "the poast feed"],
+              name: "shilll",
+              alternateName: ["Shilll", "shilll Newsletter", "shilll.com", "shilll feed"],
               url: "https://thepoast.com",
               logo: "https://thepoast.com/favicon.ico",
-              description: "Get caught up right here, right now. Find out what's happening, then get back to it. That's The Poast"
+              description: "Always something new."
             })
           }
         },
@@ -772,7 +772,7 @@ var showscroll_default = "/build/_assets/showscroll-FNF7IES6.css";
 var import_react3 = require("@remix-run/react"), import_react4 = require("react");
 
 // public/img/tp.png
-var tp_default = "/build/_assets/tp-AMW7IQ4E.png";
+var tp_default = "/build/_assets/tp-FDGY57NX.png";
 
 // app/components/legal-page.tsx
 var import_jsx_dev_runtime3 = require("react/jsx-dev-runtime");
@@ -788,7 +788,7 @@ function LegalPage({
     return handleScroll(), window.addEventListener("scroll", handleScroll, { passive: !0 }), () => window.removeEventListener("scroll", handleScroll);
   }, []), /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: "content-privacy", id: "top-of-page", children: [
     /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("div", { className: `sticky-nav${showStickyNav ? " visible" : ""}`, children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)(import_react3.Link, { className: "sticky-logo", to: "/", "aria-label": "The Poast home", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: tp_default, alt: "The Poast", loading: "lazy", decoding: "async" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)(import_react3.Link, { className: "sticky-logo", to: "/", "aria-label": "shilll home", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: tp_default, alt: "shilll", loading: "lazy", decoding: "async" }, void 0, !1, {
         fileName: "app/components/legal-page.tsx",
         lineNumber: 36,
         columnNumber: 11
@@ -807,7 +807,7 @@ function LegalPage({
       lineNumber: 34,
       columnNumber: 7
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)(import_react3.Link, { to: "/", className: "logo", "aria-label": "The Poast home", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: tp_default, alt: "The Poast Logo" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)(import_react3.Link, { to: "/", className: "logo", "aria-label": "shilll home", children: /* @__PURE__ */ (0, import_jsx_dev_runtime3.jsxDEV)("img", { src: tp_default, alt: "shilll Logo" }, void 0, !1, {
       fileName: "app/components/legal-page.tsx",
       lineNumber: 44,
       columnNumber: 9
@@ -885,8 +885,8 @@ function LegalPage({
 var import_jsx_dev_runtime4 = require("react/jsx-dev-runtime"), links2 = () => [
   { rel: "stylesheet", href: showscroll_default }
 ], meta2 = () => ({
-  title: "Privacy Policy |: The Poast",
-  description: "How The Poast collects, uses, and protects your information, and the choices you have."
+  title: "Privacy Policy |: shilll",
+  description: "How shilll collects, uses, and protects your information, and the choices you have."
 }), toc = [
   { id: "about", label: "About this Policy and us" },
   { id: "collect", label: "Information we collect" },
@@ -894,13 +894,13 @@ var import_jsx_dev_runtime4 = require("react/jsx-dev-runtime"), links2 = () => [
 ];
 function Privacy() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)(LegalPage, { title: "Privacy Policy", effective: "April 5, 2025", toc, children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("p", { id: "top-of-page", children: "The Poast respects your privacy and values your trust. This Privacy Policy (\u201CPolicy\u201D) describes how we collect and use your information and explains your rights and options. This Policy applies to these services (which we call the \u201CServices\u201D in this Policy):" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("p", { id: "top-of-page", children: "shilll respects your privacy and values your trust. This Privacy Policy (\u201CPolicy\u201D) describes how we collect and use your information and explains your rights and options. This Policy applies to these services (which we call the \u201CServices\u201D in this Policy):" }, void 0, !1, {
       fileName: "app/routes/policies/privacy.tsx",
       lineNumber: 24,
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("ul", { children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("li", { children: "websites, The Poast Store, paid products" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("li", { children: "websites, shilll Store, paid products" }, void 0, !1, {
         fileName: "app/routes/policies/privacy.tsx",
         lineNumber: 31,
         columnNumber: 9
@@ -964,7 +964,7 @@ function Privacy() {
     /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("p", { children: [
       "We encourage you to read this Policy carefully. If you have questions, please contact us at",
       " ",
-      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
         fileName: "app/routes/policies/privacy.tsx",
         lineNumber: 49,
         columnNumber: 9
@@ -985,7 +985,7 @@ function Privacy() {
       lineNumber: 55,
       columnNumber: 7
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("p", { children: "The Poast, Inc. (\u201CThe Poast,\u201D \u201Cwe\u201D, \u201Cour\u201D or \u201Cus\u201D) operates the Services. This Policy supplements and is governed by our Terms of Service (\u201CTerms\u201D). Capitalized terms used but not defined in this Policy are defined in our Terms. The Terms describe how the Services work in general and its conditions and requirements of use." }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("p", { children: "shilll, Inc. (\u201Cshilll,\u201D \u201Cwe\u201D, \u201Cour\u201D or \u201Cus\u201D) operates the Services. This Policy supplements and is governed by our Terms of Service (\u201CTerms\u201D). Capitalized terms used but not defined in this Policy are defined in our Terms. The Terms describe how the Services work in general and its conditions and requirements of use." }, void 0, !1, {
       fileName: "app/routes/policies/privacy.tsx",
       lineNumber: 56,
       columnNumber: 7
@@ -1024,7 +1024,7 @@ function Privacy() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("li", { children: [
         "If you are a current or former employee or contractor of ours, this Policy does not apply to you. You may contact us about your privacy practices and rights at",
         " ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
           fileName: "app/routes/policies/privacy.tsx",
           lineNumber: 89,
           columnNumber: 11
@@ -1098,7 +1098,7 @@ function Privacy() {
     /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("p", { children: [
       "If those sections apply to you, they override any contrary descriptions elsewhere in the Policy as they relate to you. Please contact us at",
       " ",
-      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
         fileName: "app/routes/policies/privacy.tsx",
         lineNumber: 120,
         columnNumber: 9
@@ -1186,7 +1186,7 @@ function Privacy() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("ul", { children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("li", { children: "\u201CCommercial Information\u201D about your orders of Offerings or other products or services from us and interactions with The Poast Store products." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("li", { children: "\u201CCommercial Information\u201D about your orders of Offerings or other products or services from us and interactions with shilll Store products." }, void 0, !1, {
         fileName: "app/routes/policies/privacy.tsx",
         lineNumber: 161,
         columnNumber: 9
@@ -1534,7 +1534,7 @@ function Privacy() {
         }, this),
         ": From time to time, we may ask for your consent to collect specific information, such as your precise geolocation, or use your information for certain specific reasons, like providing your email address or phone number for direct marketing purposes, or for the use of certain types of cookies for personalized advertising. In general, you may withdraw your consent by changing your settings (such as browser or device settings) or following instructions provided with information we send you on a consent basis (such as clicking \u2018unsubscribe\u2019 in any email we send you). You may always withdraw your consent at any time \u2013 just contact us at",
         " ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime4.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
           fileName: "app/routes/policies/privacy.tsx",
           lineNumber: 285,
           columnNumber: 11
@@ -1628,8 +1628,8 @@ __export(terms_exports, {
 var import_jsx_dev_runtime5 = require("react/jsx-dev-runtime"), links3 = () => [
   { rel: "stylesheet", href: showscroll_default }
 ], meta3 = () => ({
-  title: "Terms and Conditions : The Poast",
-  description: "The terms that govern your use of The Poast websites, newsletters, and products."
+  title: "Terms and Conditions : shilll",
+  description: "The terms that govern your use of shilll websites, newsletters, and products."
 }), toc2 = [
   { id: "about", label: "About this Policy and us" },
   { id: "collect", label: "Information we collect" },
@@ -1637,13 +1637,13 @@ var import_jsx_dev_runtime5 = require("react/jsx-dev-runtime"), links3 = () => [
 ];
 function Terms() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)(LegalPage, { title: "Terms and Conditions", effective: "April 5, 2025", toc: toc2, children: [
-    /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: "The Poast respects your privacy and values your trust. This Privacy Policy (\u201CPolicy\u201D) describes how we collect and use your information and explains your rights and options. This Policy applies to these services (which we call the \u201CServices\u201D in this Policy):" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: "shilll respects your privacy and values your trust. This Privacy Policy (\u201CPolicy\u201D) describes how we collect and use your information and explains your rights and options. This Policy applies to these services (which we call the \u201CServices\u201D in this Policy):" }, void 0, !1, {
       fileName: "app/routes/policies/terms.tsx",
       lineNumber: 24,
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("ul", { children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("li", { children: "websites, The Poast Store, paid products" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("li", { children: "websites, shilll Store, paid products" }, void 0, !1, {
         fileName: "app/routes/policies/terms.tsx",
         lineNumber: 31,
         columnNumber: 9
@@ -1707,7 +1707,7 @@ function Terms() {
     /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: [
       "We encourage you to read this Policy carefully. If you have questions, please contact us at",
       " ",
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
         fileName: "app/routes/policies/terms.tsx",
         lineNumber: 49,
         columnNumber: 9
@@ -1728,7 +1728,7 @@ function Terms() {
       lineNumber: 55,
       columnNumber: 7
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: "The Poast, Inc. (\u201CThe Poast,\u201D \u201Cwe\u201D, \u201Cour\u201D or \u201Cus\u201D) operates the Services. This Policy supplements and is governed by our Terms of Service (\u201CTerms\u201D). Capitalized terms used but not defined in this Policy are defined in our Terms. The Terms describe how the Services work in general and its conditions and requirements of use." }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: "shilll, Inc. (\u201Cshilll,\u201D \u201Cwe\u201D, \u201Cour\u201D or \u201Cus\u201D) operates the Services. This Policy supplements and is governed by our Terms of Service (\u201CTerms\u201D). Capitalized terms used but not defined in this Policy are defined in our Terms. The Terms describe how the Services work in general and its conditions and requirements of use." }, void 0, !1, {
       fileName: "app/routes/policies/terms.tsx",
       lineNumber: 56,
       columnNumber: 7
@@ -1767,7 +1767,7 @@ function Terms() {
       /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("li", { children: [
         "If you are a current or former employee or contractor of ours, this Policy does not apply to you. You may contact us about your privacy practices and rights at",
         " ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
           fileName: "app/routes/policies/terms.tsx",
           lineNumber: 89,
           columnNumber: 11
@@ -1841,7 +1841,7 @@ function Terms() {
     /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: [
       "If those sections apply to you, they override any contrary descriptions elsewhere in the Policy as they relate to you. Please contact us at",
       " ",
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
         fileName: "app/routes/policies/terms.tsx",
         lineNumber: 120,
         columnNumber: 9
@@ -1929,7 +1929,7 @@ function Terms() {
       columnNumber: 7
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("ul", { children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("li", { children: "\u201CCommercial Information\u201D about your orders of Offerings or other products or services from us and interactions with The Poast Store products." }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("li", { children: "\u201CCommercial Information\u201D about your orders of Offerings or other products or services from us and interactions with shilll Store products." }, void 0, !1, {
         fileName: "app/routes/policies/terms.tsx",
         lineNumber: 161,
         columnNumber: 9
@@ -2277,7 +2277,7 @@ function Terms() {
         }, this),
         ": From time to time, we may ask for your consent to collect specific information, such as your precise geolocation, or use your information for certain specific reasons, like providing your email address or phone number for direct marketing purposes, or for the use of certain types of cookies for personalized advertising. In general, you may withdraw your consent by changing your settings (such as browser or device settings) or following instructions provided with information we send you on a consent basis (such as clicking \u2018unsubscribe\u2019 in any email we send you). You may always withdraw your consent at any time \u2013 just contact us at",
         " ",
-        /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+        /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
           fileName: "app/routes/policies/terms.tsx",
           lineNumber: 285,
           columnNumber: 11
@@ -2296,7 +2296,7 @@ function Terms() {
     /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("p", { children: [
       "Questions about these terms? Contact us at",
       " ",
-      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@thepoast.com", children: "privacyrequest@thepoast.com" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime5.jsxDEV)("a", { href: "mailto:privacyrequest@shilll.com", children: "privacyrequest@shilll.com" }, void 0, !1, {
         fileName: "app/routes/policies/terms.tsx",
         lineNumber: 291,
         columnNumber: 9
@@ -2575,7 +2575,7 @@ function TopBar() {
           "img",
           {
             src: "/img/tp.png",
-            alt: "The Poast",
+            alt: "shilll",
             loading: "eager",
             decoding: "async"
           },
@@ -2742,7 +2742,7 @@ function FeedDetail() {
             action: "https://app.thepoast.com/subscription/form",
             className: "feed-subscribe-form",
             children: [
-              /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Get The Poast for free" }, void 0, !1, {
+              /* @__PURE__ */ (0, import_jsx_dev_runtime8.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Get shilll for free" }, void 0, !1, {
                 fileName: "app/routes/feeds.$id.tsx",
                 lineNumber: 222,
                 columnNumber: 11
@@ -2896,15 +2896,10 @@ var import_jsx_dev_runtime9 = require("react/jsx-dev-runtime"), links5 = () => [
     rel: "stylesheet",
     href: subscribe_default
   }
-], meta4 = () => [
-  {
-    title: "Subscribe : The Poast"
-  },
-  {
-    name: "description",
-    content: "Get caught up right here, right now."
-  }
-];
+], meta4 = () => ({
+  title: "Subscribe : shilll",
+  description: "Always something new."
+});
 function Subscribe() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("div", { className: "subscribe-page", children: /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("main", { className: "subscribe-card", children: [
     /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)(
@@ -2912,19 +2907,19 @@ function Subscribe() {
       {
         to: "/",
         className: "subscribe-logo",
-        "aria-label": "The Poast home",
+        "aria-label": "shilll home",
         children: /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)(
           "img",
           {
-            src: tp_default,
-            alt: "The Poast",
+            src: "/img/tp.png",
+            alt: "shilll",
             decoding: "async"
           },
           void 0,
           !1,
           {
             fileName: "app/routes/subscribe.tsx",
-            lineNumber: 38,
+            lineNumber: 30,
             columnNumber: 11
           },
           this
@@ -2934,19 +2929,19 @@ function Subscribe() {
       !1,
       {
         fileName: "app/routes/subscribe.tsx",
-        lineNumber: 33,
+        lineNumber: 25,
         columnNumber: 9
       },
       this
     ),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("h1", { className: "subscribe-title", children: "Get The Poast for free" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("h1", { className: "subscribe-title", children: "Sign up to shilll for free" }, void 0, !1, {
       fileName: "app/routes/subscribe.tsx",
-      lineNumber: 45,
+      lineNumber: 37,
       columnNumber: 9
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("p", { className: "subscribe-sub", children: "Get caught up right here, right now." }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("p", { className: "subscribe-sub", children: "Always something new." }, void 0, !1, {
       fileName: "app/routes/subscribe.tsx",
-      lineNumber: 49,
+      lineNumber: 41,
       columnNumber: 9
     }, this),
     /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)(
@@ -2968,7 +2963,7 @@ function Subscribe() {
               !1,
               {
                 fileName: "app/routes/subscribe.tsx",
-                lineNumber: 59,
+                lineNumber: 51,
                 columnNumber: 13
               },
               this
@@ -2989,7 +2984,7 @@ function Subscribe() {
               !1,
               {
                 fileName: "app/routes/subscribe.tsx",
-                lineNumber: 66,
+                lineNumber: 58,
                 columnNumber: 13
               },
               this
@@ -3005,23 +3000,23 @@ function Subscribe() {
               !1,
               {
                 fileName: "app/routes/subscribe.tsx",
-                lineNumber: 77,
+                lineNumber: 69,
                 columnNumber: 13
               },
               this
             )
           ] }, void 0, !0, {
             fileName: "app/routes/subscribe.tsx",
-            lineNumber: 58,
+            lineNumber: 50,
             columnNumber: 11
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)("div", { className: "subscribe-altcha", children: /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)(AltchaWrapper, {}, void 0, !1, {
             fileName: "app/routes/subscribe.tsx",
-            lineNumber: 86,
+            lineNumber: 78,
             columnNumber: 13
           }, this) }, void 0, !1, {
             fileName: "app/routes/subscribe.tsx",
-            lineNumber: 85,
+            lineNumber: 77,
             columnNumber: 11
           }, this),
           /* @__PURE__ */ (0, import_jsx_dev_runtime9.jsxDEV)(
@@ -3036,7 +3031,7 @@ function Subscribe() {
             !1,
             {
               fileName: "app/routes/subscribe.tsx",
-              lineNumber: 89,
+              lineNumber: 81,
               columnNumber: 11
             },
             this
@@ -3051,7 +3046,7 @@ function Subscribe() {
             !1,
             {
               fileName: "app/routes/subscribe.tsx",
-              lineNumber: 96,
+              lineNumber: 88,
               columnNumber: 11
             },
             this
@@ -3070,7 +3065,7 @@ function Subscribe() {
               !1,
               {
                 fileName: "app/routes/subscribe.tsx",
-                lineNumber: 103,
+                lineNumber: 95,
                 columnNumber: 13
               },
               this
@@ -3089,7 +3084,7 @@ function Subscribe() {
               !1,
               {
                 fileName: "app/routes/subscribe.tsx",
-                lineNumber: 110,
+                lineNumber: 102,
                 columnNumber: 13
               },
               this
@@ -3097,7 +3092,7 @@ function Subscribe() {
             "."
           ] }, void 0, !0, {
             fileName: "app/routes/subscribe.tsx",
-            lineNumber: 101,
+            lineNumber: 93,
             columnNumber: 11
           }, this)
         ]
@@ -3106,7 +3101,7 @@ function Subscribe() {
       !0,
       {
         fileName: "app/routes/subscribe.tsx",
-        lineNumber: 53,
+        lineNumber: 45,
         columnNumber: 9
       },
       this
@@ -3122,18 +3117,18 @@ function Subscribe() {
       !1,
       {
         fileName: "app/routes/subscribe.tsx",
-        lineNumber: 120,
+        lineNumber: 112,
         columnNumber: 9
       },
       this
     )
   ] }, void 0, !0, {
     fileName: "app/routes/subscribe.tsx",
-    lineNumber: 32,
+    lineNumber: 24,
     columnNumber: 7
   }, this) }, void 0, !1, {
     fileName: "app/routes/subscribe.tsx",
-    lineNumber: 31,
+    lineNumber: 23,
     columnNumber: 5
   }, this);
 }
@@ -3153,7 +3148,7 @@ var import_jsx_dev_runtime10 = require("react/jsx-dev-runtime");
 function Confirm() {
   return /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("div", { className: "container", children: /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("div", { className: "header", children: [
     /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("div", { className: "nav", children: [
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react9.Link, { to: "/", className: "logo", children: /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("img", { src: tp_default, alt: "The Poast Logo" }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)(import_react9.Link, { to: "/", className: "logo", children: /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("img", { src: tp_default, alt: "shilll Logo" }, void 0, !1, {
         fileName: "app/routes/confirm.tsx",
         lineNumber: 12,
         columnNumber: 9
@@ -3177,7 +3172,7 @@ function Confirm() {
       lineNumber: 16,
       columnNumber: 9
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("h1", { style: { fontSize: 30, textAlign: "center" }, children: "Welcome back to The Poast" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("h1", { style: { fontSize: 30, textAlign: "center" }, children: "Welcome back to shilll" }, void 0, !1, {
       fileName: "app/routes/confirm.tsx",
       lineNumber: 17,
       columnNumber: 9
@@ -3217,7 +3212,7 @@ function Confirm() {
         lineNumber: 20,
         columnNumber: 57
       }, this),
-      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("em", { children: `P.S. If you don't receive an email, please check your spam or promotions folder and "move us" to your primary inbox to ensure you get The Poast each day.` }, void 0, !1, {
+      /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("em", { children: `P.S. If you don't receive an email, please check your spam or promotions folder and "move us" to your primary inbox to ensure you get shilll each day.` }, void 0, !1, {
         fileName: "app/routes/confirm.tsx",
         lineNumber: 20,
         columnNumber: 63
@@ -3245,33 +3240,33 @@ function Confirm() {
         lineNumber: 22,
         columnNumber: 57
       }, this),
-      "\u2014The Poast",
+      "\u2014shilll",
       /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
         fileName: "app/routes/confirm.tsx",
         lineNumber: 22,
-        columnNumber: 73
+        columnNumber: 70
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
         fileName: "app/routes/confirm.tsx",
         lineNumber: 22,
-        columnNumber: 79
+        columnNumber: 76
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
         fileName: "app/routes/confirm.tsx",
         lineNumber: 22,
-        columnNumber: 85
+        columnNumber: 82
       }, this),
       /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("br", {}, void 0, !1, {
         fileName: "app/routes/confirm.tsx",
         lineNumber: 22,
-        columnNumber: 91
+        columnNumber: 88
       }, this)
     ] }, void 0, !0, {
       fileName: "app/routes/confirm.tsx",
       lineNumber: 22,
       columnNumber: 9
     }, this),
-    /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("img", { className: "headerimg", src: ja6_default, alt: "The Poast" }, void 0, !1, {
+    /* @__PURE__ */ (0, import_jsx_dev_runtime10.jsxDEV)("img", { className: "headerimg", src: ja6_default, alt: "shilll" }, void 0, !1, {
       fileName: "app/routes/confirm.tsx",
       lineNumber: 23,
       columnNumber: 9
@@ -3335,7 +3330,7 @@ async function loader4() {
     let id = String(campaign.id), date = getCampaignDate(campaign) || (/* @__PURE__ */ new Date()).toISOString();
     return {
       id,
-      subject: campaign.subject || "The Poast",
+      subject: campaign.subject || "shilll",
       date,
       dateLabel: formatDateLabel(date)
     };
@@ -3602,7 +3597,7 @@ function Feeds() {
             "img",
             {
               src: "/img/tp.png",
-              alt: "The Poast",
+              alt: "shilll",
               loading: "eager",
               decoding: "async"
             },
@@ -3683,7 +3678,7 @@ function Feeds() {
             action: "https://app.thepoast.com/subscription/form",
             className: "feed-subscribe-form",
             children: [
-              /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Get The Poast for free" }, void 0, !1, {
+              /* @__PURE__ */ (0, import_jsx_dev_runtime11.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Sign up to shilll for free" }, void 0, !1, {
                 fileName: "app/routes/feeds.tsx",
                 lineNumber: 516,
                 columnNumber: 11
@@ -3847,7 +3842,7 @@ function Index() {
         "img",
         {
           src: "/img/tp.png",
-          alt: "The Poast",
+          alt: "shilll",
           loading: "eager",
           decoding: "async"
         },
@@ -3912,7 +3907,7 @@ function Index() {
             action: "https://app.thepoast.com/subscription/form",
             className: "feed-subscribe-form",
             children: [
-              /* @__PURE__ */ (0, import_jsx_dev_runtime12.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Get The Poast for free" }, void 0, !1, {
+              /* @__PURE__ */ (0, import_jsx_dev_runtime12.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Sign up to shilll for free" }, void 0, !1, {
                 fileName: "app/routes/index.tsx",
                 lineNumber: 67,
                 columnNumber: 11
@@ -4091,7 +4086,7 @@ async function loader5() {
     FEED_LIMIT3
   ).map((campaign) => ({
     id: String(campaign.id),
-    subject: campaign.subject || "The Poast",
+    subject: campaign.subject || "shilll",
     date: getCampaignDate(campaign) || (/* @__PURE__ */ new Date()).toISOString()
   }));
   feeds.length > 0 && warmLeadStories(feeds.map((feed) => feed.id));
@@ -4370,7 +4365,7 @@ function Today() {
             "img",
             {
               src: "/img/tp.png",
-              alt: "The Poast",
+              alt: "shilll",
               loading: "eager",
               decoding: "async"
             },
@@ -4452,7 +4447,7 @@ function Today() {
             action: "https://app.thepoast.com/subscription/form",
             className: "feed-subscribe-form",
             children: [
-              /* @__PURE__ */ (0, import_jsx_dev_runtime13.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Get The Poast for free" }, void 0, !1, {
+              /* @__PURE__ */ (0, import_jsx_dev_runtime13.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Sign up to shilll for free" }, void 0, !1, {
                 fileName: "app/routes/today.tsx",
                 lineNumber: 462,
                 columnNumber: 11
@@ -4609,7 +4604,7 @@ async function loader6() {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>The Poast</title>
+<title>shilll</title>
 <style>
 html,
 body {
@@ -4629,7 +4624,7 @@ body {
 </style>
 </head>
 <body>
-<p>The Poast is loading. Please refresh shortly.</p>
+<p>shilll is loading. Please refresh shortly.</p>
 </body>
 </html>`,
     {
@@ -4691,7 +4686,7 @@ function NotFound() {
             "img",
             {
               src: "/img/tp.png",
-              alt: "The Poast",
+              alt: "shilll",
               loading: "eager",
               decoding: "async"
             },
@@ -4773,7 +4768,7 @@ function NotFound() {
             action: "https://app.thepoast.com/subscription/form",
             className: "feed-subscribe-form",
             children: [
-              /* @__PURE__ */ (0, import_jsx_dev_runtime14.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Get The Poast for free" }, void 0, !1, {
+              /* @__PURE__ */ (0, import_jsx_dev_runtime14.jsxDEV)("p", { className: "feed-subscribe-heading", children: "Sign up to shilll for free" }, void 0, !1, {
                 fileName: "app/routes/$.tsx",
                 lineNumber: 82,
                 columnNumber: 11
@@ -4912,10 +4907,10 @@ function NotFound() {
 }
 
 // server-assets-manifest:@remix-run/dev/assets-manifest
-var assets_manifest_default = { entry: { module: "/build/entry.client-7QPJYKWG.js", imports: ["/build/_shared/chunk-MG463TXR.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-YKBZ3LWJ.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-5KM55X2G.js", imports: ["/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/confirm": { id: "routes/confirm", parentId: "root", path: "confirm", index: void 0, caseSensitive: void 0, module: "/build/routes/confirm-K6SDVPDP.js", imports: ["/build/_shared/chunk-3YPO5SKL.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/feeds": { id: "routes/feeds", parentId: "root", path: "feeds", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds-SRZXSVUR.js", imports: ["/build/_shared/chunk-5EH6EQBH.js", "/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/feeds.$id": { id: "routes/feeds.$id", parentId: "root", path: "feeds/:id", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds.$id-L6CRXYGQ.js", imports: ["/build/_shared/chunk-5EH6EQBH.js", "/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !0 }, "routes/feeds.full.$id": { id: "routes/feeds.full.$id", parentId: "root", path: "feeds/full/:id", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds.full.$id-PPNRNRLN.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/feeds.preview.$id": { id: "routes/feeds.preview.$id", parentId: "root", path: "feeds/preview/:id", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds.preview.$id-TSSBU4VE.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-TA3MG6PJ.js", imports: ["/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/live": { id: "routes/live", parentId: "root", path: "live", index: void 0, caseSensitive: void 0, module: "/build/routes/live-Q6E2GHNA.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-YVQKJPPY.js", imports: ["/build/_shared/chunk-CQPJTLHL.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3YPO5SKL.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-3C647DNU.js", imports: ["/build/_shared/chunk-CQPJTLHL.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3YPO5SKL.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/subscribe": { id: "routes/subscribe", parentId: "root", path: "subscribe", index: void 0, caseSensitive: void 0, module: "/build/routes/subscribe-TBYEVSS5.js", imports: ["/build/_shared/chunk-3YPO5SKL.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/today": { id: "routes/today", parentId: "root", path: "today", index: void 0, caseSensitive: void 0, module: "/build/routes/today-P2YMRO5H.js", imports: ["/build/_shared/chunk-5EH6EQBH.js", "/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "3b725a30", hmr: void 0, url: "/build/manifest-3B725A30.js" };
+var assets_manifest_default = { entry: { module: "/build/entry.client-7QPJYKWG.js", imports: ["/build/_shared/chunk-MG463TXR.js", "/build/_shared/chunk-IU43IUTG.js"] }, routes: { root: { id: "root", parentId: void 0, path: "", index: void 0, caseSensitive: void 0, module: "/build/root-YQKBIZA3.js", imports: void 0, hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/$": { id: "routes/$", parentId: "root", path: "*", index: void 0, caseSensitive: void 0, module: "/build/routes/$-EKDRMU2C.js", imports: ["/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/confirm": { id: "routes/confirm", parentId: "root", path: "confirm", index: void 0, caseSensitive: void 0, module: "/build/routes/confirm-ERXSK6EM.js", imports: ["/build/_shared/chunk-AXJD4QFQ.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/feeds": { id: "routes/feeds", parentId: "root", path: "feeds", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds-BPMEU5EH.js", imports: ["/build/_shared/chunk-5EH6EQBH.js", "/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/feeds.$id": { id: "routes/feeds.$id", parentId: "root", path: "feeds/:id", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds.$id-SDIO7H26.js", imports: ["/build/_shared/chunk-5EH6EQBH.js", "/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !0 }, "routes/feeds.full.$id": { id: "routes/feeds.full.$id", parentId: "root", path: "feeds/full/:id", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds.full.$id-PPNRNRLN.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/feeds.preview.$id": { id: "routes/feeds.preview.$id", parentId: "root", path: "feeds/preview/:id", index: void 0, caseSensitive: void 0, module: "/build/routes/feeds.preview.$id-TSSBU4VE.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/index": { id: "routes/index", parentId: "root", path: void 0, index: !0, caseSensitive: void 0, module: "/build/routes/index-S5GIHUEJ.js", imports: ["/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-MG3UHPBD.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/live": { id: "routes/live", parentId: "root", path: "live", index: void 0, caseSensitive: void 0, module: "/build/routes/live-Q6E2GHNA.js", imports: void 0, hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/privacy": { id: "routes/policies/privacy", parentId: "root", path: "policies/privacy", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/privacy-FRJCWUSO.js", imports: ["/build/_shared/chunk-VBKSVIQB.js", "/build/_shared/chunk-AXJD4QFQ.js", "/build/_shared/chunk-MG3UHPBD.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/policies/terms": { id: "routes/policies/terms", parentId: "root", path: "policies/terms", index: void 0, caseSensitive: void 0, module: "/build/routes/policies/terms-PNSOW3MH.js", imports: ["/build/_shared/chunk-VBKSVIQB.js", "/build/_shared/chunk-AXJD4QFQ.js", "/build/_shared/chunk-MG3UHPBD.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/subscribe": { id: "routes/subscribe", parentId: "root", path: "subscribe", index: void 0, caseSensitive: void 0, module: "/build/routes/subscribe-PM5J2CDV.js", imports: ["/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !1, hasCatchBoundary: !1, hasErrorBoundary: !1 }, "routes/today": { id: "routes/today", parentId: "root", path: "today", index: void 0, caseSensitive: void 0, module: "/build/routes/today-7NJ4AWOD.js", imports: ["/build/_shared/chunk-5EH6EQBH.js", "/build/_shared/chunk-C6SCHI7A.js", "/build/_shared/chunk-3QGVQ3TW.js"], hasAction: !1, hasLoader: !0, hasCatchBoundary: !1, hasErrorBoundary: !1 } }, version: "4bb9f0aa", hmr: void 0, url: "/build/manifest-4BB9F0AA.js" };
 
 // server-entry-module:@remix-run/dev/server-build
-var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !1, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
+var assetsBuildDirectory = "public/build", future = { v2_dev: !1, unstable_postcss: !1, unstable_tailwind: !1, v2_errorBoundary: !1, v2_headers: !1, v2_meta: !0, v2_normalizeFormMethod: !1, v2_routeConvention: !1 }, publicPath = "/build/", entry = { module: entry_server_exports }, routes = {
   root: {
     id: "root",
     parentId: void 0,

@@ -125,7 +125,7 @@ function TopBar() {
       >
         <img
           src="/img/tp.png"
-          alt="The Poast"
+          alt="shilll"
           loading="eager"
           decoding="async"
         />
@@ -220,7 +220,7 @@ export default function FeedDetail() {
           className="feed-subscribe-form"
         >
           <p className="feed-subscribe-heading">
-            Get The Poast for free
+            Get shilll for free
           </p>
 
           <div className="feed-input-bar">

@@ -13,7 +13,7 @@ export async function loader() {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>The Poast</title>
+<title>shilll</title>
 <style>
 html,
 body {
@@ -33,7 +33,7 @@ body {
 </style>
 </head>
 <body>
-<p>The Poast is loading. Please refresh shortly.</p>
+<p>shilll is loading. Please refresh shortly.</p>
 </body>
 </html>`,
       {

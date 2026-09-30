@@ -85,7 +85,7 @@ export async function loader() {
    */
   const feeds: Feed[] = daily.map((campaign) => ({
     id: String(campaign.id),
-    subject: campaign.subject || "The Poast",
+    subject: campaign.subject || "shilll",
     date:
       getCampaignDate(campaign) ||
       new Date().toISOString(),
@@ -417,7 +417,7 @@ export default function Today() {
         >
           <img
             src="/img/tp.png"
-            alt="The Poast"
+            alt="shilll"
             loading="eager"
             decoding="async"
           />
@@ -460,7 +460,7 @@ export default function Today() {
           className="feed-subscribe-form"
         >
           <p className="feed-subscribe-heading">
-            Get The Poast for free
+            Sign up to shilll for free
           </p>
 
           <div className="feed-input-bar">

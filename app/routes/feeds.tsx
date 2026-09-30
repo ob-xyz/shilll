@@ -96,7 +96,7 @@ export async function loader() {
     return {
       id,
       subject:
-        campaign.subject || "The Poast",
+        campaign.subject || "shilll",
       date,
       dateLabel: formatDateLabel(date),
     };
@@ -470,7 +470,7 @@ export default function Feeds() {
         >
           <img
             src="/img/tp.png"
-            alt="The Poast"
+            alt="shilll"
             loading="eager"
             decoding="async"
           />
@@ -514,7 +514,7 @@ export default function Feeds() {
           className="feed-subscribe-form"
         >
           <p className="feed-subscribe-heading">
-            Get The Poast for free
+            Sign up to shilll for free
           </p>
 
           <div className="feed-input-bar">

@@ -32,16 +32,16 @@ export default function LegalPage({
     <div className="content-privacy" id="top-of-page">
       {/* STICKY SUBSCRIBE NAV */}
       <div className={`sticky-nav${showStickyNav ? " visible" : ""}`}>
-        <Link className="sticky-logo" to="/" aria-label="The Poast home">
-          <img src={logo} alt="The Poast" loading="lazy" decoding="async" />
+        <Link className="sticky-logo" to="/" aria-label="shilll home">
+          <img src={logo} alt="shilll" loading="lazy" decoding="async" />
         </Link>
         <Link to="/subscribe" className="sticky-subscribe">
           Subscribe
         </Link>
       </div>
 
-      <Link to="/" className="logo" aria-label="The Poast home">
-        <img src={logo} alt="The Poast Logo" />
+      <Link to="/" className="logo" aria-label="shilll home">
+        <img src={logo} alt="shilll Logo" />
       </Link>
 
       <main className="content-privacy2">

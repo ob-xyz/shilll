@@ -32,7 +32,7 @@ export default function Index() {
         <Link className="feed-mark" to="/">
           <img
             src="/img/tp.png"
-            alt="The Poast"
+            alt="shilll"
             loading="eager"
             decoding="async"
           />
@@ -65,7 +65,7 @@ export default function Index() {
           className="feed-subscribe-form"
         >
           <p className="feed-subscribe-heading">
-            Get The Poast for free
+            Sign up to shilll for free
           </p>
 
           <div className="feed-input-bar">
